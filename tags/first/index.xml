@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>first on MMOX</title>
-    <link>http://mmox.ml/tags/first/</link>
+    <link>https://0xMM0X.github.io/tags/first/</link>
     <description>Recent content in first on MMOX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="http://mmox.ml/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://0xMM0X.github.io/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My 1st post</title>
-      <link>http://mmox.ml/posts/dfir/test/</link>
+      <link>https://0xMM0X.github.io/posts/dfir/test/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>http://mmox.ml/posts/dfir/test/</guid>
+      <guid>https://0xMM0X.github.io/posts/dfir/test/</guid>
       <description></description>
     </item>
     
