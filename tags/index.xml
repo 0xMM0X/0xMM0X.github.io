@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on MMOX</title>
-    <link>https://0xMM0X.github.io/tags/</link>
+    <link>https://mmox.me/tags/</link>
     <description>Recent content in Tags on MMOX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://0xMM0X.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>first</title>
-      <link>https://0xMM0X.github.io/tags/first/</link>
+      <link>https://mmox.me/tags/first/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://0xMM0X.github.io/tags/first/</guid>
+      <guid>https://mmox.me/tags/first/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>https://0xMM0X.github.io/tags/css/</link>
+      <link>https://mmox.me/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://0xMM0X.github.io/tags/css/</guid>
+      <guid>https://mmox.me/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://0xMM0X.github.io/tags/html/</link>
+      <link>https://mmox.me/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://0xMM0X.github.io/tags/html/</guid>
+      <guid>https://mmox.me/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://0xMM0X.github.io/tags/markdown/</link>
+      <link>https://mmox.me/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://0xMM0X.github.io/tags/markdown/</guid>
+      <guid>https://mmox.me/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://0xMM0X.github.io/tags/themes/</link>
+      <link>https://mmox.me/tags/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://0xMM0X.github.io/tags/themes/</guid>
+      <guid>https://mmox.me/tags/themes/</guid>
       <description></description>
     </item>
     
