@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on MMOX</title>
-    <link>https://examplesite.com/tags/</link>
+    <link>http://mmox.ml/tags/</link>
     <description>Recent content in Tags on MMOX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://examplesite.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="http://mmox.ml/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>first</title>
-      <link>https://examplesite.com/tags/first/</link>
+      <link>http://mmox.ml/tags/first/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/first/</guid>
+      <guid>http://mmox.ml/tags/first/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>https://examplesite.com/tags/css/</link>
+      <link>http://mmox.ml/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/css/</guid>
+      <guid>http://mmox.ml/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://examplesite.com/tags/html/</link>
+      <link>http://mmox.ml/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/html/</guid>
+      <guid>http://mmox.ml/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://examplesite.com/tags/markdown/</link>
+      <link>http://mmox.ml/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/markdown/</guid>
+      <guid>http://mmox.ml/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://examplesite.com/tags/themes/</link>
+      <link>http://mmox.ml/tags/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/themes/</guid>
+      <guid>http://mmox.ml/tags/themes/</guid>
       <description></description>
     </item>
     

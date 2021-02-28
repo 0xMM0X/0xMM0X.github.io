@@ -3,81 +3,81 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>http://mmox.ml/categories/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/categories/dfir/</loc>
+    <loc>http://mmox.ml/categories/dfir/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/tags/first/</loc>
+    <loc>http://mmox.ml/tags/first/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/</loc>
+    <loc>http://mmox.ml/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/posts/dfir/test/</loc>
+    <loc>http://mmox.ml/posts/dfir/test/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/posts/</loc>
+    <loc>http://mmox.ml/posts/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>http://mmox.ml/tags/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/tags/css/</loc>
+    <loc>http://mmox.ml/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/tags/html/</loc>
+    <loc>http://mmox.ml/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/tags/markdown/</loc>
+    <loc>http://mmox.ml/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/posts/post/</loc>
+    <loc>http://mmox.ml/posts/post/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/categories/syntax/</loc>
+    <loc>http://mmox.ml/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/tags/themes/</loc>
+    <loc>http://mmox.ml/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/categories/themes/</loc>
+    <loc>http://mmox.ml/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://examplesite.com/archives/</loc>
+    <loc>http://mmox.ml/archives/</loc>
   </url>
   
   <url>
-    <loc>https://examplesite.com/archives/</loc>
+    <loc>http://mmox.ml/archives/</loc>
   </url>
   
 </urlset>
