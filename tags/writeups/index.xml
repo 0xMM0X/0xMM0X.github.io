@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Digital Forensics on MMOX</title>
-    <link>https://mmox.me/categories/digital-forensics/</link>
-    <description>Recent content in Digital Forensics on MMOX</description>
+    <title>Writeups on MMOX</title>
+    <link>https://mmox.me/tags/writeups/</link>
+    <description>Recent content in Writeups on MMOX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/categories/digital-forensics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/writeups/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wicsme 2020 Writeups</title>
       <link>https://mmox.me/posts/writeups/wicsme2020-writeups/</link>
