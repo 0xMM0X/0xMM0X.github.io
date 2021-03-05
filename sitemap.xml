@@ -18,27 +18,12 @@
   </url>
   
   <url>
-    <loc>https://mmox.me/categories/dfir/</loc>
-    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mmox.me/tags/digital-forensics/</loc>
     <lastmod>2019-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://mmox.me/categories/digital-forensics/</loc>
-    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mmox.me/tags/memlabs/</loc>
-    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mmox.me/posts/writeups/memlabs-lab1/</loc>
     <lastmod>2019-11-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -70,6 +55,18 @@
   <url>
     <loc>https://mmox.me/categories/writeups/</loc>
     <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmox.me/categories/dfir/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mmox.me/tags/memlabs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mmox.me/posts/writeups/memlabs-lab1/</loc>
   </url>
   
 </urlset>
