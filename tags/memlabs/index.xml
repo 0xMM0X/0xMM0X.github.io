@@ -4,11 +4,12 @@
     <title>MemLabs on MMOX</title>
     <link>https://mmox.me/tags/memlabs/</link>
     <description>Recent content in MemLabs on MMOX</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://mmox.me/tags/memlabs/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/memlabs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MemLabs Writeup - Lab 1 (Beginner&#39;s Luck - Easy) </title>
       <link>https://mmox.me/posts/writeups/memlabs-lab1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://mmox.me/posts/writeups/memlabs-lab1/</guid>
       <description>Lab Challenge link difficulty Writeup link     Lab 1 Beginner&amp;rsquo;s Luck Easy Lab 1    Lab 2 A New World Easy     Challenge description My sister&#39;s computer crashed. We were very fortunate to recover this memory dump. Your job is get all her important files from the system. From what we remember, we suddenly saw a black window pop up with some thing being executed.</description>
