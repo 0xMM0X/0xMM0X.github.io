@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Writeups on MMOX</title>
-    <link>https://mmox.me/tags/writeups/</link>
-    <description>Recent content in Writeups on MMOX</description>
+    <title>Memory on MMOX</title>
+    <link>https://mmox.me/categories/memory/</link>
+    <description>Recent content in Memory on MMOX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/writeups/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/categories/memory/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MemLabs Writeup - Lab 1 (Beginner&#39;s Luck - Easy) </title>
       <link>https://mmox.me/posts/writeups/memlabs-lab1/</link>
@@ -58,18 +58,6 @@
       
       <guid>https://mmox.me/posts/writeups/memlabs-lab6/</guid>
       <description>Lab Challenge link difficulty Writeup link     Lab 1 Beginner&amp;rsquo;s Luck Easy Lab 1    Lab 2 A New World  Easy Lab 2    Lab 3 The Evil&amp;rsquo;s Den Easy - Medium Lab 3    Lab 4 Obsession Medium Lab 4    Lab 5 Black Tuesday Medium - Hard Lab 5    Lab 6 The Reckoning Hard Lab 6     Challenge description We received this memory dump from the Intelligence Bureau Department.</description>
-    </item>
-    
-    <item>
-      <title>Wicsme 2020 Writeups</title>
-      <link>https://mmox.me/posts/writeups/wicsme2020-writeups/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmox.me/posts/writeups/wicsme2020-writeups/</guid>
-      <description>Digital Forensics Fe01 It was an easy one there was a .rtf file when i opened it using (&amp;ldquo;libre office Writer&amp;rdquo;) i found:
-by clicking (Ctr+A) I selected all the right clicked to choose paragraph - Text Body
-the flag appered the flag was : n𝑖𝐶𝑒𝐴𝑛𝐷𝐸𝑎𝑠𝑦10018
-Fe02 it was a PDF File with a black mark that hide some parts of the text, I Opend it using (&amp;ldquo;Atril Document Viewer&amp;rdquo;) And that what appered:</description>
     </item>
     
   </channel>
