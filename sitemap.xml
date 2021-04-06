@@ -4,7 +4,62 @@
   
   <url>
     <loc>https://mmox.me/categories/</loc>
-    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmox.me/categories/dfir/</loc>
+    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmox.me/tags/digital-forensics/</loc>
+    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmox.me/categories/digital-forensics/</loc>
+    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmox.me/categories/memory/</loc>
+    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmox.me/</loc>
+    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmox.me/posts/</loc>
+    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmox.me/tags/ransomwares/</loc>
+    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmox.me/categories/ransomwares/</loc>
+    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmox.me/tags/ruyk/</loc>
+    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmox.me/posts/dfir/ruyk-analysis/</loc>
+    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmox.me/tags/</loc>
+    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -14,41 +69,6 @@
   
   <url>
     <loc>https://mmox.me/tags/cyberdefenders/</loc>
-    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mmox.me/categories/dfir/</loc>
-    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mmox.me/tags/digital-forensics/</loc>
-    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mmox.me/categories/digital-forensics/</loc>
-    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mmox.me/categories/memory/</loc>
-    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mmox.me/</loc>
-    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mmox.me/posts/</loc>
-    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mmox.me/tags/</loc>
     <lastmod>2021-03-06T00:00:00+00:00</lastmod>
   </url>
   

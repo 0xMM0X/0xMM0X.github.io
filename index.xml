@@ -5,7 +5,17 @@
     <link>https://mmox.me/</link>
     <description>Recent content on MMOX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 06 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ruyk Ransomware Analysis Memory Detection - Part 1 </title>
+      <link>https://mmox.me/posts/dfir/ruyk-analysis/</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/posts/dfir/ruyk-analysis/</guid>
+      <description>Ryuk is a ransomware which encrypts its victim&amp;rsquo;s files and asks for a ransom via bitcoin to release the original files. It is has been observed being used to attack companies or professional environments. Cybersecurity experts figured out that Ryuk and Hermes ransomware shares pieces of codes. Hermes is commodity ransomware that has been observed for sale on dark-net forums and used by multiple threat actors.
+And I am going to do some analysis form a forensics perspective</description>
+    </item>
+    
     <item>
       <title>Cyber Defenders (BankingTroubles - Memory Image Forensics )</title>
       <link>https://mmox.me/posts/writeups/bankingtroubles-memory-image-forensics/</link>

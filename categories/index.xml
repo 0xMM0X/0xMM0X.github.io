@@ -5,11 +5,11 @@
     <link>https://mmox.me/categories/</link>
     <description>Recent content in Categories on MMOX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 06 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DFIR</title>
       <link>https://mmox.me/categories/dfir/</link>
-      <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://mmox.me/categories/dfir/</guid>
       <description></description>
@@ -18,7 +18,7 @@
     <item>
       <title>Digital Forensics</title>
       <link>https://mmox.me/categories/digital-forensics/</link>
-      <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://mmox.me/categories/digital-forensics/</guid>
       <description></description>
@@ -27,9 +27,18 @@
     <item>
       <title>Memory</title>
       <link>https://mmox.me/categories/memory/</link>
-      <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://mmox.me/categories/memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ransomwares</title>
+      <link>https://mmox.me/categories/ransomwares/</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/categories/ransomwares/</guid>
       <description></description>
     </item>
     
