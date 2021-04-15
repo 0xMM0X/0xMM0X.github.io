@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ransomwares on MMOX</title>
-    <link>https://mmox.me/tags/ransomwares/</link>
-    <description>Recent content in Ransomwares on MMOX</description>
+    <title>Ryuk on MMOX</title>
+    <link>https://mmox.me/tags/ryuk/</link>
+    <description>Recent content in Ryuk on MMOX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 06 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/ransomwares/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/ryuk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ruyk Ransomware Analysis Memory Detection - Part 1 </title>
       <link>https://mmox.me/posts/dfir/ryuk-analysis-part-1/</link>
