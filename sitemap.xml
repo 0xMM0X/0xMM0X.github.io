@@ -3,8 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mmox.me/tags/adam/</loc>
+    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mmox.me/categories/</loc>
-    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmox.me/tags/classfication/</loc>
+    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmox.me/posts/ml/gender-detection-model-with-adam/</loc>
+    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmox.me/tags/ml/</loc>
+    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmox.me/categories/ml/</loc>
+    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmox.me/</loc>
+    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmox.me/posts/</loc>
+    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmox.me/tags/</loc>
+    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -28,16 +68,6 @@
   </url>
   
   <url>
-    <loc>https://mmox.me/</loc>
-    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mmox.me/posts/</loc>
-    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mmox.me/tags/ransomwares/</loc>
     <lastmod>2021-04-06T00:00:00+00:00</lastmod>
   </url>
@@ -54,11 +84,6 @@
   
   <url>
     <loc>https://mmox.me/posts/dfir/ryuk-analysis-part-1/</loc>
-    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mmox.me/tags/</loc>
     <lastmod>2021-04-06T00:00:00+00:00</lastmod>
   </url>
   
