@@ -3,12 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mmox.me/tags/adam/</loc>
-    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
+    <loc>https://mmox.me/posts/writeups/alphabox-infosecwriteup/</loc>
+    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://mmox.me/categories/</loc>
+    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmox.me/tags/ctf/</loc>
+    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmox.me/categories/ctf/</loc>
+    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmox.me/tags/hackathon/</loc>
+    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmox.me/tags/info-sec/</loc>
+    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmox.me/tags/machines/</loc>
+    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmox.me/categories/machines/</loc>
+    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmox.me/</loc>
+    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmox.me/posts/</loc>
+    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmox.me/tags/</loc>
+    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmox.me/tags/writeups/</loc>
+    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmox.me/categories/writeups/</loc>
+    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmox.me/tags/adam/</loc>
     <lastmod>2021-05-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -29,21 +89,6 @@
   
   <url>
     <loc>https://mmox.me/categories/ml/</loc>
-    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mmox.me/</loc>
-    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mmox.me/posts/</loc>
-    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mmox.me/tags/</loc>
     <lastmod>2021-05-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -98,16 +143,6 @@
   </url>
   
   <url>
-    <loc>https://mmox.me/tags/writeups/</loc>
-    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mmox.me/categories/writeups/</loc>
-    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mmox.me/tags/memlabs/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url>
@@ -140,16 +175,6 @@
   <url>
     <loc>https://mmox.me/posts/writeups/memlabs-lab6/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mmox.me/tags/ctf/</loc>
-    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mmox.me/categories/ctf/</loc>
-    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>

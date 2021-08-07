@@ -5,7 +5,34 @@
     <link>https://mmox.me/categories/</link>
     <description>Recent content in Categories on MMOX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 06 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CTF</title>
+      <link>https://mmox.me/categories/ctf/</link>
+      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/categories/ctf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machines</title>
+      <link>https://mmox.me/categories/machines/</link>
+      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/categories/machines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writeups</title>
+      <link>https://mmox.me/categories/writeups/</link>
+      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/categories/writeups/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>ML</title>
       <link>https://mmox.me/categories/ml/</link>
@@ -48,24 +75,6 @@
       <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://mmox.me/categories/ransomwares/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Writeups</title>
-      <link>https://mmox.me/categories/writeups/</link>
-      <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmox.me/categories/writeups/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CTF</title>
-      <link>https://mmox.me/categories/ctf/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmox.me/categories/ctf/</guid>
       <description></description>
     </item>
     
