@@ -28,7 +28,7 @@ let&amp;rsquo;s scan it using nmap</description>
       <description>You can get the data from Kaggle
 Importing Needed Lib
 import os from tensorflow.keras import layers from tensorflow.keras import Model from tensorflow.keras.preprocessing.image import ImageDataGenerator import tensorflow as tf import matplotlib.pyplot as plt import PIL Getting the Data Ready
-train_datagen = ImageDataGenerator(rescale = 1./255, rotation_range=40, width_shift_range=0.2, height_shift_range=0.2, shear_range=0.2, zoom_range=0.2, horizontal_flip=True, fill_mode=&amp;#39;nearest&amp;#39;) test_datagen = ImageDataGenerator( rescale = 1.0/255) train_generator = train_datagen.flow_from_directory(&amp;#39;Gender/Train&amp;#39;, batch_size =256 , class_mode = &amp;#39;binary&amp;#39;, target_size = (64, 64)) validation_generator = test_datagen.</description>
+train_datagen = ImageDataGenerator(rescale = 1./255, 	rotation_range=40,  width_shift_range=0.2,  height_shift_range=0.2,  shear_range=0.2,  zoom_range=0.2,  horizontal_flip=True,  fill_mode=&amp;#39;nearest&amp;#39;) test_datagen = ImageDataGenerator( rescale = 1.0/255) train_generator = train_datagen.flow_from_directory(&amp;#39;Gender/Train&amp;#39;,  batch_size =256 ,  class_mode = &amp;#39;binary&amp;#39;,  target_size = (64, 64)) validation_generator = test_datagen.</description>
     </item>
     
     <item>
@@ -51,12 +51,31 @@ And I am going to do some analysis form a forensics perspective</description>
     </item>
     
     <item>
+      <title>Cyber Defenders (Ulysses )</title>
+      <link>https://mmox.me/posts/writeups/ulysses-writeup/</link>
+      <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/posts/writeups/ulysses-writeup/</guid>
+      <description>Description A Linux server was possibly compromised and a forensic analysis is required in order to understand what really happened. Hard disk dumps and memory snapshots of the machine are provided in order to solve the challenge.
+Challenge Files:  victoria-v8.kcore.img: memory dump done by dd’ing /proc/kcore. victoria-v8.memdump.img: memory dump done with memdump. Debian5_26.zip: volatility custom Linux profile.  Challenge Link : https://cyberdefenders.org/labs/41  Supportive Tools:   Volatilty 2.</description>
+    </item>
+    
+    <item>
       <title>MemLabs Writeup - Lab 1 (Beginner&#39;s Luck - Easy) </title>
       <link>https://mmox.me/posts/writeups/memlabs-lab1/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://mmox.me/posts/writeups/memlabs-lab1/</guid>
       <description>Lab Challenge link difficulty Writeup link     Lab 1 Beginner&amp;rsquo;s Luck Easy Lab 1    Lab 2 A New World  Easy Lab 2    Lab 3 The Evil&amp;rsquo;s Den Easy - Medium Lab 3    Lab 4 Obsession Medium Lab 4    Lab 5 Black Tuesday Medium - Hard Lab 5    Lab 6 The Reckoning Hard Lab 6     Challenge description My sister&#39;s computer crashed.</description>
+    </item>
+    
+    <item>
+      <title>MemLabs Writeup - Lab 1 (Beginner&#39;s Luck - Easy) </title>
+      <link>https://mmox.me/posts/writeups/root-me-forensics/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/posts/writeups/root-me-forensics/</guid>
+      <description>Challenge Link difficulty     Lab 1 Beginner&amp;rsquo;s Luck Easy   Lab 2 A New World  Easy   Lab 3 The Evil&amp;rsquo;s Den Easy - Medium   Lab 4 Obsession Medium   Lab 5 Black Tuesday Medium - Hard   Lab 6 The Reckoning Hard    Challenge description Congratulations Berthier, thanks to your help the computer has been identified.</description>
     </item>
     
     <item>
