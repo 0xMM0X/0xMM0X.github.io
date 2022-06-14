@@ -2,10 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mmox.me/posts/writeups/alphabox-infosecwriteup/</loc>
-    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mmox.me/categories/</loc>
+    <lastmod>2022-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/posts/writeups/ulysses-writeup/</loc>
+    <lastmod>2022-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/tags/cyberdefenders/</loc>
+    <lastmod>2022-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/categories/dfir/</loc>
+    <lastmod>2022-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/tags/digital-forensics/</loc>
+    <lastmod>2022-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/categories/digital-forensics/</loc>
+    <lastmod>2022-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/categories/memory/</loc>
+    <lastmod>2022-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/</loc>
+    <lastmod>2022-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/posts/</loc>
+    <lastmod>2022-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/categories/sda/</loc>
+    <lastmod>2022-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/tags/</loc>
+    <lastmod>2022-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/tags/writeups/</loc>
+    <lastmod>2022-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/categories/writeups/</loc>
+    <lastmod>2022-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/posts/writeups/alphabox-infosecwriteup/</loc>
     <lastmod>2021-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmox.me/tags/ctf/</loc>
@@ -26,21 +62,6 @@
     <loc>https://mmox.me/categories/machines/</loc>
     <lastmod>2021-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mmox.me/</loc>
-    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mmox.me/posts/</loc>
-    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mmox.me/tags/</loc>
-    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mmox.me/tags/writeups/</loc>
-    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mmox.me/categories/writeups/</loc>
-    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mmox.me/tags/adam/</loc>
     <lastmod>2021-05-06T00:00:00+00:00</lastmod>
   </url><url>
@@ -56,18 +77,6 @@
     <loc>https://mmox.me/categories/ml/</loc>
     <lastmod>2021-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mmox.me/categories/dfir/</loc>
-    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mmox.me/tags/digital-forensics/</loc>
-    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mmox.me/categories/digital-forensics/</loc>
-    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mmox.me/categories/memory/</loc>
-    <lastmod>2021-04-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mmox.me/tags/ransomwares/</loc>
     <lastmod>2021-04-06T00:00:00+00:00</lastmod>
   </url><url>
@@ -81,15 +90,6 @@
     <lastmod>2021-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmox.me/posts/writeups/bankingtroubles-memory-image-forensics/</loc>
-    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mmox.me/posts/writeups/ulysses-writeup/</loc>
-    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mmox.me/tags/cyberdefenders/</loc>
-    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mmox.me/categories/sda/</loc>
     <lastmod>2021-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmox.me/tags/memlabs/</loc>

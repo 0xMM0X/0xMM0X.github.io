@@ -5,7 +5,17 @@
     <link>https://mmox.me/</link>
     <description>Recent content on MMOX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 07 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cyber Defenders (Ulysses )</title>
+      <link>https://mmox.me/posts/writeups/ulysses-writeup/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/posts/writeups/ulysses-writeup/</guid>
+      <description>Description A Linux server was possibly compromised and a forensic analysis is required in order to understand what really happened. Hard disk dumps and memory snapshots of the machine are provided in order to solve the challenge.
+Challenge Files:  victoria-v8.kcore.img: memory dump done by dd’ing /proc/kcore. victoria-v8.memdump.img: memory dump done with memdump. Debian5_26.zip: volatility custom Linux profile.  Challenge Link : https://cyberdefenders.org/labs/41  Supportive Tools:   Volatilty 2.</description>
+    </item>
+    
     <item>
       <title>Alpha Box info-sec Hackathon Writeup</title>
       <link>https://mmox.me/posts/writeups/alphabox-infosecwriteup/</link>
@@ -48,16 +58,6 @@ And I am going to do some analysis form a forensics perspective</description>
       
       <guid>https://mmox.me/posts/writeups/bankingtroubles-memory-image-forensics/</guid>
       <description>Description Company X has contacted you to perform forensics work on a recent incident that occurred. One of their employees had received an e-mail from a co-worker that pointed to a PDF file. Upon opening, the employee did not notice anything; however, they recently had unusual activity in their bank account.The initial theory is that a user received an e-mail, containing an URL leading to a forged PDF document.Opening that document in Acrobat Reader triggers a malicious Javascript that initiates a sequence of actions to take over the victim&#39;s system.</description>
-    </item>
-    
-    <item>
-      <title>Cyber Defenders (Ulysses )</title>
-      <link>https://mmox.me/posts/writeups/ulysses-writeup/</link>
-      <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmox.me/posts/writeups/ulysses-writeup/</guid>
-      <description>Description A Linux server was possibly compromised and a forensic analysis is required in order to understand what really happened. Hard disk dumps and memory snapshots of the machine are provided in order to solve the challenge.
-Challenge Files:  victoria-v8.kcore.img: memory dump done by dd’ing /proc/kcore. victoria-v8.memdump.img: memory dump done with memdump. Debian5_26.zip: volatility custom Linux profile.  Challenge Link : https://cyberdefenders.org/labs/41  Supportive Tools:   Volatilty 2.</description>
     </item>
     
     <item>

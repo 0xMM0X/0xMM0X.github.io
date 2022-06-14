@@ -5,7 +5,52 @@
     <link>https://mmox.me/categories/</link>
     <description>Recent content in Categories on MMOX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 07 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DFIR</title>
+      <link>https://mmox.me/categories/dfir/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/categories/dfir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Forensics</title>
+      <link>https://mmox.me/categories/digital-forensics/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/categories/digital-forensics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory</title>
+      <link>https://mmox.me/categories/memory/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/categories/memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sda</title>
+      <link>https://mmox.me/categories/sda/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/categories/sda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writeups</title>
+      <link>https://mmox.me/categories/writeups/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/categories/writeups/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>CTF</title>
       <link>https://mmox.me/categories/ctf/</link>
@@ -25,15 +70,6 @@
     </item>
     
     <item>
-      <title>Writeups</title>
-      <link>https://mmox.me/categories/writeups/</link>
-      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmox.me/categories/writeups/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ML</title>
       <link>https://mmox.me/categories/ml/</link>
       <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
@@ -43,47 +79,11 @@
     </item>
     
     <item>
-      <title>DFIR</title>
-      <link>https://mmox.me/categories/dfir/</link>
-      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmox.me/categories/dfir/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Digital Forensics</title>
-      <link>https://mmox.me/categories/digital-forensics/</link>
-      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmox.me/categories/digital-forensics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Memory</title>
-      <link>https://mmox.me/categories/memory/</link>
-      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmox.me/categories/memory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ransomwares</title>
       <link>https://mmox.me/categories/ransomwares/</link>
       <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://mmox.me/categories/ransomwares/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sda</title>
-      <link>https://mmox.me/categories/sda/</link>
-      <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmox.me/categories/sda/</guid>
       <description></description>
     </item>
     
