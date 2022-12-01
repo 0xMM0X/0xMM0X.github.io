@@ -13,7 +13,7 @@
       
       <guid>https://mmox.me/posts/writeups/ulysses-writeup/</guid>
       <description>Description A Linux server was possibly compromised and a forensic analysis is required in order to understand what really happened. Hard disk dumps and memory snapshots of the machine are provided in order to solve the challenge.
-Challenge Files:  victoria-v8.kcore.img: memory dump done by dd’ing /proc/kcore. victoria-v8.memdump.img: memory dump done with memdump. Debian5_26.zip: volatility custom Linux profile.  Challenge Link : https://cyberdefenders.org/labs/41  Supportive Tools:   Volatilty 2.</description>
+Challenge Files: victoria-v8.kcore.img: memory dump done by dd’ing /proc/kcore. victoria-v8.memdump.img: memory dump done with memdump. Debian5_26.zip: volatility custom Linux profile. Challenge Link : https://cyberdefenders.org/labs/41Supportive Tools: Volatilty 2.6 FTK imger HxD Writeup Q1 The attacker was performing a Brute Force attack.</description>
     </item>
     
     <item>
@@ -38,7 +38,7 @@ let&amp;rsquo;s scan it using nmap</description>
       <description>You can get the data from Kaggle
 Importing Needed Lib
 import os from tensorflow.keras import layers from tensorflow.keras import Model from tensorflow.keras.preprocessing.image import ImageDataGenerator import tensorflow as tf import matplotlib.pyplot as plt import PIL Getting the Data Ready
-train_datagen = ImageDataGenerator(rescale = 1./255, 	rotation_range=40,  width_shift_range=0.2,  height_shift_range=0.2,  shear_range=0.2,  zoom_range=0.2,  horizontal_flip=True,  fill_mode=&amp;#39;nearest&amp;#39;) test_datagen = ImageDataGenerator( rescale = 1.0/255) train_generator = train_datagen.flow_from_directory(&amp;#39;Gender/Train&amp;#39;,  batch_size =256 ,  class_mode = &amp;#39;binary&amp;#39;,  target_size = (64, 64)) validation_generator = test_datagen.</description>
+train_datagen = ImageDataGenerator(rescale = 1./255, rotation_range=40, width_shift_range=0.2, height_shift_range=0.2, shear_range=0.2, zoom_range=0.2, horizontal_flip=True, fill_mode=&amp;#39;nearest&amp;#39;) test_datagen = ImageDataGenerator( rescale = 1.0/255) train_generator = train_datagen.flow_from_directory(&amp;#39;Gender/Train&amp;#39;, batch_size =256 , class_mode = &amp;#39;binary&amp;#39;, target_size = (64, 64)) validation_generator = test_datagen.</description>
     </item>
     
     <item>
@@ -57,7 +57,7 @@ And I am going to do some analysis form a forensics perspective</description>
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://mmox.me/posts/writeups/bankingtroubles-memory-image-forensics/</guid>
-      <description>Description Company X has contacted you to perform forensics work on a recent incident that occurred. One of their employees had received an e-mail from a co-worker that pointed to a PDF file. Upon opening, the employee did not notice anything; however, they recently had unusual activity in their bank account.The initial theory is that a user received an e-mail, containing an URL leading to a forged PDF document.Opening that document in Acrobat Reader triggers a malicious Javascript that initiates a sequence of actions to take over the victim&#39;s system.</description>
+      <description>Description Company X has contacted you to perform forensics work on a recent incident that occurred. One of their employees had received an e-mail from a co-worker that pointed to a PDF file. Upon opening, the employee did not notice anything; however, they recently had unusual activity in their bank account.The initial theory is that a user received an e-mail, containing an URL leading to a forged PDF document.</description>
     </item>
     
     <item>
@@ -66,7 +66,7 @@ And I am going to do some analysis form a forensics perspective</description>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://mmox.me/posts/writeups/memlabs-lab1/</guid>
-      <description>Lab Challenge link difficulty Writeup link     Lab 1 Beginner&amp;rsquo;s Luck Easy Lab 1    Lab 2 A New World  Easy Lab 2    Lab 3 The Evil&amp;rsquo;s Den Easy - Medium Lab 3    Lab 4 Obsession Medium Lab 4    Lab 5 Black Tuesday Medium - Hard Lab 5    Lab 6 The Reckoning Hard Lab 6     Challenge description My sister&#39;s computer crashed.</description>
+      <description>Lab Challenge link difficulty Writeup link Lab 1 Beginner&amp;rsquo;s Luck Easy Lab 1 Lab 2 A New World Easy Lab 2 Lab 3 The Evil&amp;rsquo;s Den Easy - Medium Lab 3 Lab 4 Obsession Medium Lab 4 Lab 5 Black Tuesday Medium - Hard Lab 5 Lab 6 The Reckoning Hard Lab 6 Challenge description My sister&#39;s computer crashed. We were very fortunate to recover this memory dump. Your job is get all her important files from the system.</description>
     </item>
     
     <item>
@@ -75,7 +75,7 @@ And I am going to do some analysis form a forensics perspective</description>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://mmox.me/posts/writeups/root-me-forensics/</guid>
-      <description>Challenge Link difficulty     Lab 1 Beginner&amp;rsquo;s Luck Easy   Lab 2 A New World  Easy   Lab 3 The Evil&amp;rsquo;s Den Easy - Medium   Lab 4 Obsession Medium   Lab 5 Black Tuesday Medium - Hard   Lab 6 The Reckoning Hard    Challenge description Congratulations Berthier, thanks to your help the computer has been identified.</description>
+      <description>Challenge Link difficulty Lab 1 Beginner&amp;rsquo;s Luck Easy Lab 2 A New World Easy Lab 3 The Evil&amp;rsquo;s Den Easy - Medium Lab 4 Obsession Medium Lab 5 Black Tuesday Medium - Hard Lab 6 The Reckoning Hard Challenge description Congratulations Berthier, thanks to your help the computer has been identified. You have requested a memory dump but before starting your analysis you wanted to take a look at the antivirus’ logs.</description>
     </item>
     
     <item>
@@ -84,7 +84,7 @@ And I am going to do some analysis form a forensics perspective</description>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://mmox.me/posts/writeups/memlabs-lab2/</guid>
-      <description>Lab Challenge link difficulty Writeup link     Lab 1 Beginner&amp;rsquo;s Luck Easy Lab 1    Lab 2 A New World  Easy Lab 2    Lab 3 The Evil&amp;rsquo;s Den Easy - Medium Lab 3    Lab 4 Obsession Medium Lab 4    Lab 5 Black Tuesday Medium - Hard Lab 5    Lab 6 The Reckoning Hard Lab 6     Challenge description One of the clients of our company, lost the access to his system due to an unknown error.</description>
+      <description>Lab Challenge link difficulty Writeup link Lab 1 Beginner&amp;rsquo;s Luck Easy Lab 1 Lab 2 A New World Easy Lab 2 Lab 3 The Evil&amp;rsquo;s Den Easy - Medium Lab 3 Lab 4 Obsession Medium Lab 4 Lab 5 Black Tuesday Medium - Hard Lab 5 Lab 6 The Reckoning Hard Lab 6 Challenge description One of the clients of our company, lost the access to his system due to an unknown error.</description>
     </item>
     
     <item>
@@ -93,7 +93,7 @@ And I am going to do some analysis form a forensics perspective</description>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://mmox.me/posts/writeups/memlabs-lab3/</guid>
-      <description>Lab Challenge link difficulty Writeup link     Lab 1 Beginner&amp;rsquo;s Luck Easy Lab 1    Lab 2 A New World  Easy Lab 2    Lab 3 The Evil&amp;rsquo;s Den Easy - Medium Lab 3    Lab 4 Obsession Medium Lab 4    Lab 5 Black Tuesday Medium - Hard Lab 5    Lab 6 The Reckoning Hard Lab 6     Challenge description A malicious script encrypted a very secret piece of information I had on my system.</description>
+      <description>Lab Challenge link difficulty Writeup link Lab 1 Beginner&amp;rsquo;s Luck Easy Lab 1 Lab 2 A New World Easy Lab 2 Lab 3 The Evil&amp;rsquo;s Den Easy - Medium Lab 3 Lab 4 Obsession Medium Lab 4 Lab 5 Black Tuesday Medium - Hard Lab 5 Lab 6 The Reckoning Hard Lab 6 Challenge description A malicious script encrypted a very secret piece of information I had on my system.</description>
     </item>
     
     <item>
@@ -102,7 +102,7 @@ And I am going to do some analysis form a forensics perspective</description>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://mmox.me/posts/writeups/memlabs-lab4/</guid>
-      <description>Lab Challenge link difficulty Writeup link     Lab 1 Beginner&amp;rsquo;s Luck Easy Lab 1    Lab 2 A New World  Easy Lab 2    Lab 3 The Evil&amp;rsquo;s Den Easy - Medium Lab 3    Lab 4 Obsession Medium Lab 4    Lab 5 Black Tuesday Medium - Hard Lab 5    Lab 6 The Reckoning Hard Lab 6     Challenge description My system was recently compromised.</description>
+      <description>Lab Challenge link difficulty Writeup link Lab 1 Beginner&amp;rsquo;s Luck Easy Lab 1 Lab 2 A New World Easy Lab 2 Lab 3 The Evil&amp;rsquo;s Den Easy - Medium Lab 3 Lab 4 Obsession Medium Lab 4 Lab 5 Black Tuesday Medium - Hard Lab 5 Lab 6 The Reckoning Hard Lab 6 Challenge description My system was recently compromised. The Hacker stole a lot of information but he also deleted a veryimportant file of mine.</description>
     </item>
     
     <item>
@@ -111,7 +111,7 @@ And I am going to do some analysis form a forensics perspective</description>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://mmox.me/posts/writeups/memlabs-lab5/</guid>
-      <description>Lab Challenge link difficulty Writeup link     Lab 1 Beginner&amp;rsquo;s Luck Easy Lab 1    Lab 2 A New World  Easy Lab 2    Lab 3 The Evil&amp;rsquo;s Den Easy - Medium Lab 3    Lab 4 Obsession Medium Lab 4    Lab 5 Black Tuesday Medium - Hard Lab 5    Lab 6 The Reckoning Hard Lab 6     Challenge description We received this memory dump from our client recently.</description>
+      <description>Lab Challenge link difficulty Writeup link Lab 1 Beginner&amp;rsquo;s Luck Easy Lab 1 Lab 2 A New World Easy Lab 2 Lab 3 The Evil&amp;rsquo;s Den Easy - Medium Lab 3 Lab 4 Obsession Medium Lab 4 Lab 5 Black Tuesday Medium - Hard Lab 5 Lab 6 The Reckoning Hard Lab 6 Challenge description We received this memory dump from our client recently. Someone accessed his system when he was notthere and he found some rather strange files being accessed.</description>
     </item>
     
     <item>
@@ -120,7 +120,20 @@ And I am going to do some analysis form a forensics perspective</description>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://mmox.me/posts/writeups/memlabs-lab6/</guid>
-      <description>Lab Challenge link difficulty Writeup link     Lab 1 Beginner&amp;rsquo;s Luck Easy Lab 1    Lab 2 A New World  Easy Lab 2    Lab 3 The Evil&amp;rsquo;s Den Easy - Medium Lab 3    Lab 4 Obsession Medium Lab 4    Lab 5 Black Tuesday Medium - Hard Lab 5    Lab 6 The Reckoning Hard Lab 6     Challenge description We received this memory dump from the Intelligence Bureau Department.</description>
+      <description>Lab Challenge link difficulty Writeup link Lab 1 Beginner&amp;rsquo;s Luck Easy Lab 1 Lab 2 A New World Easy Lab 2 Lab 3 The Evil&amp;rsquo;s Den Easy - Medium Lab 3 Lab 4 Obsession Medium Lab 4 Lab 5 Black Tuesday Medium - Hard Lab 5 Lab 6 The Reckoning Hard Lab 6 Challenge description We received this memory dump from the Intelligence Bureau Department. They say this evidencemight hold some secrets of the underworld gangster David Benjamin.</description>
+    </item>
+    
+    <item>
+      <title>CyCTF 2022 Writeups</title>
+      <link>https://mmox.me/posts/writeups/cyctf2022-writeup/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/posts/writeups/cyctf2022-writeup/</guid>
+      <description>Challenge Name Challenge link Type Lazaretto ✔ Download Forensics Hotel ✔ Download Forensics Subscription Download Forensics Geology docker pull cyctf/geology Forensics imPOSTer ✔ Download Forensics Mach ✔ Download Mobile #Lazaretto
+##Challege Description
+##Writeup
+we were provided with an ad1 file using FTKimager we were able to open it and it had only windows event logs
+So i just dumped the files and using the famous ericzimmerman tool EvtxECmd i was able to pares the full events into a csv file using this command</description>
     </item>
     
     <item>

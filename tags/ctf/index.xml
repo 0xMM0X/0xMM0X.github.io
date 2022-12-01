@@ -20,6 +20,19 @@ let&amp;rsquo;s scan it using nmap</description>
     </item>
     
     <item>
+      <title>CyCTF 2022 Writeups</title>
+      <link>https://mmox.me/posts/writeups/cyctf2022-writeup/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/posts/writeups/cyctf2022-writeup/</guid>
+      <description>Challenge Name Challenge link Type Lazaretto ✔ Download Forensics Hotel ✔ Download Forensics Subscription Download Forensics Geology docker pull cyctf/geology Forensics imPOSTer ✔ Download Forensics Mach ✔ Download Mobile #Lazaretto
+##Challege Description
+##Writeup
+we were provided with an ad1 file using FTKimager we were able to open it and it had only windows event logs
+So i just dumped the files and using the famous ericzimmerman tool EvtxECmd i was able to pares the full events into a csv file using this command</description>
+    </item>
+    
+    <item>
       <title>Wicsme 2020 Writeups</title>
       <link>https://mmox.me/posts/writeups/wicsme2020-writeups/</link>
       <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>

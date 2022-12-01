@@ -15,7 +15,7 @@
       <description>You can get the data from Kaggle
 Importing Needed Lib
 import os from tensorflow.keras import layers from tensorflow.keras import Model from tensorflow.keras.preprocessing.image import ImageDataGenerator import tensorflow as tf import matplotlib.pyplot as plt import PIL Getting the Data Ready
-train_datagen = ImageDataGenerator(rescale = 1./255, 	rotation_range=40,  width_shift_range=0.2,  height_shift_range=0.2,  shear_range=0.2,  zoom_range=0.2,  horizontal_flip=True,  fill_mode=&amp;#39;nearest&amp;#39;) test_datagen = ImageDataGenerator( rescale = 1.0/255) train_generator = train_datagen.flow_from_directory(&amp;#39;Gender/Train&amp;#39;,  batch_size =256 ,  class_mode = &amp;#39;binary&amp;#39;,  target_size = (64, 64)) validation_generator = test_datagen.</description>
+train_datagen = ImageDataGenerator(rescale = 1./255, rotation_range=40, width_shift_range=0.2, height_shift_range=0.2, shear_range=0.2, zoom_range=0.2, horizontal_flip=True, fill_mode=&amp;#39;nearest&amp;#39;) test_datagen = ImageDataGenerator( rescale = 1.0/255) train_generator = train_datagen.flow_from_directory(&amp;#39;Gender/Train&amp;#39;, batch_size =256 , class_mode = &amp;#39;binary&amp;#39;, target_size = (64, 64)) validation_generator = test_datagen.</description>
     </item>
     
   </channel>

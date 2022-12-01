@@ -13,7 +13,7 @@
       
       <guid>https://mmox.me/posts/writeups/ulysses-writeup/</guid>
       <description>Description A Linux server was possibly compromised and a forensic analysis is required in order to understand what really happened. Hard disk dumps and memory snapshots of the machine are provided in order to solve the challenge.
-Challenge Files:  victoria-v8.kcore.img: memory dump done by dd’ing /proc/kcore. victoria-v8.memdump.img: memory dump done with memdump. Debian5_26.zip: volatility custom Linux profile.  Challenge Link : https://cyberdefenders.org/labs/41  Supportive Tools:   Volatilty 2.</description>
+Challenge Files: victoria-v8.kcore.img: memory dump done by dd’ing /proc/kcore. victoria-v8.memdump.img: memory dump done with memdump. Debian5_26.zip: volatility custom Linux profile. Challenge Link : https://cyberdefenders.org/labs/41Supportive Tools: Volatilty 2.6 FTK imger HxD Writeup Q1 The attacker was performing a Brute Force attack.</description>
     </item>
     
   </channel>
