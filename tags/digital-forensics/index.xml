@@ -16,6 +16,16 @@
     </item>
     
     <item>
+      <title>CyCTF 2022 Writeups</title>
+      <link>https://mmox.me/posts/writeups/cyctf2022-writeup/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/posts/writeups/cyctf2022-writeup/</guid>
+      <description>Challenge Name Challenge link Type Lazaretto ✔ Download Forensics Hotel ✔ Download Forensics Subscription Download Forensics Geology docker pull cyctf/geology Forensics imPOSTer ✔ Download Forensics Mach ✔ Download Mobile Lazaretto Challege Description Writeup we were provided with an ad1 file using FTKimager we were able to open it and it had only windows event logs
+So i just dumped the files and using the famous ericzimmerman tool EvtxECmd i was able to pares the full events into a csv file using this command</description>
+    </item>
+    
+    <item>
       <title>Cyber Defenders (Ulysses )</title>
       <link>https://mmox.me/posts/writeups/ulysses-writeup/</link>
       <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
@@ -117,16 +127,6 @@ And I am going to do some analysis form a forensics perspective</description>
 by clicking (Ctr+A) I selected all the right clicked to choose paragraph - Text Body
 the flag appered the flag was : n𝑖𝐶𝑒𝐴𝑛𝐷𝐸𝑎𝑠𝑦10018
 Fe02 it was a PDF File with a black mark that hide some parts of the text, I Opend it using (&amp;ldquo;Atril Document Viewer&amp;rdquo;) And that what appered:</description>
-    </item>
-    
-    <item>
-      <title>CyCTF 2022 Writeups</title>
-      <link>https://mmox.me/posts/writeups/cyctf2022-writeup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmox.me/posts/writeups/cyctf2022-writeup/</guid>
-      <description>Challenge Name Challenge link Type Lazaretto ✔ Download Forensics Hotel ✔ Download Forensics Subscription Download Forensics Geology docker pull cyctf/geology Forensics imPOSTer ✔ Download Forensics Mach ✔ Download Mobile Lazaretto Challege Description Writeup we were provided with an ad1 file using FTKimager we were able to open it and it had only windows event logs
-So i just dumped the files and using the famous ericzimmerman tool EvtxECmd i was able to pares the full events into a csv file using this command</description>
     </item>
     
   </channel>

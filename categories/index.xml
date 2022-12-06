@@ -43,6 +43,24 @@
     </item>
     
     <item>
+      <title>CTF</title>
+      <link>https://mmox.me/categories/ctf/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/categories/ctf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile</title>
+      <link>https://mmox.me/categories/mobile/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/categories/mobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Memory</title>
       <link>https://mmox.me/categories/memory/</link>
       <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
@@ -57,15 +75,6 @@
       <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://mmox.me/categories/sda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CTF</title>
-      <link>https://mmox.me/categories/ctf/</link>
-      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmox.me/categories/ctf/</guid>
       <description></description>
     </item>
     
@@ -93,15 +102,6 @@
       <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://mmox.me/categories/ransomwares/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mobile</title>
-      <link>https://mmox.me/categories/mobile/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmox.me/categories/mobile/</guid>
       <description></description>
     </item>
     
