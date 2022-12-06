@@ -5,7 +5,16 @@
     <link>https://mmox.me/tags/writeups/</link>
     <description>Recent content in Writeups on MMOX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 14 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/writeups/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/writeups/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>XLM-Macros</title>
+      <link>https://mmox.me/posts/writeups/xlm-macros/</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/posts/writeups/xlm-macros/</guid>
+      <description>Description Recently, we have seen a resurgence of Excel-based malicous office documents. Howerver, instead of using VBA-style macros, they are using older style Excel 4 macros. This changes our approach to analyzing these documents, requiring a slightly different set of tools. In this challenge, you&#39;ll get hands-on with two documents that use Excel 4.0 macros to perform anti-analysis and download the next stage of the attack.Challenge Link : https://cyberdefenders.</description>
+    </item>
+    
     <item>
       <title>Cyber Defenders (Ulysses )</title>
       <link>https://mmox.me/posts/writeups/ulysses-writeup/</link>
@@ -36,15 +45,6 @@ let&amp;rsquo;s scan it using nmap</description>
       
       <guid>https://mmox.me/posts/writeups/bankingtroubles-memory-image-forensics/</guid>
       <description>Description Company X has contacted you to perform forensics work on a recent incident that occurred. One of their employees had received an e-mail from a co-worker that pointed to a PDF file. Upon opening, the employee did not notice anything; however, they recently had unusual activity in their bank account.The initial theory is that a user received an e-mail, containing an URL leading to a forged PDF document.</description>
-    </item>
-    
-    <item>
-      <title>XLM-Macros</title>
-      <link>https://mmox.me/posts/writeups/xlm-macros/</link>
-      <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmox.me/posts/writeups/xlm-macros/</guid>
-      <description>Description Recently, we have seen a resurgence of Excel-based malicous office documents. Howerver, instead of using VBA-style macros, they are using older style Excel 4 macros. This changes our approach to analyzing these documents, requiring a slightly different set of tools. In this challenge, you&#39;ll get hands-on with two documents that use Excel 4.0 macros to perform anti-analysis and download the next stage of the attack.Challenge Link : https://cyberdefenders.</description>
     </item>
     
     <item>
