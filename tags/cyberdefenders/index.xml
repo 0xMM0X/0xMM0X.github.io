@@ -25,5 +25,14 @@ Challenge Files: victoria-v8.kcore.img: memory dump done by dd’ing /proc/kcore
       <description>Description Company X has contacted you to perform forensics work on a recent incident that occurred. One of their employees had received an e-mail from a co-worker that pointed to a PDF file. Upon opening, the employee did not notice anything; however, they recently had unusual activity in their bank account.The initial theory is that a user received an e-mail, containing an URL leading to a forged PDF document.</description>
     </item>
     
+    <item>
+      <title>XLM-Macros</title>
+      <link>https://mmox.me/posts/writeups/xlm-macros/</link>
+      <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/posts/writeups/xlm-macros/</guid>
+      <description>Description Recently, we have seen a resurgence of Excel-based malicous office documents. Howerver, instead of using VBA-style macros, they are using older style Excel 4 macros. This changes our approach to analyzing these documents, requiring a slightly different set of tools. In this challenge, you&#39;ll get hands-on with two documents that use Excel 4.0 macros to perform anti-analysis and download the next stage of the attack.Challenge Link : https://cyberdefenders.</description>
+    </item>
+    
   </channel>
 </rss>
