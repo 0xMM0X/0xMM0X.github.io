@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IOS on MMOX</title>
+    <link>https://mmox.me/categories/ios/</link>
+    <description>Recent content in IOS on MMOX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 08 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/categories/ios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cyber Defenders ( Patrick)</title>
+      <link>https://mmox.me/posts/writeups/patrick/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/posts/writeups/patrick/</guid>
+      <description>Description This image was captured from an iPhone of a user who likes to play video games, especially Minecraft, and communicates with friends. But is this user doing something they shouldn&#39;t be?. We need to identify any kind of anomaly behavior done by this user.Challenge Link : https://cyberdefenders.org/blueteam-ctf-challenges/96Supportive Tools:
+CyberChef iLEAPP dcode DB Browser for SQLite unfurl MacForensics PList Deserializer Writeup Q1 1: Personal List! -&amp;gt; How many items were on Patrick&#39;s shopping list?</description>
+    </item>
+    
+  </channel>
+</rss>
