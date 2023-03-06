@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ransomware on MMOX</title>
+    <link>https://mmox.me/tags/ransomware/</link>
+    <description>Recent content in Ransomware on MMOX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/ransomware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Let&#39;s Defend - Wanna Story</title>
+      <link>https://mmox.me/posts/writeups/wanna-story/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/posts/writeups/wanna-story/</guid>
+      <description>Description MMOX Lab GOT infected with a ransomware, as one of our new emplyees with not aware enough of the phising campains.Can you track what happend to answer the following Questions.Athor : [MMOX](https://www.linkedin.com/in/0xMM0X)required Tools:
+Volatilty 2 or 3 OST Viewier OLEDUMP with PLUGIN_BIFF Writeup Q1 1: What is the md5 hash of the desk and memory images?this just a santy check to make sure that you have the right images</description>
+    </item>
+    
+  </channel>
+</rss>

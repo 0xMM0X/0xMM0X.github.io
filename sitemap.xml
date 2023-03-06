@@ -3,7 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://mmox.me/categories/</loc>
-    <lastmod>2022-12-08T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/categories/dfir/</loc>
+    <lastmod>2023-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/tags/digital-forensics/</loc>
+    <lastmod>2023-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/categories/digital-forensics/</loc>
+    <lastmod>2023-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/posts/writeups/wanna-story/</loc>
+    <lastmod>2023-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/tags/lets-defend/</loc>
+    <lastmod>2023-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/tags/mail-analysis/</loc>
+    <lastmod>2023-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/categories/malware-analysis/</loc>
+    <lastmod>2023-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/</loc>
+    <lastmod>2023-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/posts/</loc>
+    <lastmod>2023-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/tags/ransomware/</loc>
+    <lastmod>2023-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/tags/</loc>
+    <lastmod>2023-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/tags/writeups/</loc>
+    <lastmod>2023-03-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/categories/writeups/</loc>
+    <lastmod>2023-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmox.me/posts/writeups/patrick/</loc>
     <lastmod>2022-12-08T00:00:00+00:00</lastmod>
@@ -11,34 +50,10 @@
     <loc>https://mmox.me/tags/cyberdefenders/</loc>
     <lastmod>2022-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mmox.me/categories/dfir/</loc>
-    <lastmod>2022-12-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mmox.me/tags/digital-forensics/</loc>
-    <lastmod>2022-12-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mmox.me/categories/digital-forensics/</loc>
-    <lastmod>2022-12-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mmox.me/tags/ios/</loc>
     <lastmod>2022-12-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmox.me/categories/ios/</loc>
-    <lastmod>2022-12-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mmox.me/</loc>
-    <lastmod>2022-12-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mmox.me/posts/</loc>
-    <lastmod>2022-12-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mmox.me/tags/</loc>
-    <lastmod>2022-12-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mmox.me/tags/writeups/</loc>
-    <lastmod>2022-12-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mmox.me/categories/writeups/</loc>
     <lastmod>2022-12-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmox.me/posts/writeups/xlm-macros/</loc>
@@ -48,9 +63,6 @@
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmox.me/tags/malware-analysis/</loc>
-    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mmox.me/categories/malware-analysis/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmox.me/tags/ctf/</loc>
