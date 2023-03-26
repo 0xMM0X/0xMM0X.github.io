@@ -8,12 +8,11 @@
     <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/lets-defend/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Let&#39;s Defend - Wanna Story</title>
-      <link>https://mmox.me/posts/writeups/wanna-story/</link>
+      <link>https://mmox.me/posts/writeups/ran-dev/</link>
       <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mmox.me/posts/writeups/wanna-story/</guid>
-      <description>Description MMOX Lab GOT infected with a ransomware, as one of our new emplyees with not aware enough of the phising campains.Can you track what happend to answer the following Questions.Athor : [MMOX](https://www.linkedin.com/in/0xMM0X)required Tools:
-Volatilty 2 or 3 OST Viewier OLEDUMP with PLUGIN_BIFF Writeup Q1 1: What is the md5 hash of the desk and memory images?this just a santy check to make sure that you have the right images</description>
+      <guid>https://mmox.me/posts/writeups/ran-dev/</guid>
+      <description>Description We hired a full stack developer but seems he faked all his experience and he is just lazy developer and got attacked by a weird ransomware can you investigate what happened ? Questions Q1: What is the bitcoin wallet address that the hacker left Q2: What is the SHA256 of the Ransomware Q3: What is the full URL that downloaded the ransomware? Q4: What function executed the ransomware? Q5: What is the extension of the ransomware?</description>
     </item>
     
   </channel>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ransomware on MMOX</title>
-    <link>https://mmox.me/tags/ransomware/</link>
-    <description>Recent content in Ransomware on MMOX</description>
+    <title>Memory Forensics on MMOX</title>
+    <link>https://mmox.me/tags/memory-forensics/</link>
+    <description>Recent content in Memory Forensics on MMOX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/ransomware/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/memory-forensics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Let&#39;s Defend - Wanna Story</title>
       <link>https://mmox.me/posts/writeups/ran-dev/</link>
