@@ -5,52 +5,7 @@
     <link>https://mmox.me/tags/</link>
     <description>Recent content in Tags on MMOX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Digital Forensics</title>
-      <link>https://mmox.me/tags/digital-forensics/</link>
-      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmox.me/tags/digital-forensics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lets defend</title>
-      <link>https://mmox.me/tags/lets-defend/</link>
-      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmox.me/tags/lets-defend/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Memory</title>
-      <link>https://mmox.me/tags/memory/</link>
-      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmox.me/tags/memory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ransomware</title>
-      <link>https://mmox.me/tags/ransomware/</link>
-      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmox.me/tags/ransomware/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Writeups</title>
-      <link>https://mmox.me/tags/writeups/</link>
-      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmox.me/tags/writeups/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Thu, 08 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cyberdefenders</title>
       <link>https://mmox.me/tags/cyberdefenders/</link>
@@ -61,11 +16,29 @@
     </item>
     
     <item>
+      <title>Digital Forensics</title>
+      <link>https://mmox.me/tags/digital-forensics/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/tags/digital-forensics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>IOS</title>
       <link>https://mmox.me/tags/ios/</link>
       <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://mmox.me/tags/ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writeups</title>
+      <link>https://mmox.me/tags/writeups/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/tags/writeups/</guid>
       <description></description>
     </item>
     
