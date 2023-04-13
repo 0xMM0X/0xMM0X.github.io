@@ -5,14 +5,14 @@
     <link>https://mmox.me/tags/memory/</link>
     <description>Recent content in Memory on MMOX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/memory/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/memory/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Let&#39;s Defend - RanDev</title>
-      <link>https://mmox.me/posts/writeups/ran-dev/</link>
-      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      <title>Let&#39;s Defend - LockBit</title>
+      <link>https://mmox.me/posts/writeups/lockbit/</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mmox.me/posts/writeups/ran-dev/</guid>
-      <description>Description We hired a full stack developer but seems he faked all his experience and he is just lazy developer and got attacked by a weird ransomware can you investigate what happened ? Questions Q1: What is the bitcoin wallet address that the hacker left Q2: What is the SHA256 of the Ransomware Q3: What is the full URL that downloaded the ransomware? Q4: What function executed the ransomware? Q5: What is the extension of the ransomware?</description>
+      <guid>https://mmox.me/posts/writeups/lockbit/</guid>
+      <description>Description: One of our men got attacked. can you investigate his computer? Q1: Using a memory dump analysis, can you determine the date and time that the device was infected with the malware? Q2: What is the name of the ransomware family responsible for the attack? Q3: What file extension is appended to the encrypted files by the ransomware? Q4: What is the TLSH (Trend Micro Locality Sensitive Hash) of the ransomware?</description>
     </item>
     
   </channel>
