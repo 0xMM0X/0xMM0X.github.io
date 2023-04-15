@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Disk on MMOX</title>
+    <link>https://mmox.me/categories/disk/</link>
+    <description>Recent content in Disk on MMOX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/categories/disk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cyber Defenders ( Sysinternals )</title>
+      <link>https://mmox.me/posts/writeups/sysinternals/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/posts/writeups/sysinternals/</guid>
+      <description>Description A user thought they were downloading the SysInternals tool suite and attempted to open it, but the tools did not launch and became inaccessible. Since then, the user has observed that their system has gradually slowed down and become less responsive.Challenge Link : https://cyberdefenders.org/blueteam-ctf-challenges/55Supportive Tools:
+Registry Explorer Event Log Explorer AppCompatCachParser VirsuTotal Web Cache View FTK Imager Autopsy Writeup Q1 1: What was the malicious executable file name that the user downloaded?</description>
+    </item>
+    
+  </channel>
+</rss>
