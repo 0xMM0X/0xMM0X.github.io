@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/categories/digital-forensics/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cyber Defenders ( Sysinternals )</title>
+      <title>Cyber Defenders - Sysinternals</title>
       <link>https://mmox.me/posts/writeups/sysinternals/</link>
       <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
       
@@ -17,7 +17,7 @@ Registry Explorer Event Log Explorer AppCompatCachParser VirsuTotal Web Cache Vi
     </item>
     
     <item>
-      <title>Cyber Defenders ( Patrick)</title>
+      <title>Cyber Defenders - Patrick</title>
       <link>https://mmox.me/posts/writeups/patrick/</link>
       <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
       
@@ -27,7 +27,7 @@ CyberChef iLEAPP dcode DB Browser for SQLite unfurl MacForensics PList Deseriali
     </item>
     
     <item>
-      <title>Cyber Defenders ( XLM-Macros)</title>
+      <title>Cyber Defenders - XLM-Macros</title>
       <link>https://mmox.me/posts/writeups/xlm-macros/</link>
       <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
       
@@ -46,7 +46,16 @@ So i just dumped the files and using the famous ericzimmerman tool EvtxECmd i wa
     </item>
     
     <item>
-      <title>Cyber Defenders (Ulysses )</title>
+      <title>Cyber Defenders - AzurePot</title>
+      <link>https://mmox.me/posts/writeups/azurepot/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/posts/writeups/azurepot/</guid>
+      <description>Description This Ubuntu Linux honeypot was put online in Azure in early October to watch what happens with those exploiting CVE-2021-41773.Initially, there was a large number of crypto miners that hit the system. You will see one cron script meant to remove files named kinsing in /tmp. This was a way of preventing these miners so more interesting things could occur. Challenge Files: – sdb.vhd.gz – VHD of the main drive obtained through an Azure disk snapshot – ubuntu.</description>
+    </item>
+    
+    <item>
+      <title>Cyber Defenders - Ulysses</title>
       <link>https://mmox.me/posts/writeups/ulysses-writeup/</link>
       <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
       
@@ -66,7 +75,7 @@ And I am going to do some analysis form a forensics perspective</description>
     </item>
     
     <item>
-      <title>Cyber Defenders (BankingTroubles - Memory Image Forensics )</title>
+      <title>Cyber Defenders - BankingTroubles</title>
       <link>https://mmox.me/posts/writeups/bankingtroubles-memory-image-forensics/</link>
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
       

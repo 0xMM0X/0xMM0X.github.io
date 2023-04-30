@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 14 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/categories/sda/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cyber Defenders (Ulysses )</title>
+      <title>Cyber Defenders - AzurePot</title>
+      <link>https://mmox.me/posts/writeups/azurepot/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/posts/writeups/azurepot/</guid>
+      <description>Description This Ubuntu Linux honeypot was put online in Azure in early October to watch what happens with those exploiting CVE-2021-41773.Initially, there was a large number of crypto miners that hit the system. You will see one cron script meant to remove files named kinsing in /tmp. This was a way of preventing these miners so more interesting things could occur. Challenge Files: – sdb.vhd.gz – VHD of the main drive obtained through an Azure disk snapshot – ubuntu.</description>
+    </item>
+    
+    <item>
+      <title>Cyber Defenders - Ulysses</title>
       <link>https://mmox.me/posts/writeups/ulysses-writeup/</link>
       <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
       
