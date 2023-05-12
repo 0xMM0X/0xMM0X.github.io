@@ -1,0 +1,4 @@
+I received a Linux memory dump, but I don't know what version of the kernel was used to create it. The person who sent me this file mentioned that all the passwords are 'CAVCTF93'.
+
+
+Here is the link to download the file: https://www.mediafire.com/file/7w79a42yd9r0w9c/invers.rar/file
