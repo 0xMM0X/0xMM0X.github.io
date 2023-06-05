@@ -7,13 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 08 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/lets-defend/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Let&#39;s Defend - HackerMan</title>
-      <link>https://mmox.me/posts/letsdefend/hackerman/</link>
+      <title>Let&#39;s Defend - PCAP Analysis</title>
+      <link>https://mmox.me/posts/letsdefend/pcap-analysis/</link>
       <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mmox.me/posts/letsdefend/hackerman/</guid>
-      <description>Description An ex-employee, who appears to hold a grudge against their former boss, is displaying concerning behavior. We seek assistance in uncovering their intentions or plans. Tools Tools Required 1- FTKimger 2- DB Browser 3- notepad++ Writeup Q1 What is the md5sum of the img? by unzipping challenge 7z we got a disk image to verify the img integrity Q1 is there so let&amp;rsquo;s run this command:
-md5sum hackerman.img the answer is</description>
+      <guid>https://mmox.me/posts/letsdefend/pcap-analysis/</guid>
+      <description>Description We captured this traffic from P13&amp;#39;s computer so can you help him? Tools 1- Wireshark 2- OSINT Tools 3- Reverse engineering 4- Python scripting Writeup Q1 in this challenge I got a network traffic.
+so let&amp;rsquo;s openit and investigate that traffics.
+As we can see there are 25,262 packets so let&amp;rsquo;s filter the streams to TCP protocols and check if there is anything suspicious.
+Okay got 7780 stream so let&amp;rsquo;s check the whole stream and find something interesting.</description>
     </item>
     
   </channel>
