@@ -5,19 +5,7 @@
     <link>https://mmox.me/tags/writeups/</link>
     <description>Recent content in Writeups on MMOX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 05 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/writeups/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Let&#39;s Defend - Docker Forensics</title>
-      <link>https://mmox.me/posts/letsdefend/dockerforensics/</link>
-      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmox.me/posts/letsdefend/dockerforensics/</guid>
-      <description>Description Just Dive Into the DOCKER to REVEAL the layers Tools 1- Docker 2- Dive Writeup Q1 How many layers are in this docker container that u pull into your device? For this Question all u need to do after pulling the image into your local docker use the Dive tool to get all the layers
-dive mmox/what-is-0xl4ugh by just counting them we get the answer
-23
-Q2 What is the web server that the image used?</description>
-    </item>
-    
+    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/writeups/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cyber Defenders - Sysinternals</title>
       <link>https://mmox.me/posts/writeups/sysinternals/</link>
