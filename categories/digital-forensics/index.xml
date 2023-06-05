@@ -5,19 +5,7 @@
     <link>https://mmox.me/categories/digital-forensics/</link>
     <description>Recent content in Digital Forensics on MMOX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 05 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/categories/digital-forensics/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Let&#39;s Defend - PCAP Analysis</title>
-      <link>https://mmox.me/posts/letsdefend/pcap-analysis/</link>
-      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmox.me/posts/letsdefend/pcap-analysis/</guid>
-      <description>Description We captured this traffic from P13&amp;#39;s computer so can you help him? Tools 1- Wireshark 2- OSINT Tools 3- Reverse engineering 4- Python scripting Writeup Q1 in this challenge I got a network traffic.
-so let&amp;rsquo;s openit and investigate that traffics.
-As we can see there are 25,262 packets so let&amp;rsquo;s filter the streams to TCP protocols and check if there is anything suspicious.
-Okay got 7780 stream so let&amp;rsquo;s check the whole stream and find something interesting.</description>
-    </item>
-    
+    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/categories/digital-forensics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cyber Defenders - Sysinternals</title>
       <link>https://mmox.me/posts/writeups/sysinternals/</link>

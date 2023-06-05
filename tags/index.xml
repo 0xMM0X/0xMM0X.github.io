@@ -5,49 +5,31 @@
     <link>https://mmox.me/tags/</link>
     <description>Recent content in Tags on MMOX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 05 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Digital Forensics</title>
-      <link>https://mmox.me/tags/digital-forensics/</link>
-      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmox.me/tags/digital-forensics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lets defend</title>
-      <link>https://mmox.me/tags/lets-defend/</link>
-      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmox.me/tags/lets-defend/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Network</title>
-      <link>https://mmox.me/tags/network/</link>
-      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmox.me/tags/network/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Writeups</title>
-      <link>https://mmox.me/tags/writeups/</link>
-      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmox.me/tags/writeups/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cyberdefenders</title>
       <link>https://mmox.me/tags/cyberdefenders/</link>
       <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://mmox.me/tags/cyberdefenders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Forensics</title>
+      <link>https://mmox.me/tags/digital-forensics/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/tags/digital-forensics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writeups</title>
+      <link>https://mmox.me/tags/writeups/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/tags/writeups/</guid>
       <description></description>
     </item>
     
