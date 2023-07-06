@@ -5,15 +5,14 @@
     <link>https://mmox.me/tags/img/</link>
     <description>Recent content in img on MMOX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 08 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/img/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/img/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Let&#39;s Defend - HackerMan</title>
-      <link>https://mmox.me/posts/letsdefend/hackerman/</link>
-      <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
+      <title>Let&#39;s Defend - Linux Disk</title>
+      <link>https://mmox.me/posts/letsdefend/linuxdisk/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mmox.me/posts/letsdefend/hackerman/</guid>
-      <description>Description An ex-employee, who appears to hold a grudge against their former boss, is displaying concerning behavior. We seek assistance in uncovering their intentions or plans. Tools Tools Required 1- FTKimger 2- DB Browser 3- notepad++ Writeup Q1 What is the md5sum of the img? by unzipping challenge 7z we got a disk image to verify the img integrity Q1 is there so let&amp;rsquo;s run this command:
-md5sum hackerman.img the answer is</description>
+      <guid>https://mmox.me/posts/letsdefend/linuxdisk/</guid>
+      <description>Description Dean downloaded a cracked software application from an unofficial source and subsequently discovered that his personal data has been leaked. An investigation is now underway to determine the cause of the data leak and mitigate any potential damage. Tools Tools Required 1- FTKimger 2- Notepad++ 3- Scripting Writeup Q1 What distribution system was used by the victim, including its version? By open the disk image on FTK imager. now we need to start investgiating and find out the system and the version.</description>
     </item>
     
   </channel>

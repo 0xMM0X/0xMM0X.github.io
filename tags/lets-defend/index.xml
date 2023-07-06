@@ -5,17 +5,14 @@
     <link>https://mmox.me/tags/lets-defend/</link>
     <description>Recent content in Lets defend on MMOX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 05 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/lets-defend/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/lets-defend/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Let&#39;s Defend - Docker Forensics</title>
-      <link>https://mmox.me/posts/letsdefend/dockerforensics/</link>
-      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      <title>Let&#39;s Defend - Linux Disk</title>
+      <link>https://mmox.me/posts/letsdefend/linuxdisk/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mmox.me/posts/letsdefend/dockerforensics/</guid>
-      <description>Description Just Dive Into the DOCKER to REVEAL the layers Tools 1- Docker 2- Dive Writeup Q1 How many layers are in this docker container that u pull into your device? For this Question all u need to do after pulling the image into your local docker use the Dive tool to get all the layers
-dive mmox/what-is-0xl4ugh by just counting them we get the answer
-23
-Q2 What is the web server that the image used?</description>
+      <guid>https://mmox.me/posts/letsdefend/linuxdisk/</guid>
+      <description>Description Dean downloaded a cracked software application from an unofficial source and subsequently discovered that his personal data has been leaked. An investigation is now underway to determine the cause of the data leak and mitigate any potential damage. Tools Tools Required 1- FTKimger 2- Notepad++ 3- Scripting Writeup Q1 What distribution system was used by the victim, including its version? By open the disk image on FTK imager. now we need to start investgiating and find out the system and the version.</description>
     </item>
     
   </channel>
