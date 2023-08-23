@@ -5,15 +5,14 @@
     <link>https://mmox.me/tags/windows/</link>
     <description>Recent content in Windows on MMOX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 06 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/windows/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Let&#39;s Defend - vLP</title>
-      <link>https://mmox.me/posts/letsdefend/vlp/</link>
-      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      <title>Let&#39;s Defend - Cl0p</title>
+      <link>https://mmox.me/posts/letsdefend/cl0p/</link>
+      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mmox.me/posts/letsdefend/vlp/</guid>
-      <description>Description Our friend fell victim to a suspicious crack tool. but it seems it didn&amp;#39;t goes in the right path so investigate it to find any evidence. Tools Tools Required 1- Volatility 2- Notepad++ 3- VirusTotal or VM. 4- Linux Command Line Writeup Q1 How many users are on the machine? In this question we can use filescan then grep the Users and sort them and find the uniq
-python3 /mnt/d/volatility3/vol.</description>
+      <guid>https://mmox.me/posts/letsdefend/cl0p/</guid>
+      <description>Description Our friend fell victim to a ransomware attack and reached out to seek your expertise in analyzing the system to uncover the cause of the breach. We have provided you with a memory dump of his computer as the starting point for your investigation. Tools Tools Required 1- Volatility 2- Notepad++ 3- VirusTotal or VM. Writeup Q1 What is the dump profile? Well by checking the file we got it&amp;rsquo;s a memory dump so we are going to use volatility in this case for our investigations.</description>
     </item>
     
   </channel>

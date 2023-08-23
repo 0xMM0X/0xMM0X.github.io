@@ -5,7 +5,16 @@
     <link>https://mmox.me/posts/</link>
     <description>Recent content in Posts on MMOX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Let&#39;s Defend - Cl0p</title>
+      <link>https://mmox.me/posts/letsdefend/cl0p/</link>
+      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/posts/letsdefend/cl0p/</guid>
+      <description>Description Our friend fell victim to a ransomware attack and reached out to seek your expertise in analyzing the system to uncover the cause of the breach. We have provided you with a memory dump of his computer as the starting point for your investigation. Tools Tools Required 1- Volatility 2- Notepad++ 3- VirusTotal or VM. Writeup Q1 What is the dump profile? Well by checking the file we got it&amp;rsquo;s a memory dump so we are going to use volatility in this case for our investigations.</description>
+    </item>
+    
     <item>
       <title>Cyber Defenders - Sysinternals</title>
       <link>https://mmox.me/posts/writeups/sysinternals/</link>
