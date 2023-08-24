@@ -5,11 +5,11 @@
     <link>https://mmox.me/categories/</link>
     <description>Recent content in Categories on MMOX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DFIR</title>
       <link>https://mmox.me/categories/dfir/</link>
-      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://mmox.me/categories/dfir/</guid>
       <description></description>
@@ -18,9 +18,27 @@
     <item>
       <title>Digital Forensics</title>
       <link>https://mmox.me/categories/digital-forensics/</link>
-      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://mmox.me/categories/digital-forensics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steganography</title>
+      <link>https://mmox.me/categories/steganography/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/categories/steganography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writeups</title>
+      <link>https://mmox.me/categories/writeups/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/categories/writeups/</guid>
       <description></description>
     </item>
     
@@ -39,15 +57,6 @@
       <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://mmox.me/categories/memory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Writeups</title>
-      <link>https://mmox.me/categories/writeups/</link>
-      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmox.me/categories/writeups/</guid>
       <description></description>
     </item>
     
