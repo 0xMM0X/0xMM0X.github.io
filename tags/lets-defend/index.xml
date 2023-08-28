@@ -5,14 +5,14 @@
     <link>https://mmox.me/tags/lets-defend/</link>
     <description>Recent content in Lets defend on MMOX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 06 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/lets-defend/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/lets-defend/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Let&#39;s Defend - Im493</title>
-      <link>https://mmox.me/posts/letsdefend/im493/</link>
-      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      <title>Let&#39;s Defend - Winny</title>
+      <link>https://mmox.me/posts/letsdefend/winny/</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mmox.me/posts/letsdefend/im493/</guid>
-      <description>Description We are sure this image contain a malicious thing but we couldn&amp;#39;t know what is this. so we need you to investigate it and check if you can find evidences. Tools Tools Required 1- Powershell 2- Notepad++ 3- Cyberchef 4- PS-Image Decoder | Python Script Writeup Q1 What is the camera that took this image? In this question if we tried the exiftool we won&amp;rsquo;t find any useful information.</description>
+      <guid>https://mmox.me/posts/letsdefend/winny/</guid>
+      <description>Description It seems there are many cracks for famous game. but it seems we downloaded the wrong one because it has a suspicious behavior and we need you to investigate it. Tools Tools Required 1- Volatility3 2- Notepad++ 3- Cyberchef 4- Exiftool | Metadata viewer Writeup Q1 What is the suspected process? Well we got a memory dump and we need to locate the suspicious process. so let&amp;rsquo;s use volatility to go through this challenge.</description>
     </item>
     
   </channel>

@@ -5,7 +5,16 @@
     <link>https://mmox.me/</link>
     <description>Recent content on MMOX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Let&#39;s Defend - Winny</title>
+      <link>https://mmox.me/posts/letsdefend/winny/</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/posts/letsdefend/winny/</guid>
+      <description>Description It seems there are many cracks for famous game. but it seems we downloaded the wrong one because it has a suspicious behavior and we need you to investigate it. Tools Tools Required 1- Volatility3 2- Notepad++ 3- Cyberchef 4- Exiftool | Metadata viewer Writeup Q1 What is the suspected process? Well we got a memory dump and we need to locate the suspicious process. so let&amp;rsquo;s use volatility to go through this challenge.</description>
+    </item>
+    
     <item>
       <title>Cyber Defenders - Sysinternals</title>
       <link>https://mmox.me/posts/writeups/sysinternals/</link>
