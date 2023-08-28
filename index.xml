@@ -5,16 +5,7 @@
     <link>https://mmox.me/</link>
     <description>Recent content on MMOX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 06 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Let&#39;s Defend - Im493</title>
-      <link>https://mmox.me/posts/letsdefend/im493/</link>
-      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmox.me/posts/letsdefend/im493/</guid>
-      <description>Description We are sure this image contain a malicious thing but we couldn&amp;#39;t know what is this. so we need you to investigate it and check if you can find evidences. Tools Tools Required 1- Powershell 2- Notepad++ 3- Cyberchef 4- PS-Image Decoder | Python Script Writeup Q1 What is the camera that took this image? In this question if we tried the exiftool we won&amp;rsquo;t find any useful information.</description>
-    </item>
-    
+    <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cyber Defenders - Sysinternals</title>
       <link>https://mmox.me/posts/writeups/sysinternals/</link>
