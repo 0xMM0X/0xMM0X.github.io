@@ -5,14 +5,71 @@
     <link>https://mmox.me/tags/writeups/</link>
     <description>Recent content in Writeups on MMOX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/writeups/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/writeups/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Let&#39;s Defend - Winny</title>
-      <link>https://mmox.me/posts/letsdefend/winny/</link>
+      <title>Let&#39;s Defend - PCAP Analysis</title>
+      <link>https://mmox.me/posts/letsdefend/pcap-analysis/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/posts/letsdefend/pcap-analysis/</guid>
+      <description>Description We captured this traffic from P13&amp;#39;s computer so can you help him? Tools 1- Wireshark 2- OSINT Tools 3- Reverse engineering 4- Python scripting Writeup Q1 in this challenge I got a network traffic.
+so let&amp;rsquo;s openit and investigate that traffics.
+As we can see there are 25,262 packets so let&amp;rsquo;s filter the streams to TCP protocols and check if there is anything suspicious.
+Okay got 7780 stream so let&amp;rsquo;s check the whole stream and find something interesting.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Defend - Windows Memory Dump</title>
+      <link>https://mmox.me/posts/letsdefend/vlp/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/posts/letsdefend/vlp/</guid>
+      <description>Description Our friend fell victim to a suspicious crack tool. but it seems it didn&amp;#39;t goes in the right path so investigate it to find any evidence. Tools Tools Required 1- Volatility 2- Notepad++ 3- VirusTotal or VM. 4- Linux Command Line Writeup Q1 How many users are on the machine? In this question we can use filescan then grep the Users and sort them and find the uniq</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Defend - WinRAR 0-Day</title>
+      <link>https://mmox.me/posts/letsdefend/winrar0-day/</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mmox.me/posts/letsdefend/winny/</guid>
+      <guid>https://mmox.me/posts/letsdefend/winrar0-day/</guid>
       <description>Description It seems there are many cracks for famous game. but it seems we downloaded the wrong one because it has a suspicious behavior and we need you to investigate it. Tools Tools Required 1- Volatility3 2- Notepad++ 3- Cyberchef 4- Exiftool | Metadata viewer Writeup Q1 What is the suspected process? Well we got a memory dump and we need to locate the suspicious process. so let&amp;rsquo;s use volatility to go through this challenge.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Defend - Cl0p</title>
+      <link>https://mmox.me/posts/letsdefend/cl0p/</link>
+      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/posts/letsdefend/cl0p/</guid>
+      <description>Description Our friend fell victim to a ransomware attack and reached out to seek your expertise in analyzing the system to uncover the cause of the breach. We have provided you with a memory dump of his computer as the starting point for your investigation. Tools Tools Required 1- Volatility 2- Notepad++ 3- VirusTotal or VM. Writeup Q1 What is the dump profile? Well by checking the file we got it&amp;rsquo;s a memory dump so we are going to use volatility in this case for our investigations.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Defend - HTTP/2 Rapid Reset</title>
+      <link>https://mmox.me/posts/letsdefend/http2-rapid-reset/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/posts/letsdefend/http2-rapid-reset/</guid>
+      <description>Description We are hosting a gallery website for public arts, we faced slowness issues however our deployment team decided to utilize HTTP/2 as when scrolling a webpage with multiple images, a web browser can cancel images that fall outside the viewport, meaning that images entering it can load faster. Everything went smoothly in our testing environment but after going live with the new protocol suddenly everything stopped working. We were able to capture the traffic from the web server, can you help us to figure out what happened?</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Defend - Linux Disk Forensics</title>
+      <link>https://mmox.me/posts/letsdefend/linux-disk-forensics/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/posts/letsdefend/linux-disk-forensics/</guid>
+      <description>Description Dean downloaded a cracked software application from an unofficial source and subsequently discovered that his personal data has been leaked. An investigation is now underway to determine the cause of the data leak and mitigate any potential damage. Tools Tools Required 1- FTKimger 2- Notepad++ 3- Scripting Writeup Q1 What distribution system was used by the victim, including its version? By open the disk image on FTK imager. now we need to start investgiating and find out the system and the version.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Defend - Linux Disk Forensics</title>
+      <link>https://mmox.me/posts/letsdefend/malicious-chrome-extension/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/posts/letsdefend/malicious-chrome-extension/</guid>
+      <description>Description The victim found out their private info was out there for everyone to see, and things got worse – the bad guys got into their money stuff, social media, and personal emails. We got an image of his machine so you can tell us what happened. Tools Tools Required 1- FTKimger 2- Notepad++ 3- DB Browser for SQLite Writeup From the challenge description, we can see that the victim&amp;rsquo;s PII was stolen.</description>
     </item>
     
     <item>

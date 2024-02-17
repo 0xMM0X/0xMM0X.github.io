@@ -5,7 +5,16 @@
     <link>https://mmox.me/tags/windows/</link>
     <description>Recent content in Windows on MMOX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 25 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Let&#39;s Defend - Windows Memory Dump</title>
+      <link>https://mmox.me/posts/letsdefend/vlp/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/posts/letsdefend/vlp/</guid>
+      <description>Description Our friend fell victim to a suspicious crack tool. but it seems it didn&amp;#39;t goes in the right path so investigate it to find any evidence. Tools Tools Required 1- Volatility 2- Notepad++ 3- VirusTotal or VM. 4- Linux Command Line Writeup Q1 How many users are on the machine? In this question we can use filescan then grep the Users and sort them and find the uniq</description>
+    </item>
+    
     <item>
       <title>Let&#39;s Defend - Cl0p</title>
       <link>https://mmox.me/posts/letsdefend/cl0p/</link>

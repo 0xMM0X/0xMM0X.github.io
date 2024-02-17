@@ -3,33 +3,60 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://mmox.me/categories/</loc>
-    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmox.me/categories/dfir/</loc>
-    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmox.me/tags/digital-forensics/</loc>
-    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmox.me/categories/digital-forensics/</loc>
-    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mmox.me/posts/letsdefend/winny/</loc>
-    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
+    <loc>https://mmox.me/posts/letsdefend/pcap-analysis/</loc>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmox.me/tags/lets-defend/</loc>
-    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/categories/malware-analysis/</loc>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/</loc>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/tags/network/</loc>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/posts/</loc>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/tags/</loc>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/tags/writeups/</loc>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/categories/writeups/</loc>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/posts/letsdefend/vlp/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/categories/memory/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmox.me/tags/memory-dump/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/tags/windows/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/posts/letsdefend/winrar0-day/</loc>
     <lastmod>2023-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmox.me/categories/memory-dump/</loc>
-    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mmox.me/</loc>
-    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mmox.me/posts/</loc>
     <lastmod>2023-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmox.me/tags/steganography/</loc>
@@ -38,20 +65,38 @@
     <loc>https://mmox.me/categories/steganography/</loc>
     <lastmod>2023-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mmox.me/tags/</loc>
-    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mmox.me/tags/vbs/</loc>
     <lastmod>2023-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmox.me/tags/windows-powershell/</loc>
     <lastmod>2023-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mmox.me/tags/writeups/</loc>
-    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
+    <loc>https://mmox.me/posts/letsdefend/cl0p/</loc>
+    <lastmod>2023-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mmox.me/categories/writeups/</loc>
-    <lastmod>2023-08-28T00:00:00+00:00</lastmod>
+    <loc>https://mmox.me/tags/cve-2023-44487/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/tags/img/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/posts/letsdefend/http2-rapid-reset/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/posts/letsdefend/linux-disk-forensics/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/posts/letsdefend/malicious-chrome-extension/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/tags/linux/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/categories/logs/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/tags/pcap/</loc>
+    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmox.me/posts/writeups/sysinternals/</loc>
     <lastmod>2023-04-15T00:00:00+00:00</lastmod>
@@ -60,9 +105,6 @@
     <lastmod>2023-04-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmox.me/categories/disk/</loc>
-    <lastmod>2023-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mmox.me/categories/memory/</loc>
     <lastmod>2023-04-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmox.me/posts/writeups/patrick/</loc>
@@ -81,9 +123,6 @@
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmox.me/tags/malware-analysis/</loc>
-    <lastmod>2022-12-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mmox.me/categories/malware-analysis/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmox.me/tags/ctf/</loc>

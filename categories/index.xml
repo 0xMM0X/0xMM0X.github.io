@@ -5,11 +5,11 @@
     <link>https://mmox.me/categories/</link>
     <description>Recent content in Categories on MMOX</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DFIR</title>
       <link>https://mmox.me/categories/dfir/</link>
-      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>https://mmox.me/categories/dfir/</guid>
       <description></description>
@@ -18,9 +18,36 @@
     <item>
       <title>Digital Forensics</title>
       <link>https://mmox.me/categories/digital-forensics/</link>
-      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>https://mmox.me/categories/digital-forensics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malware Analysis</title>
+      <link>https://mmox.me/categories/malware-analysis/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/categories/malware-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writeups</title>
+      <link>https://mmox.me/categories/writeups/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/categories/writeups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory</title>
+      <link>https://mmox.me/categories/memory/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mmox.me/categories/memory/</guid>
       <description></description>
     </item>
     
@@ -43,11 +70,11 @@
     </item>
     
     <item>
-      <title>Writeups</title>
-      <link>https://mmox.me/categories/writeups/</link>
-      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      <title>Logs</title>
+      <link>https://mmox.me/categories/logs/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mmox.me/categories/writeups/</guid>
+      <guid>https://mmox.me/categories/logs/</guid>
       <description></description>
     </item>
     
@@ -61,29 +88,11 @@
     </item>
     
     <item>
-      <title>Memory</title>
-      <link>https://mmox.me/categories/memory/</link>
-      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmox.me/categories/memory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>IOS</title>
       <link>https://mmox.me/categories/ios/</link>
       <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://mmox.me/categories/ios/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Malware Analysis</title>
-      <link>https://mmox.me/categories/malware-analysis/</link>
-      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmox.me/categories/malware-analysis/</guid>
       <description></description>
     </item>
     
