@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Network on MMOX</title>
     <link>https://mmox.me/tags/network/</link>
     <description>Recent content in Network on MMOX</description>
+    <image>
+      <title>MMOX</title>
+      <url>https://mmox.me/img/profile.png</url>
+      <link>https://mmox.me/img/profile.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 12 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/network/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 12 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mmox.me/tags/network/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Let&#39;s Defend - PCAP Analysis</title>
       <link>https://mmox.me/posts/letsdefend/pcap-analysis/</link>
       <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/posts/letsdefend/pcap-analysis/</guid>
-      <description>Description We captured this traffic from P13&amp;#39;s computer so can you help him? Tools 1- Wireshark 2- OSINT Tools 3- Reverse engineering 4- Python scripting Writeup Q1 in this challenge I got a network traffic.
-so let&amp;rsquo;s openit and investigate that traffics.
-As we can see there are 25,262 packets so let&amp;rsquo;s filter the streams to TCP protocols and check if there is anything suspicious.
-Okay got 7780 stream so let&amp;rsquo;s check the whole stream and find something interesting.</description>
+      <description>Digital Forensic Network challenge Writeup </description>
     </item>
-    
   </channel>
 </rss>

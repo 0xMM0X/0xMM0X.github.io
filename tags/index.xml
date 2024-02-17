@@ -1,253 +1,206 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on MMOX</title>
     <link>https://mmox.me/tags/</link>
     <description>Recent content in Tags on MMOX</description>
+    <image>
+      <title>MMOX</title>
+      <url>https://mmox.me/img/profile.png</url>
+      <link>https://mmox.me/img/profile.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 12 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 12 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mmox.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Digital Forensics</title>
       <link>https://mmox.me/tags/digital-forensics/</link>
       <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/tags/digital-forensics/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Lets defend</title>
       <link>https://mmox.me/tags/lets-defend/</link>
       <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/tags/lets-defend/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Network</title>
       <link>https://mmox.me/tags/network/</link>
       <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/tags/network/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Writeups</title>
       <link>https://mmox.me/tags/writeups/</link>
       <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/tags/writeups/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>img</title>
+      <link>https://mmox.me/tags/img/</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://mmox.me/tags/img/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>https://mmox.me/tags/linux/</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://mmox.me/tags/linux/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Memory Dump</title>
       <link>https://mmox.me/tags/memory-dump/</link>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/tags/memory-dump/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Windows</title>
       <link>https://mmox.me/tags/windows/</link>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/tags/windows/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Steganography</title>
       <link>https://mmox.me/tags/steganography/</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/tags/steganography/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>VBS</title>
       <link>https://mmox.me/tags/vbs/</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/tags/vbs/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Windows Powershell</title>
       <link>https://mmox.me/tags/windows-powershell/</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/tags/windows-powershell/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>CVE-2023-44487</title>
       <link>https://mmox.me/tags/cve-2023-44487/</link>
       <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/tags/cve-2023-44487/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>img</title>
-      <link>https://mmox.me/tags/img/</link>
-      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmox.me/tags/img/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>https://mmox.me/tags/linux/</link>
-      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmox.me/tags/linux/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Pcap</title>
       <link>https://mmox.me/tags/pcap/</link>
       <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/tags/pcap/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>cyberdefenders</title>
       <link>https://mmox.me/tags/cyberdefenders/</link>
       <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/tags/cyberdefenders/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>IOS</title>
       <link>https://mmox.me/tags/ios/</link>
       <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/tags/ios/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Macros</title>
       <link>https://mmox.me/tags/macros/</link>
       <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/tags/macros/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Malware Analysis</title>
       <link>https://mmox.me/tags/malware-analysis/</link>
       <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/tags/malware-analysis/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>CTF</title>
       <link>https://mmox.me/tags/ctf/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/tags/ctf/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Hackathon</title>
       <link>https://mmox.me/tags/hackathon/</link>
       <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/tags/hackathon/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>info-sec</title>
       <link>https://mmox.me/tags/info-sec/</link>
       <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/tags/info-sec/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Machines</title>
       <link>https://mmox.me/tags/machines/</link>
       <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/tags/machines/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ADAM</title>
       <link>https://mmox.me/tags/adam/</link>
       <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/tags/adam/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Classfication</title>
       <link>https://mmox.me/tags/classfication/</link>
       <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/tags/classfication/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ML</title>
       <link>https://mmox.me/tags/ml/</link>
       <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/tags/ml/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Ransomwares</title>
       <link>https://mmox.me/tags/ransomwares/</link>
       <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/tags/ransomwares/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Ryuk</title>
       <link>https://mmox.me/tags/ryuk/</link>
       <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/tags/ryuk/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>MemLabs</title>
       <link>https://mmox.me/tags/memlabs/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/tags/memlabs/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

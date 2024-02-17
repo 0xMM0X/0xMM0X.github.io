@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>VBS on MMOX</title>
     <link>https://mmox.me/tags/vbs/</link>
     <description>Recent content in VBS on MMOX</description>
+    <image>
+      <title>MMOX</title>
+      <url>https://mmox.me/img/profile.png</url>
+      <link>https://mmox.me/img/profile.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/vbs/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mmox.me/tags/vbs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Let&#39;s Defend - WinRAR 0-Day</title>
       <link>https://mmox.me/posts/letsdefend/winrar0-day/</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/posts/letsdefend/winrar0-day/</guid>
-      <description>Description It seems there are many cracks for famous game. but it seems we downloaded the wrong one because it has a suspicious behavior and we need you to investigate it. Tools Tools Required 1- Volatility3 2- Notepad++ 3- Cyberchef 4- Exiftool | Metadata viewer Writeup Q1 What is the suspected process? Well we got a memory dump and we need to locate the suspicious process. so let&amp;rsquo;s use volatility to go through this challenge.</description>
+      <description>Digital Forensic Memory dump challenge Writeup </description>
     </item>
-    
   </channel>
 </rss>

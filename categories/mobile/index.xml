@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mobile on MMOX</title>
     <link>https://mmox.me/categories/mobile/</link>
     <description>Recent content in Mobile on MMOX</description>
+    <image>
+      <title>MMOX</title>
+      <url>https://mmox.me/img/profile.png</url>
+      <link>https://mmox.me/img/profile.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/categories/mobile/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mmox.me/categories/mobile/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CyCTF 2022 Writeups</title>
       <link>https://mmox.me/posts/writeups/cyctf2022-writeup/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/posts/writeups/cyctf2022-writeup/</guid>
-      <description>Challenge Name Challenge link Type Lazaretto ✔ Download Forensics Hotel ✔ Download Forensics Subscription Download Forensics Geology docker pull cyctf/geology Forensics imPOSTer ✔ Download Forensics Mach ✔ Download Mobile Lazaretto Challege Description Writeup we were provided with an ad1 file using FTKimager we were able to open it and it had only windows event logs
-So i just dumped the files and using the famous ericzimmerman tool EvtxECmd i was able to pares the full events into a csv file using this command</description>
+      <description>Digital Forensic Challenges Writeups and one Mobile</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>info-sec on MMOX</title>
     <link>https://mmox.me/tags/info-sec/</link>
     <description>Recent content in info-sec on MMOX</description>
+    <image>
+      <title>MMOX</title>
+      <url>https://mmox.me/img/profile.png</url>
+      <link>https://mmox.me/img/profile.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 07 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/info-sec/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 07 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mmox.me/tags/info-sec/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alpha Box info-sec Hackathon Writeup</title>
       <link>https://mmox.me/posts/writeups/alphabox-infosecwriteup/</link>
       <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/posts/writeups/alphabox-infosecwriteup/</guid>
-      <description>Challenge We were provided with this info
-https://77.87.243.155 username: alpha password: 900d1uck734m41ph4 and we will use it to login to the web kalIbox that we will use to solve the machine
-Writeup I had a little idea that they have the machine on the same box so Ichecked the hosts to know the ip
-cat /etc/hosts yup I was right the ip was there 192.168.204.3 funbox11
-let&amp;rsquo;s scan it using nmap</description>
+      <description>this was a machine in the info-sec.live hackathon</description>
     </item>
-    
   </channel>
 </rss>

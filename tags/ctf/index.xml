@@ -1,45 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>CTF on MMOX</title>
     <link>https://mmox.me/tags/ctf/</link>
     <description>Recent content in CTF on MMOX</description>
+    <image>
+      <title>MMOX</title>
+      <url>https://mmox.me/img/profile.png</url>
+      <link>https://mmox.me/img/profile.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/ctf/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mmox.me/tags/ctf/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CyCTF 2022 Writeups</title>
       <link>https://mmox.me/posts/writeups/cyctf2022-writeup/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/posts/writeups/cyctf2022-writeup/</guid>
-      <description>Challenge Name Challenge link Type Lazaretto ✔ Download Forensics Hotel ✔ Download Forensics Subscription Download Forensics Geology docker pull cyctf/geology Forensics imPOSTer ✔ Download Forensics Mach ✔ Download Mobile Lazaretto Challege Description Writeup we were provided with an ad1 file using FTKimager we were able to open it and it had only windows event logs
-So i just dumped the files and using the famous ericzimmerman tool EvtxECmd i was able to pares the full events into a csv file using this command</description>
+      <description>Digital Forensic Challenges Writeups and one Mobile</description>
     </item>
-    
     <item>
       <title>Alpha Box info-sec Hackathon Writeup</title>
       <link>https://mmox.me/posts/writeups/alphabox-infosecwriteup/</link>
       <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/posts/writeups/alphabox-infosecwriteup/</guid>
-      <description>Challenge We were provided with this info
-https://77.87.243.155 username: alpha password: 900d1uck734m41ph4 and we will use it to login to the web kalIbox that we will use to solve the machine
-Writeup I had a little idea that they have the machine on the same box so Ichecked the hosts to know the ip
-cat /etc/hosts yup I was right the ip was there 192.168.204.3 funbox11
-let&amp;rsquo;s scan it using nmap</description>
+      <description>this was a machine in the info-sec.live hackathon</description>
     </item>
-    
     <item>
       <title>Wicsme 2020 Writeups</title>
       <link>https://mmox.me/posts/writeups/wicsme2020-writeups/</link>
       <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/posts/writeups/wicsme2020-writeups/</guid>
-      <description>Digital Forensics Fe01 It was an easy one there was a .rtf file when i opened it using (&amp;ldquo;libre office Writer&amp;rdquo;) i found:
-by clicking (Ctr+A) I selected all the right clicked to choose paragraph - Text Body
-the flag appered the flag was : n𝑖𝐶𝑒𝐴𝑛𝐷𝐸𝑎𝑠𝑦10018
-Fe02 it was a PDF File with a black mark that hide some parts of the text, I Opend it using (&amp;ldquo;Atril Document Viewer&amp;rdquo;) And that what appered:</description>
+      <description>Digital Forensic Challenges Writeups and one binary Exploition Challenge</description>
     </item>
-    
   </channel>
 </rss>

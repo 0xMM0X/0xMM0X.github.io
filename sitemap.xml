@@ -41,6 +41,18 @@
     <loc>https://mmox.me/categories/writeups/</loc>
     <lastmod>2024-02-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://mmox.me/tags/img/</loc>
+    <lastmod>2024-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/posts/letsdefend/malicious-chrome-extension/</loc>
+    <lastmod>2024-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/tags/linux/</loc>
+    <lastmod>2024-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/categories/logs/</loc>
+    <lastmod>2024-01-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mmox.me/posts/letsdefend/vlp/</loc>
     <lastmod>2024-01-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -77,22 +89,10 @@
     <loc>https://mmox.me/tags/cve-2023-44487/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mmox.me/tags/img/</loc>
-    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mmox.me/posts/letsdefend/http2-rapid-reset/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmox.me/posts/letsdefend/linux-disk-forensics/</loc>
-    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mmox.me/posts/letsdefend/malicious-chrome-extension/</loc>
-    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mmox.me/tags/linux/</loc>
-    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mmox.me/categories/logs/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmox.me/tags/pcap/</loc>

@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ML on MMOX</title>
     <link>https://mmox.me/tags/ml/</link>
     <description>Recent content in ML on MMOX</description>
+    <image>
+      <title>MMOX</title>
+      <url>https://mmox.me/img/profile.png</url>
+      <link>https://mmox.me/img/profile.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 06 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/tags/ml/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 06 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mmox.me/tags/ml/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gender Classfication model With 92.68% accuracy</title>
       <link>https://mmox.me/posts/ml/gender-detection-model-with-adam/</link>
       <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/posts/ml/gender-detection-model-with-adam/</guid>
-      <description>You can get the data from Kaggle
-Importing Needed Lib
-import os from tensorflow.keras import layers from tensorflow.keras import Model from tensorflow.keras.preprocessing.image import ImageDataGenerator import tensorflow as tf import matplotlib.pyplot as plt import PIL Getting the Data Ready
-train_datagen = ImageDataGenerator(rescale = 1./255, rotation_range=40, width_shift_range=0.2, height_shift_range=0.2, shear_range=0.2, zoom_range=0.2, horizontal_flip=True, fill_mode=&amp;#39;nearest&amp;#39;) test_datagen = ImageDataGenerator( rescale = 1.0/255) train_generator = train_datagen.flow_from_directory(&amp;#39;Gender/Train&amp;#39;, batch_size =256 , class_mode = &amp;#39;binary&amp;#39;, target_size = (64, 64)) validation_generator = test_datagen.</description>
+      <description>ML model using python tensorflow and keras to idintfy if the picture has male or female</description>
     </item>
-    
   </channel>
 </rss>

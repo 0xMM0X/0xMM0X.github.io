@@ -1,29 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>sda on MMOX</title>
     <link>https://mmox.me/categories/sda/</link>
     <description>Recent content in sda on MMOX</description>
+    <image>
+      <title>MMOX</title>
+      <url>https://mmox.me/img/profile.png</url>
+      <link>https://mmox.me/img/profile.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 14 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mmox.me/categories/sda/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 14 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mmox.me/categories/sda/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cyber Defenders - AzurePot</title>
       <link>https://mmox.me/posts/writeups/azurepot/</link>
       <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/posts/writeups/azurepot/</guid>
-      <description>Description This Ubuntu Linux honeypot was put online in Azure in early October to watch what happens with those exploiting CVE-2021-41773.Initially, there was a large number of crypto miners that hit the system. You will see one cron script meant to remove files named kinsing in /tmp. This was a way of preventing these miners so more interesting things could occur. Challenge Files: sdb.vhd.gz VHD of the main drive obtained through an Azure disk snapshot ubuntu.</description>
+      <description>This Ubuntu Linux honeypot was put online in Azure in early October to watch what happens with those exploiting CVE-2021-41773.</description>
     </item>
-    
     <item>
       <title>Cyber Defenders - Ulysses</title>
       <link>https://mmox.me/posts/writeups/ulysses-writeup/</link>
       <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://mmox.me/posts/writeups/ulysses-writeup/</guid>
-      <description>Description A Linux server was possibly compromised and a forensic analysis is required in order to understand what really happened. Hard disk dumps and memory snapshots of the machine are provided in order to solve the challenge.
-Challenge Files: victoria-v8.kcore.img: memory dump done by dd’ing /proc/kcore. victoria-v8.memdump.img: memory dump done with memdump. Debian5_26.zip: volatility custom Linux profile. Challenge Link : https://cyberdefenders.org/labs/41Supportive Tools: Volatilty 2.6 FTK imger HxD Writeup Q1 The attacker was performing a Brute Force attack.</description>
+      <description>A Linux server was possibly compromised and a forensic analysis is required in order to understand what really happened. Hard disk dumps and memory snapshots of the machine are provided in order to solve the challenge. </description>
     </item>
-    
   </channel>
 </rss>
