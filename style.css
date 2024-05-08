@@ -216,6 +216,21 @@ svg {
   margin-top: 2px;
   font-size: 14px;
 }
+.difficulty-easy {
+  color: #65B741;
+  font-weight: bold;
+}
+
+.difficulty-medium {
+  color: #FFAF45 ;
+  font-weight: bold;
+}
+
+.difficulty-hard {
+  color: #E72929;
+  font-weight: bold;
+  
+}
 body {
   font-family: -apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen,
     Ubuntu, Cantarell, open sans, helvetica neue, sans-serif;

@@ -1,5 +1,17 @@
 const gridData = [
   {
+    imageSrc: "./images/Windows Memory Dump.png",
+    title: "Windows Memory Dump",
+    details: [
+      "Published On: Let's Defend",
+      "Type: Windows Memory Dump",
+      "Questions: 5",
+      "Difficulty: Medium",
+    ],
+    buttonText: "Try The Lab",
+    buttonLink: "https://app.letsdefend.io/challenge/linux-disk-forensics",
+    isVIP: true,
+  },{
     imageSrc: "./images/linux-disc-forensics.png",
     title: "Linux Disk Forensics",
     details: [
@@ -16,7 +28,7 @@ const gridData = [
     title: "HTTP/2 Rapid Reset",
     details: [
       "Published On: Let's Defend",
-      "Type: pcap",
+      "Type: PCAP",
       "Questions: 8",
       "Difficulty: Hard",
     ],
@@ -29,7 +41,7 @@ const gridData = [
     title: "cl0p Ransomware",
     details: [
       "Published On: Let's Defend",
-      "Type: Memory Dump",
+      "Type: Windows Memory Dump",
       "Questions: 7",
       "Difficulty: Hard",
     ],
@@ -41,7 +53,7 @@ const gridData = [
     title: "WinRAR 0-Day",
     details: [
       "Published On: Let's Defend",
-      "Type: Memory Dump",
+      "Type: Windows Memory Dump",
       "Questions: 7",
       "Difficulty: Medium",
     ],
@@ -53,7 +65,7 @@ const gridData = [
     title: "WannaCry Ransomware",
     details: [
       "Published On: Let's Defend",
-      "Type: Memory dump",
+      "Type: Windows Memory Dump",
       "Questions: 10",
       "Difficulty: Medium",
     ],
@@ -66,7 +78,7 @@ const gridData = [
     title: "RanDev",
     details: [
       "Published On: Let's Defend",
-      "Type: Memory dump",
+      "Type: Windows Memory Dump",
       "Questions: 8",
       "Difficulty: Medium",
     ],
@@ -79,7 +91,7 @@ const gridData = [
     title: "LockBit",
     details: [
       "Published On: Let's Defend",
-      "Type: Memory dump",
+      "Type: Windows Memory Dump",
       "Questions: 7",
       "Difficulty: Easy",
     ],
@@ -92,7 +104,7 @@ const gridData = [
     title: "Linux Forensics",
     details: [
       "Published On: Let's Defend",
-      "Type: Disk",
+      "Type: Linux Disk",
       "Questions: 13",
       "Difficulty: Easy",
     ],
@@ -117,7 +129,7 @@ const gridData = [
     title: "RegistryHive",
     details: [
       "Published On: Let's Defend",
-      "Type: Disk",
+      "Type: Windows Disk",
       "Questions: 12",
       "Difficulty: Medium",
     ],
@@ -129,7 +141,7 @@ const gridData = [
     title: "Eagle eye",
     details: [
       "Published On: Cybertalents",
-      "Type: Memory dump",
+      "Type: Windows Memory Dump",
       "Points: 100",
       "Difficulty: Medium",
     ],
@@ -176,6 +188,13 @@ function renderGridItems(page) {
     item.details.forEach((detail) => {
       const listItem = document.createElement("li");
       listItem.textContent = detail;
+      if (detail.includes("Difficulty:")) {
+        const detailParts = detail.split(":");
+        const difficultyLevel = detailParts[1].trim(); // Get the difficulty level text
+        listItem.innerHTML = `${detailParts[0]}: <span class="${getDifficultyClass(difficultyLevel)}">${difficultyLevel}</span>`;
+      } else {
+        listItem.textContent = detail;
+      }
       detailsList.appendChild(listItem);
     });
 
@@ -193,6 +212,18 @@ function renderGridItems(page) {
   currentPageIndicator.textContent = `Page ${currentPage}`;
 }
 
+function getDifficultyClass(difficulty) {
+  switch (difficulty) {
+    case 'Easy':
+      return 'difficulty-easy';
+    case 'Medium':
+      return 'difficulty-medium';
+    case 'Hard':
+      return 'difficulty-hard';
+    default:
+      return '';
+  }
+}
 prevPageBtn.addEventListener("click", () => {
   if (currentPage > 1) {
     currentPage--;
