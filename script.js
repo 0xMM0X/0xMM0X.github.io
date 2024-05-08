@@ -1,17 +1,54 @@
 const gridData = [
   {
-    imageSrc: "./images/Eagle eye.png",
-    title: "Eagle eye",
+    imageSrc: "./images/linux-disc-forensics.png",
+    title: "Linux Disk Forensics",
     details: [
-      "Published On: Cybertalents",
-      "Type: Memory dump",
-      "Points: 100",
+      "Published On: Let's Defend",
+      "Type: Linux Disk",
+      "Questions: 5",
+      "Difficulty: Hard",
+    ],
+    buttonText: "Try The Lab",
+    buttonLink: "https://app.letsdefend.io/challenge/linux-disk-forensics",
+    isVIP: false,
+  },{
+    imageSrc: "./images/http2.png",
+    title: "HTTP/2 Rapid Reset",
+    details: [
+      "Published On: Let's Defend",
+      "Type: pcap",
+      "Questions: 8",
+      "Difficulty: Hard",
+    ],
+    buttonText: "Try The Lab",
+    buttonLink: "https://app.letsdefend.io/challenge/http-2-rapid-reset",
+    isVIP: true,
+  },
+  {
+    imageSrc: "./images/cl0p.png",
+    title: "cl0p Ransomware",
+    details: [
+      "Published On: Let's Defend",
+      "Type: Memory Dump",
+      "Questions: 7",
+      "Difficulty: Hard",
+    ],
+    buttonText: "Try The Lab",
+    buttonLink: "https://app.letsdefend.io/challenge/cl0p-ransomware",
+    isVIP: true,
+  },{
+    imageSrc: "./images/winrar.png",
+    title: "WinRAR 0-Day",
+    details: [
+      "Published On: Let's Defend",
+      "Type: Memory Dump",
+      "Questions: 7",
       "Difficulty: Medium",
     ],
     buttonText: "Try The Lab",
-    buttonLink: "https://cybertalents.com/challenges/forensics/eagle-eye",
+    buttonLink: "https://app.letsdefend.io/challenge/winrar-0-day",
     isVIP: false,
-  },  {
+  },{
     imageSrc: "./images/wannacry.png",
     title: "WannaCry Ransomware",
     details: [
@@ -23,7 +60,8 @@ const gridData = [
     buttonText: "Try The Lab",
     buttonLink: "https://app.letsdefend.io/challenge/wannacry-ransomware",
     isVIP: true,
-  },  {
+  }, 
+  {
     imageSrc: "./images/RanDev.png",
     title: "RanDev",
     details: [
@@ -36,7 +74,7 @@ const gridData = [
     buttonLink: "https://app.letsdefend.io/challenge/randev",
     isVIP: true,
 
-  },{
+  }, {
     imageSrc: "./images/lockbit.png",
     title: "LockBit",
     details: [
@@ -87,16 +125,16 @@ const gridData = [
     buttonLink: "https://app.letsdefend.io/challenge/registryhive",
     isVIP: true,
   },{
-    imageSrc: "./images/winrar.png",
-    title: "WinRAR 0-Day",
+    imageSrc: "./images/Eagle eye.png",
+    title: "Eagle eye",
     details: [
-      "Published On: Let's Defend",
-      "Type: Memory Dump",
-      "Questions: 7",
+      "Published On: Cybertalents",
+      "Type: Memory dump",
+      "Points: 100",
       "Difficulty: Medium",
     ],
     buttonText: "Try The Lab",
-    buttonLink: "https://app.letsdefend.io/challenge/winrar-0-day",
+    buttonLink: "https://cybertalents.com/challenges/forensics/eagle-eye",
     isVIP: false,
   },
     

@@ -43,7 +43,10 @@ a {
     font-size: 14px;
   }
 }
-
+.girgis-card.vip {
+  border: 2px solid gold;
+  background-color: #ffefc4;
+}
 .girgis-header {
   height: 482px;
   background-image: url("./images/feature-logo.jpg");
