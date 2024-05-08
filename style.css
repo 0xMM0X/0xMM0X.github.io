@@ -231,6 +231,11 @@ svg {
   font-weight: bold;
   
 }
+.difficulty-beginner {
+  color: #1b55e2;
+  font-weight: bold;
+  
+}
 body {
   font-family: -apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen,
     Ubuntu, Cantarell, open sans, helvetica neue, sans-serif;

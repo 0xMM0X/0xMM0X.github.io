@@ -1,5 +1,54 @@
 const gridData = [
   {
+    imageSrc: "./images/ads-cover.png",
+    title: "Alternate Data Streams",
+    details: [
+      "Published On: Let's Defend",
+      "Type: Windows Memory Dump",
+      "Questions: 5",
+      "Difficulty: Hard",
+    ],
+    buttonText: "Try The Lab",
+    buttonLink: "https://app.letsdefend.io/challenge/alternate-data-stream",
+    isVIP: false,
+  },{
+    imageSrc: "./images/pdfuri-cover.png",
+    title: "PDFURI",
+    details: [
+      "Published On: Let's Defend",
+      "Type: Windows Disk",
+      "Questions: 5",
+      "Difficulty: Medium",
+      'Shout Out: xElessaway For the help'
+    ],
+    buttonText: "Try The Lab",
+    buttonLink: "https://app.letsdefend.io/challenge/pdfuri",
+    isVIP: false,
+  },{
+    imageSrc: "./images/pcap-cover.png",
+    title: "PCAP Analysis",
+    details: [
+      "Published On: Let's Defend",
+      "Type: PCAP",
+      "Questions: 6",
+      "Difficulty: Beginner",
+    ],
+    buttonText: "Try The Lab",
+    buttonLink: "https://app.letsdefend.io/challenge/pcap-analysis",
+    isVIP: false,
+  },{
+    imageSrc: "./images/chrome-ext-cover.png",
+    title: "Malicious Chrome Ext.",
+    details: [
+      "Published On: Let's Defend",
+      "Type: Windows Disk",
+      "Questions: 7",
+      "Difficulty: Medium",
+    ],
+    buttonText: "Try The Lab",
+    buttonLink: "https://app.letsdefend.io/challenge/malicious-chrome-extension",
+    isVIP: false,
+  },{
     imageSrc: "./images/Windows Memory Dump.png",
     title: "Windows Memory Dump",
     details: [
@@ -35,8 +84,7 @@ const gridData = [
     buttonText: "Try The Lab",
     buttonLink: "https://app.letsdefend.io/challenge/http-2-rapid-reset",
     isVIP: true,
-  },
-  {
+  },{
     imageSrc: "./images/cl0p.png",
     title: "cl0p Ransomware",
     details: [
@@ -72,8 +120,7 @@ const gridData = [
     buttonText: "Try The Lab",
     buttonLink: "https://app.letsdefend.io/challenge/wannacry-ransomware",
     isVIP: true,
-  }, 
-  {
+  },{
     imageSrc: "./images/RanDev.png",
     title: "RanDev",
     details: [
@@ -86,7 +133,7 @@ const gridData = [
     buttonLink: "https://app.letsdefend.io/challenge/randev",
     isVIP: true,
 
-  }, {
+  },{
     imageSrc: "./images/lockbit.png",
     title: "LockBit",
     details: [
@@ -135,6 +182,18 @@ const gridData = [
     ],
     buttonText: "Try The Lab",
     buttonLink: "https://app.letsdefend.io/challenge/registryhive",
+    isVIP: true,
+  },{
+    imageSrc: "./images/aImageStegano-cover.png",
+    title: "ImageStegano",
+    details: [
+      "Published On: Let's Defend",
+      "Type: Stenography",
+      "Questions: 5",
+      "Difficulty: Medium",
+    ],
+    buttonText: "Try The Lab",
+    buttonLink: "https://app.letsdefend.io/challenge/imagestegano",
     isVIP: true,
   },{
     imageSrc: "./images/Eagle eye.png",
@@ -220,6 +279,8 @@ function getDifficultyClass(difficulty) {
       return 'difficulty-medium';
     case 'Hard':
       return 'difficulty-hard';
+    case 'Beginner':
+      return 'difficulty-beginner';
     default:
       return '';
   }
