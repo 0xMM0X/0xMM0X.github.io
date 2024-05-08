@@ -43,10 +43,7 @@ a {
     font-size: 14px;
   }
 }
-.girgis-card.vip {
-  border: 2px solid gold;
-  background-color: #ffefc4;
-}
+
 .girgis-header {
   height: 482px;
   background-image: url("./images/feature-logo.jpg");
@@ -101,6 +98,7 @@ a {
   grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
   gap: 24px;
   cursor: pointer;
+  overflow: hidden; 
 }
 .girgis-grid .girgis-card {
   all: unset;
@@ -109,6 +107,9 @@ a {
   border-radius: 10px;
   display: flex;
   flex-direction: column;
+  overflow: hidden;  
+  position: relative;
+
 }
 
 .girgis-grid .girgis-card:hover {
@@ -196,6 +197,19 @@ a {
 }
 .pagination button:hover {
   background-color: #5b5c5e75;
+}
+
+.girgis-grid .girgis-card.vip::before {
+  content: "VIP";
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: gold;
+  color: black;
+  padding: 5px;
+  font-weight: bold;
+  border-radius: 5px;
+  z-index: 10;
 }
 
 svg {
