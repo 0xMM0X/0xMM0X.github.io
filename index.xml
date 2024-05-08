@@ -9,7 +9,7 @@
       <url>https://mmox.me/img/profile.png</url>
       <link>https://mmox.me/img/profile.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.124.1</generator>
     <language>en</language>
     <lastBuildDate>Mon, 12 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mmox.me/index.xml" rel="self" type="application/rss+xml" />
@@ -70,6 +70,13 @@
       <description>A Disk Image forensics. </description>
     </item>
     <item>
+      <title>Let&#39;s Defend - LockBit</title>
+      <link>https://mmox.me/posts/writeups/lockbit/</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://mmox.me/posts/writeups/lockbit/</guid>
+      <description>Digital Forensic Memory Dump challenge Writeup </description>
+    </item>
+    <item>
       <title>Cyber Defenders - Patrick</title>
       <link>https://mmox.me/posts/writeups/patrick/</link>
       <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
@@ -128,9 +135,9 @@ And I am going to do some analysis form a forensics perspective</description>
     </item>
     <item>
       <title>Cyber Defenders - BankingTroubles</title>
-      <link>https://mmox.me/posts/writeups/bankingtroubles-memory-image-forensics/</link>
+      <link>https://mmox.me/posts/writeups/bankingtroubles---memory-image-forensics/</link>
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/writeups/bankingtroubles-memory-image-forensics/</guid>
+      <guid>https://mmox.me/posts/writeups/bankingtroubles---memory-image-forensics/</guid>
       <description>Digital Forensic Memory Dump challenge Writeup </description>
     </item>
     <item>

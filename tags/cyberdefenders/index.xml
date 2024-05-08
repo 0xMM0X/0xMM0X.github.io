@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>cyberdefenders on MMOX</title>
+    <title>Cyberdefenders on MMOX</title>
     <link>https://mmox.me/tags/cyberdefenders/</link>
-    <description>Recent content in cyberdefenders on MMOX</description>
+    <description>Recent content in Cyberdefenders on MMOX</description>
     <image>
       <title>MMOX</title>
       <url>https://mmox.me/img/profile.png</url>
       <link>https://mmox.me/img/profile.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.124.1</generator>
     <language>en</language>
     <lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mmox.me/tags/cyberdefenders/index.xml" rel="self" type="application/rss+xml" />
@@ -50,9 +50,9 @@
     </item>
     <item>
       <title>Cyber Defenders - BankingTroubles</title>
-      <link>https://mmox.me/posts/writeups/bankingtroubles-memory-image-forensics/</link>
+      <link>https://mmox.me/posts/writeups/bankingtroubles---memory-image-forensics/</link>
       <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/writeups/bankingtroubles-memory-image-forensics/</guid>
+      <guid>https://mmox.me/posts/writeups/bankingtroubles---memory-image-forensics/</guid>
       <description>Digital Forensic Memory Dump challenge Writeup </description>
     </item>
   </channel>

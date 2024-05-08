@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Lets defend on MMOX</title>
+    <title>Lets Defend on MMOX</title>
     <link>https://mmox.me/tags/lets-defend/</link>
-    <description>Recent content in Lets defend on MMOX</description>
+    <description>Recent content in Lets Defend on MMOX</description>
     <image>
       <title>MMOX</title>
       <url>https://mmox.me/img/profile.png</url>
       <link>https://mmox.me/img/profile.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.124.1</generator>
     <language>en</language>
     <lastBuildDate>Mon, 12 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mmox.me/tags/lets-defend/index.xml" rel="self" type="application/rss+xml" />
@@ -61,6 +61,13 @@
       <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://mmox.me/posts/letsdefend/linux-disk-forensics/</guid>
       <description>Digital Forensic Disk img challenge Writeup </description>
+    </item>
+    <item>
+      <title>Let&#39;s Defend - LockBit</title>
+      <link>https://mmox.me/posts/writeups/lockbit/</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://mmox.me/posts/writeups/lockbit/</guid>
+      <description>Digital Forensic Memory Dump challenge Writeup </description>
     </item>
   </channel>
 </rss>
