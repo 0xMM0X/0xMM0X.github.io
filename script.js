@@ -1,5 +1,17 @@
 const gridData = [
   {
+    imageSrc: "./images/linux-mem-chal-cover.png",
+    title: "Linux Memory Forensics",
+    details: [
+      "Published On: Let's Defend",
+      "Type: Windows Memory Dump",
+      "Questions: 7",
+      "Difficulty: Hard",
+    ],
+    buttonText: "Try The Lab",
+    buttonLink: "https://app.letsdefend.io/challenge/alternate-data-stream",
+    isVIP: false,
+  },{
     imageSrc: "./images/ads-cover.png",
     title: "Alternate Data Streams",
     details: [
