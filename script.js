@@ -31,7 +31,7 @@ const gridData = [
       "Type: Windows Disk",
       "Questions: 5",
       "Difficulty: Medium",
-      'Shout Out: xElessaway For the help'
+      'Shoutout: [xElessaway](https://twitter.com/ahmed_elessaway)'
     ],
     buttonText: "Try The Lab",
     buttonLink: "https://app.letsdefend.io/challenge/pdfuri",
