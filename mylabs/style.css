@@ -1,0 +1,248 @@
+--root {
+  --max-width: 1072;
+}
+a {
+  all: unset;
+}
+
+.container {
+  max-width: 1280px;
+  margin: 0px auto;
+  padding: 0px 24px;
+}
+@media (max-width: 768px) {
+  .container {
+    padding: 0px 16px;
+  }
+}
+.girgis-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 0.7em;
+  padding-bottom: 0.7em;
+}
+.girgis-nav .logo {
+  color: #dadadb;
+  text-decoration: none;
+  font-size: 24px;
+  font-weight: 700;
+}
+.girgis-nav ul {
+  display: flex;
+  list-style: none;
+  gap: 24px;
+  align-items: center;
+}
+.girgis-nav ul li {
+  cursor: pointer;
+}
+@media (max-width: 768px) {
+  .girgis-nav ul {
+    gap: 14px;
+    font-size: 14px;
+  }
+}
+
+.girgis-header {
+  height: 482px;
+  background-image: url("./images/feature-logo.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.girgis-header .header-content {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  color: white;
+}
+.girgis-header .header-content {
+  font-size: 26px;
+}
+.girgis-header .header-content h1 {
+  font-size: 50px;
+  font-weight: 700;
+}
+.girgis-header .header-content h6 {
+  margin: 0px;
+  font-size: 26px;
+  font-weight: 400;
+}
+.girgis-header .girgis-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+@media (max-width: 768px) {
+  .girgis-header {
+    height: 302px;
+  }
+  .girgis-header .header-content h1 {
+    font-size: 30px;
+  }
+  .girgis-header .header-content h6 {
+    margin: 0px;
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .girgis-header .girgis-list {
+    font-size: 20px;
+  }
+}
+.girgis-grid {
+  margin-top: 32px;
+  margin-bottom: 32px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 24px;
+  cursor: pointer;
+  overflow: hidden; 
+}
+.girgis-grid .girgis-card {
+  all: unset;
+  background-color: rgba(255, 255, 255, 0.028);
+  transition: all 0.2s ease-in-out;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;  
+  position: relative;
+
+}
+
+.girgis-grid .girgis-card:hover {
+  transition: all 0.15s ease-in-out;
+
+  transform: scale(1.01);
+}
+.girgis-grid .girgis-card img {
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.girgis-grid .girgis-card h6 {
+  margin-top: 0.7em;
+  padding: 0px 20px;
+  padding-bottom: 0.5em;
+  margin-bottom: 0px;
+  font-size: 30px;
+  font-weight: 700;
+  color: #dadadb;
+}
+
+@media (max-width: 768px) {
+  .girgis-grid .girgis-card img {
+    height: 200px;
+  }
+  .girgis-grid .girgis-card h6 {
+    font-size: 22px;
+  }
+}
+.girgis-grid .girgis-card ul {
+  all: unset;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 0px 20px;
+  color: #dadadb;
+}
+
+.girgis-grid .girgis-card button {
+  background-color: #414244;
+  color: white;
+  border: none;
+  margin: 0px 20px;
+  margin-bottom: 25px;
+  padding: 9px 40px;
+  margin-top: 24px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.girgis-grid .girgis-card button:hover {
+  background-color: #5b5c5e75;
+}
+
+.pagination {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.pagination button {
+  background-color: #414244;
+  color: white;
+  border: none;
+  margin: 0px 20px;
+  margin-bottom: 25px;
+  padding: 9px 40px;
+  margin-top: 24px;
+  border-radius: 5px;
+  cursor: pointer;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+@media (max-width: 768px) {
+  .pagination button {
+    padding: 9px 25px;
+  }
+}
+.pagination button:hover {
+  background-color: #5b5c5e75;
+}
+
+.girgis-grid .girgis-card.vip::before {
+  content: "VIP";
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: gold;
+  color: black;
+  padding: 5px;
+  font-weight: bold;
+  border-radius: 5px;
+  z-index: 10;
+}
+
+svg {
+  margin-top: 2px;
+  font-size: 14px;
+}
+.difficulty-easy {
+  color: #65B741;
+  font-weight: bold;
+}
+
+.difficulty-medium {
+  color: #FFAF45 ;
+  font-weight: bold;
+}
+
+.difficulty-hard {
+  color: #E72929;
+  font-weight: bold;
+  
+}
+.difficulty-beginner {
+  color: #1b55e2;
+  font-weight: bold;
+  
+  canvas#canvas {
+    display: block;
+  }
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen,
+    Ubuntu, Cantarell, open sans, helvetica neue, sans-serif;
+  background-color: #1d1e20;
+  color: #dadadb;
+}
