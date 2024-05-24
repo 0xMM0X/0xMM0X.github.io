@@ -1,5 +1,17 @@
 const gridData = [
   {
+    imageSrc: "./images/discord-forensics.png",
+    title: "Discord Forensics",
+    details: [
+      "Published On: Let's Defend",
+      "Type: Windows Disk",
+      "Questions: 9",
+      "Difficulty: Medium",
+    ],
+    buttonText: "Try The Lab",
+    buttonLink: "https://app.letsdefend.io/challenge/discord-forensics",
+    isVIP: false,
+  },{
     imageSrc: "./images/linux-mem-chal-cover.png",
     title: "Linux Memory Forensics",
     details: [
