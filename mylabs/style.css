@@ -246,14 +246,3 @@ body {
   background-color: #1d1e20;
   color: #dadadb;
 }
-.social-media-share-buttons button {
-  margin: 2px;
-  padding: 3px 10px;
-  border: none;
-  color: white;
-  background-color: #4CAF50; /* Green */
-  cursor: pointer;
-}
-.social-media-share-buttons button:hover {
-  background-color: #45a049;
-}
