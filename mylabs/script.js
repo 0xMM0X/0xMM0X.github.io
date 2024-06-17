@@ -1,5 +1,17 @@
 const gridData = [
   {
+  imageSrc: "./images/CVE-2024-4577-cover.png",
+  title: "PHP-CGI (CVE-2024-4577)",
+  details: [
+    "Published On: Let's Defend",
+    "Type: PCAP - Logs",
+    "Questions: 8",
+    "Difficulty: Easy",
+  ],
+  buttonText: "Try The Lab",
+  buttonLink: "https://app.letsdefend.io/challenge/malicious-wordpress-plugin",
+  isVIP: false,
+},{
   imageSrc: "./images/wplugin.png",
   title: "Malicious WordPress Plugin",
   details: [
