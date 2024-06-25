@@ -1,5 +1,17 @@
 const gridData = [
   {
+    imageSrc: "./images/ics-cover.png",
+    title: "Compromised ICS Device",
+    details: [
+      "Published On: Let's Defend",
+      "Type: Logs",
+      "Questions: 10",
+      "Difficulty: Hard",
+    ],
+    buttonText: "Try The Lab",
+    buttonLink: "https://app.letsdefend.io/challenge/compromised-ics-device",
+    isVIP: false,
+  }, {
   imageSrc: "./images/CVE-2024-4577-cover.png",
   title: "PHP-CGI (CVE-2024-4577)",
   details: [
@@ -9,7 +21,7 @@ const gridData = [
     "Difficulty: Easy",
   ],
   buttonText: "Try The Lab",
-  buttonLink: "https://app.letsdefend.io/challenge/malicious-wordpress-plugin",
+  buttonLink: "https://app.letsdefend.io/challenge/php-cgi-CVE-2024-4577",
   isVIP: false,
 },{
   imageSrc: "./images/wplugin.png",
