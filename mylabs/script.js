@@ -10,7 +10,7 @@ const gridData = [
     ],
     buttonText: "Try The Lab",
     buttonLink: "https://cyberdefenders.org/blueteam-ctf-challenges/jetbrains/",
-    isVIP: false,
+    isVIP: true,
   },{
     imageSrc: "./images/ics-cover.png",
     title: "Compromised ICS Device",
