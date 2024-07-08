@@ -1,5 +1,17 @@
 const gridData = [
   {
+    imageSrc: "./images/JetBrains.png",
+    title: "JetBrains",
+    details: [
+      "Published On: Cyber Defenders",
+      "Type: PCAP",
+      "Questions: 9",
+      "Difficulty: Medium",
+    ],
+    buttonText: "Try The Lab",
+    buttonLink: "https://cyberdefenders.org/blueteam-ctf-challenges/jetbrains/",
+    isVIP: false,
+  },{
     imageSrc: "./images/ics-cover.png",
     title: "Compromised ICS Device",
     details: [
