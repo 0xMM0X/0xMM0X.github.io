@@ -1,5 +1,17 @@
 const gridData = [
   {
+    imageSrc: "./images/tv-challenge-cover.png",
+    title: "TeamViewer Forensics",
+    details: [
+      "Published On: Let's Defend",
+      "Type: Windows Disk",
+      "Questions: 8",
+      "Difficulty: Medium",
+    ],
+    buttonText: "Try The Lab",
+    buttonLink: "https://app.letsdefend.io/challenge/teamviewer-forensics",
+    isVIP: false,
+  },{
     imageSrc: "./images/JetBrains.png",
     title: "JetBrains",
     details: [
