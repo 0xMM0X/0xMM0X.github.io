@@ -1,5 +1,17 @@
 const gridData = [
   {
+    imageSrc: "./images/bf-challenge.png",
+    title: "Brute Force Attacks",
+    details: [
+      "Published On: Let's Defend",
+      "Type: Logs",
+      "Questions: 8",
+      "Difficulty: Medium",
+    ],
+    buttonText: "Try The Lab",
+    buttonLink: "https://app.letsdefend.io/challenge/brute-force-attacks",
+    isVIP: false,
+  },{
     imageSrc: "./images/tv-challenge-cover.png",
     title: "TeamViewer Forensics",
     details: [
