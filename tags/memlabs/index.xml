@@ -1,59 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>MemLabs on MMOX</title>
-    <link>https://mmox.me/tags/memlabs/</link>
-    <description>Recent content in MemLabs on MMOX</description>
-    <image>
-      <title>MMOX</title>
-      <url>https://mmox.me/img/profile.png</url>
-      <link>https://mmox.me/img/profile.png</link>
-    </image>
-    <generator>Hugo -- 0.124.1</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mmox.me/tags/memlabs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>MemLabs Writeup - Lab 1 (Beginner&#39;s Luck - Easy) </title>
-      <link>https://mmox.me/posts/writeups/memlabs-lab1/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/writeups/memlabs-lab1/</guid>
-      <description>Digital Forensic Memory Dump challenges Writeups </description>
-    </item>
-    <item>
-      <title>MemLabs Writeup - Lab 2 (A New World - Easy) </title>
-      <link>https://mmox.me/posts/writeups/memlabs-lab2/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/writeups/memlabs-lab2/</guid>
-      <description>Digital Forensic Memory Dump challenges Writeups </description>
-    </item>
-    <item>
-      <title>MemLabs Writeup - Lab 3 (The Evil&#39;s Den - Easy Medium) </title>
-      <link>https://mmox.me/posts/writeups/memlabs-lab3/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/writeups/memlabs-lab3/</guid>
-      <description>Digital Forensic Memory Dump challenges Writeups </description>
-    </item>
-    <item>
-      <title>MemLabs Writeup - Lab 4 (Obsession - Medium) </title>
-      <link>https://mmox.me/posts/writeups/memlabs-lab4/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/writeups/memlabs-lab4/</guid>
-      <description>Digital Forensic Memory Dump challenges Writeups </description>
-    </item>
-    <item>
-      <title>MemLabs Writeup - Lab 5 (Black Tuesday - Medium Hard) </title>
-      <link>https://mmox.me/posts/writeups/memlabs-lab5/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/writeups/memlabs-lab5/</guid>
-      <description>Digital Forensic Memory Dump challenges Writeups </description>
-    </item>
-    <item>
-      <title>MemLabs Writeup - Lab 6 (The Reckoning - Hard) </title>
-      <link>https://mmox.me/posts/writeups/memlabs-lab6/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/writeups/memlabs-lab6/</guid>
-      <description>Digital Forensic Memory Dump challenges Writeups </description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>MemLabs on MMOX</title>
+  <link rel="alternate" href="https://mmox.me/tags/memlabs/" />
+  <link rel="self" href="https://mmox.me/tags/memlabs/index.xml" />
+  <subtitle>Recent content in MemLabs on MMOX</subtitle>
+  <id>https://mmox.me/tags/memlabs/</id>
+  <generator uri="http://gohugo.io" version="0.124.1">Hugo</generator>
+  <language>en</language>
+  <updated>2021-03-01T00:00:00Z</updated>
+  <author>
+    <name>MM0X</name>
+    
+  </author>
+  
+      <entry>
+        <title>MemLabs Writeup - Lab 1 (Beginner&#39;s Luck - Easy) </title>
+        <link rel="alternate" href="https://mmox.me/posts/writeups/memlabs-lab1/" />
+        <id>https://mmox.me/posts/writeups/memlabs-lab1/</id>
+        <published>2021-03-01T00:00:00Z</published>
+        <updated>2021-03-01T00:00:00Z</updated>
+        <summary type="html">Digital Forensic Memory Dump challenges Writeups </summary>
+      </entry>
+      <entry>
+        <title>MemLabs Writeup - Lab 2 (A New World - Easy) </title>
+        <link rel="alternate" href="https://mmox.me/posts/writeups/memlabs-lab2/" />
+        <id>https://mmox.me/posts/writeups/memlabs-lab2/</id>
+        <published>2021-03-01T00:00:00Z</published>
+        <updated>2021-03-01T00:00:00Z</updated>
+        <summary type="html">Digital Forensic Memory Dump challenges Writeups </summary>
+      </entry>
+      <entry>
+        <title>MemLabs Writeup - Lab 3 (The Evil&#39;s Den - Easy Medium) </title>
+        <link rel="alternate" href="https://mmox.me/posts/writeups/memlabs-lab3/" />
+        <id>https://mmox.me/posts/writeups/memlabs-lab3/</id>
+        <published>2021-03-01T00:00:00Z</published>
+        <updated>2021-03-01T00:00:00Z</updated>
+        <summary type="html">Digital Forensic Memory Dump challenges Writeups </summary>
+      </entry>
+      <entry>
+        <title>MemLabs Writeup - Lab 4 (Obsession - Medium) </title>
+        <link rel="alternate" href="https://mmox.me/posts/writeups/memlabs-lab4/" />
+        <id>https://mmox.me/posts/writeups/memlabs-lab4/</id>
+        <published>2021-03-01T00:00:00Z</published>
+        <updated>2021-03-01T00:00:00Z</updated>
+        <summary type="html">Digital Forensic Memory Dump challenges Writeups </summary>
+      </entry>
+      <entry>
+        <title>MemLabs Writeup - Lab 5 (Black Tuesday - Medium Hard) </title>
+        <link rel="alternate" href="https://mmox.me/posts/writeups/memlabs-lab5/" />
+        <id>https://mmox.me/posts/writeups/memlabs-lab5/</id>
+        <published>2021-03-01T00:00:00Z</published>
+        <updated>2021-03-01T00:00:00Z</updated>
+        <summary type="html">Digital Forensic Memory Dump challenges Writeups </summary>
+      </entry>
+      <entry>
+        <title>MemLabs Writeup - Lab 6 (The Reckoning - Hard) </title>
+        <link rel="alternate" href="https://mmox.me/posts/writeups/memlabs-lab6/" />
+        <id>https://mmox.me/posts/writeups/memlabs-lab6/</id>
+        <published>2021-03-01T00:00:00Z</published>
+        <updated>2021-03-01T00:00:00Z</updated>
+        <summary type="html">Digital Forensic Memory Dump challenges Writeups </summary>
+      </entry>
+
+</feed>
+
+

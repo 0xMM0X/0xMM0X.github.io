@@ -1,38 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>CTF on MMOX</title>
-    <link>https://mmox.me/categories/ctf/</link>
-    <description>Recent content in CTF on MMOX</description>
-    <image>
-      <title>MMOX</title>
-      <url>https://mmox.me/img/profile.png</url>
-      <link>https://mmox.me/img/profile.png</link>
-    </image>
-    <generator>Hugo -- 0.124.1</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mmox.me/categories/ctf/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>CyCTF 2022 Writeups</title>
-      <link>https://mmox.me/posts/writeups/cyctf2022-writeup/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/writeups/cyctf2022-writeup/</guid>
-      <description>Digital Forensic Challenges Writeups and one Mobile</description>
-    </item>
-    <item>
-      <title>Alpha Box info-sec Hackathon Writeup</title>
-      <link>https://mmox.me/posts/writeups/alphabox-infosecwriteup/</link>
-      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/writeups/alphabox-infosecwriteup/</guid>
-      <description>this was a machine in the info-sec.live hackathon</description>
-    </item>
-    <item>
-      <title>Wicsme 2020 Writeups</title>
-      <link>https://mmox.me/posts/writeups/wicsme2020-writeups/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/writeups/wicsme2020-writeups/</guid>
-      <description>Digital Forensic Challenges Writeups and one binary Exploition Challenge</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CTF on MMOX</title>
+  <link rel="alternate" href="https://mmox.me/categories/ctf/" />
+  <link rel="self" href="https://mmox.me/categories/ctf/index.xml" />
+  <subtitle>Recent content in CTF on MMOX</subtitle>
+  <id>https://mmox.me/categories/ctf/</id>
+  <generator uri="http://gohugo.io" version="0.124.1">Hugo</generator>
+  <language>en</language>
+  <updated>2022-12-01T00:00:00Z</updated>
+  <author>
+    <name>MM0X</name>
+    
+  </author>
+  
+      <entry>
+        <title>CyCTF 2022 Writeups</title>
+        <link rel="alternate" href="https://mmox.me/posts/writeups/cyctf2022-writeup/" />
+        <id>https://mmox.me/posts/writeups/cyctf2022-writeup/</id>
+        <published>2022-12-01T00:00:00Z</published>
+        <updated>2022-12-01T00:00:00Z</updated>
+        <summary type="html">Digital Forensic Challenges Writeups and one Mobile</summary>
+      </entry>
+      <entry>
+        <title>Alpha Box info-sec Hackathon Writeup</title>
+        <link rel="alternate" href="https://mmox.me/posts/writeups/alphabox-infosecwriteup/" />
+        <id>https://mmox.me/posts/writeups/alphabox-infosecwriteup/</id>
+        <published>2021-08-07T00:00:00Z</published>
+        <updated>2021-08-07T00:00:00Z</updated>
+        <summary type="html">this was a machine in the info-sec.live hackathon</summary>
+      </entry>
+      <entry>
+        <title>Wicsme 2020 Writeups</title>
+        <link rel="alternate" href="https://mmox.me/posts/writeups/wicsme2020-writeups/" />
+        <id>https://mmox.me/posts/writeups/wicsme2020-writeups/</id>
+        <published>2019-11-20T00:00:00Z</published>
+        <updated>2019-11-20T00:00:00Z</updated>
+        <summary type="html">Digital Forensic Challenges Writeups and one binary Exploition Challenge</summary>
+      </entry>
+
+</feed>
+
+

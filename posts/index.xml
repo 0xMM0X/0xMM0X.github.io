@@ -1,200 +1,228 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Posts on MMOX</title>
-    <link>https://mmox.me/posts/</link>
-    <description>Recent content in Posts on MMOX</description>
-    <image>
-      <title>MMOX</title>
-      <url>https://mmox.me/img/profile.png</url>
-      <link>https://mmox.me/img/profile.png</link>
-    </image>
-    <generator>Hugo -- 0.124.1</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 28 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mmox.me/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>DFIR &amp; SOC - Roadmap (From Zero To Hero)</title>
-      <link>https://mmox.me/posts/dfir/dfir-and-soc-roadmap/</link>
-      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/dfir/dfir-and-soc-roadmap/</guid>
-      <description>The &amp;#39;SOC &amp;amp; DFIR Roadmap&amp;#39; is a structured guide for those pursuing careers in Security Operations Center (SOC) analysis and Digital Forensics and Incident Response (DFIR). It provides a clear learning path from basic cybersecurity and networking concepts to advanced topics like threat management and malware analysis. With a mix of free and paid resources, plus practical exercises, this roadmap helps build essential skills and hands-on experience for success in SOC and DFIR roles.</description>
-    </item>
-    <item>
-      <title>Let&#39;s Defend - PCAP Analysis</title>
-      <link>https://mmox.me/posts/letsdefend/pcap-analysis/</link>
-      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/letsdefend/pcap-analysis/</guid>
-      <description>Digital Forensic Network challenge Writeup </description>
-    </item>
-    <item>
-      <title>Let&#39;s Defend - Malicious Chrome Extension</title>
-      <link>https://mmox.me/posts/letsdefend/malicious-chrome-extension/</link>
-      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/letsdefend/malicious-chrome-extension/</guid>
-      <description>Digital Forensic Disk img challenge Writeup </description>
-    </item>
-    <item>
-      <title>Let&#39;s Defend - Windows Memory Dump</title>
-      <link>https://mmox.me/posts/letsdefend/vlp/</link>
-      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/letsdefend/vlp/</guid>
-      <description>Digital Forensic Memory dump challenge Writeup </description>
-    </item>
-    <item>
-      <title>Let&#39;s Defend - WinRAR 0-Day</title>
-      <link>https://mmox.me/posts/letsdefend/winrar0-day/</link>
-      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/letsdefend/winrar0-day/</guid>
-      <description>Digital Forensic Memory dump challenge Writeup </description>
-    </item>
-    <item>
-      <title>Let&#39;s Defend - Cl0p</title>
-      <link>https://mmox.me/posts/letsdefend/cl0p/</link>
-      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/letsdefend/cl0p/</guid>
-      <description>Digital Forensic Memory dump challenge Writeup </description>
-    </item>
-    <item>
-      <title>Let&#39;s Defend - HTTP/2 Rapid Reset</title>
-      <link>https://mmox.me/posts/letsdefend/http2-rapid-reset/</link>
-      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/letsdefend/http2-rapid-reset/</guid>
-      <description>Digital Forensic Disk img challenge Writeup </description>
-    </item>
-    <item>
-      <title>Let&#39;s Defend - Linux Disk Forensics</title>
-      <link>https://mmox.me/posts/letsdefend/linux-disk-forensics/</link>
-      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/letsdefend/linux-disk-forensics/</guid>
-      <description>Digital Forensic Disk img challenge Writeup </description>
-    </item>
-    <item>
-      <title>Cyber Defenders - Sysinternals</title>
-      <link>https://mmox.me/posts/writeups/sysinternals/</link>
-      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/writeups/sysinternals/</guid>
-      <description>A Disk Image forensics. </description>
-    </item>
-    <item>
-      <title>Let&#39;s Defend - LockBit</title>
-      <link>https://mmox.me/posts/writeups/lockbit/</link>
-      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/writeups/lockbit/</guid>
-      <description>Digital Forensic Memory Dump challenge Writeup </description>
-    </item>
-    <item>
-      <title>Cyber Defenders - Patrick</title>
-      <link>https://mmox.me/posts/writeups/patrick/</link>
-      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/writeups/patrick/</guid>
-      <description>Digital Forensic IOS challenge Writeup </description>
-    </item>
-    <item>
-      <title>Cyber Defenders - XLM-Macros</title>
-      <link>https://mmox.me/posts/writeups/xlm-macros/</link>
-      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/writeups/xlm-macros/</guid>
-      <description>Digital Forensic Memory Dump challenge Writeup </description>
-    </item>
-    <item>
-      <title>CyCTF 2022 Writeups</title>
-      <link>https://mmox.me/posts/writeups/cyctf2022-writeup/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/writeups/cyctf2022-writeup/</guid>
-      <description>Digital Forensic Challenges Writeups and one Mobile</description>
-    </item>
-    <item>
-      <title>Cyber Defenders - AzurePot</title>
-      <link>https://mmox.me/posts/writeups/azurepot/</link>
-      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/writeups/azurepot/</guid>
-      <description>This Ubuntu Linux honeypot was put online in Azure in early October to watch what happens with those exploiting CVE-2021-41773.</description>
-    </item>
-    <item>
-      <title>Cyber Defenders - Ulysses</title>
-      <link>https://mmox.me/posts/writeups/ulysses-writeup/</link>
-      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/writeups/ulysses-writeup/</guid>
-      <description>A Linux server was possibly compromised and a forensic analysis is required in order to understand what really happened. Hard disk dumps and memory snapshots of the machine are provided in order to solve the challenge. </description>
-    </item>
-    <item>
-      <title>Alpha Box info-sec Hackathon Writeup</title>
-      <link>https://mmox.me/posts/writeups/alphabox-infosecwriteup/</link>
-      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/writeups/alphabox-infosecwriteup/</guid>
-      <description>this was a machine in the info-sec.live hackathon</description>
-    </item>
-    <item>
-      <title>Gender Classfication model With 92.68% accuracy</title>
-      <link>https://mmox.me/posts/ml/gender-detection-model-with-adam/</link>
-      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/ml/gender-detection-model-with-adam/</guid>
-      <description>ML model using python tensorflow and keras to idintfy if the picture has male or female</description>
-    </item>
-    <item>
-      <title>Ryuk Ransomware Analysis Memory Detection - Part 1 </title>
-      <link>https://mmox.me/posts/dfir/ryuk-analysis-part-1/</link>
-      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/dfir/ryuk-analysis-part-1/</guid>
-      <description>Ryuk is a ransomware which encrypts its victim&amp;rsquo;s files and asks for a ransom via bitcoin to release the original files. It is has been observed being used to attack companies or professional environments. Cybersecurity experts figured out that Ryuk and Hermes ransomware shares pieces of codes. Hermes is commodity ransomware that has been observed for sale on dark-net forums and used by multiple threat actors.
-And I am going to do some analysis form a forensics perspective</description>
-    </item>
-    <item>
-      <title>Cyber Defenders - BankingTroubles</title>
-      <link>https://mmox.me/posts/writeups/bankingtroubles---memory-image-forensics/</link>
-      <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/writeups/bankingtroubles---memory-image-forensics/</guid>
-      <description>Digital Forensic Memory Dump challenge Writeup </description>
-    </item>
-    <item>
-      <title>MemLabs Writeup - Lab 1 (Beginner&#39;s Luck - Easy) </title>
-      <link>https://mmox.me/posts/writeups/memlabs-lab1/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/writeups/memlabs-lab1/</guid>
-      <description>Digital Forensic Memory Dump challenges Writeups </description>
-    </item>
-    <item>
-      <title>MemLabs Writeup - Lab 2 (A New World - Easy) </title>
-      <link>https://mmox.me/posts/writeups/memlabs-lab2/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/writeups/memlabs-lab2/</guid>
-      <description>Digital Forensic Memory Dump challenges Writeups </description>
-    </item>
-    <item>
-      <title>MemLabs Writeup - Lab 3 (The Evil&#39;s Den - Easy Medium) </title>
-      <link>https://mmox.me/posts/writeups/memlabs-lab3/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/writeups/memlabs-lab3/</guid>
-      <description>Digital Forensic Memory Dump challenges Writeups </description>
-    </item>
-    <item>
-      <title>MemLabs Writeup - Lab 4 (Obsession - Medium) </title>
-      <link>https://mmox.me/posts/writeups/memlabs-lab4/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/writeups/memlabs-lab4/</guid>
-      <description>Digital Forensic Memory Dump challenges Writeups </description>
-    </item>
-    <item>
-      <title>MemLabs Writeup - Lab 5 (Black Tuesday - Medium Hard) </title>
-      <link>https://mmox.me/posts/writeups/memlabs-lab5/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/writeups/memlabs-lab5/</guid>
-      <description>Digital Forensic Memory Dump challenges Writeups </description>
-    </item>
-    <item>
-      <title>MemLabs Writeup - Lab 6 (The Reckoning - Hard) </title>
-      <link>https://mmox.me/posts/writeups/memlabs-lab6/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/writeups/memlabs-lab6/</guid>
-      <description>Digital Forensic Memory Dump challenges Writeups </description>
-    </item>
-    <item>
-      <title>Wicsme 2020 Writeups</title>
-      <link>https://mmox.me/posts/writeups/wicsme2020-writeups/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/writeups/wicsme2020-writeups/</guid>
-      <description>Digital Forensic Challenges Writeups and one binary Exploition Challenge</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Posts on MMOX</title>
+  <link rel="alternate" href="https://mmox.me/posts/" />
+  <link rel="self" href="https://mmox.me/posts/index.xml" />
+  <subtitle>Recent content in Posts on MMOX</subtitle>
+  <id>https://mmox.me/posts/</id>
+  <generator uri="http://gohugo.io" version="0.124.1">Hugo</generator>
+  <language>en</language>
+  <updated>2024-08-28T00:00:00Z</updated>
+  <author>
+    <name>MM0X</name>
+    
+  </author>
+  
+      <entry>
+        <title>DFIR &amp; SOC - Roadmap (From Zero To Hero)</title>
+        <link rel="alternate" href="https://mmox.me/posts/dfir/dfir-and-soc-roadmap/" />
+        <id>https://mmox.me/posts/dfir/dfir-and-soc-roadmap/</id>
+        <published>2024-08-28T00:00:00Z</published>
+        <updated>2024-08-28T00:00:00Z</updated>
+        <summary type="html">The &amp;#39;SOC &amp;amp; DFIR Roadmap&amp;#39; is a structured guide for those pursuing careers in Security Operations Center (SOC) analysis and Digital Forensics and Incident Response (DFIR). It provides a clear learning path from basic cybersecurity and networking concepts to advanced topics like threat management and malware analysis. With a mix of free and paid resources, plus practical exercises, this roadmap helps build essential skills and hands-on experience for success in SOC and DFIR roles.</summary>
+      </entry>
+      <entry>
+        <title>Let&#39;s Defend - PCAP Analysis</title>
+        <link rel="alternate" href="https://mmox.me/posts/letsdefend/pcap-analysis/" />
+        <id>https://mmox.me/posts/letsdefend/pcap-analysis/</id>
+        <published>2024-02-12T00:00:00Z</published>
+        <updated>2024-02-12T00:00:00Z</updated>
+        <summary type="html">Digital Forensic Network challenge Writeup </summary>
+      </entry>
+      <entry>
+        <title>Let&#39;s Defend - Malicious Chrome Extension</title>
+        <link rel="alternate" href="https://mmox.me/posts/letsdefend/malicious-chrome-extension/" />
+        <id>https://mmox.me/posts/letsdefend/malicious-chrome-extension/</id>
+        <published>2024-01-26T00:00:00Z</published>
+        <updated>2024-01-26T00:00:00Z</updated>
+        <summary type="html">Digital Forensic Disk img challenge Writeup </summary>
+      </entry>
+      <entry>
+        <title>Let&#39;s Defend - Windows Memory Dump</title>
+        <link rel="alternate" href="https://mmox.me/posts/letsdefend/vlp/" />
+        <id>https://mmox.me/posts/letsdefend/vlp/</id>
+        <published>2024-01-03T00:00:00Z</published>
+        <updated>2024-01-03T00:00:00Z</updated>
+        <summary type="html">Digital Forensic Memory dump challenge Writeup </summary>
+      </entry>
+      <entry>
+        <title>Let&#39;s Defend - WinRAR 0-Day</title>
+        <link rel="alternate" href="https://mmox.me/posts/letsdefend/winrar0-day/" />
+        <id>https://mmox.me/posts/letsdefend/winrar0-day/</id>
+        <published>2023-08-28T00:00:00Z</published>
+        <updated>2023-08-28T00:00:00Z</updated>
+        <summary type="html">Digital Forensic Memory dump challenge Writeup </summary>
+      </entry>
+      <entry>
+        <title>Let&#39;s Defend - Cl0p</title>
+        <link rel="alternate" href="https://mmox.me/posts/letsdefend/cl0p/" />
+        <id>https://mmox.me/posts/letsdefend/cl0p/</id>
+        <published>2023-07-25T00:00:00Z</published>
+        <updated>2023-07-25T00:00:00Z</updated>
+        <summary type="html">Digital Forensic Memory dump challenge Writeup </summary>
+      </entry>
+      <entry>
+        <title>Let&#39;s Defend - HTTP/2 Rapid Reset</title>
+        <link rel="alternate" href="https://mmox.me/posts/letsdefend/http2-rapid-reset/" />
+        <id>https://mmox.me/posts/letsdefend/http2-rapid-reset/</id>
+        <published>2023-07-06T00:00:00Z</published>
+        <updated>2023-07-06T00:00:00Z</updated>
+        <summary type="html">Digital Forensic Disk img challenge Writeup </summary>
+      </entry>
+      <entry>
+        <title>Let&#39;s Defend - Linux Disk Forensics</title>
+        <link rel="alternate" href="https://mmox.me/posts/letsdefend/linux-disk-forensics/" />
+        <id>https://mmox.me/posts/letsdefend/linux-disk-forensics/</id>
+        <published>2023-07-06T00:00:00Z</published>
+        <updated>2023-07-06T00:00:00Z</updated>
+        <summary type="html">Digital Forensic Disk img challenge Writeup </summary>
+      </entry>
+      <entry>
+        <title>Cyber Defenders - Sysinternals</title>
+        <link rel="alternate" href="https://mmox.me/posts/writeups/sysinternals/" />
+        <id>https://mmox.me/posts/writeups/sysinternals/</id>
+        <published>2023-04-15T00:00:00Z</published>
+        <updated>2023-04-15T00:00:00Z</updated>
+        <summary type="html">A Disk Image forensics. </summary>
+      </entry>
+      <entry>
+        <title>Let&#39;s Defend - LockBit</title>
+        <link rel="alternate" href="https://mmox.me/posts/writeups/lockbit/" />
+        <id>https://mmox.me/posts/writeups/lockbit/</id>
+        <published>2023-04-13T00:00:00Z</published>
+        <updated>2023-04-13T00:00:00Z</updated>
+        <summary type="html">Digital Forensic Memory Dump challenge Writeup </summary>
+      </entry>
+      <entry>
+        <title>Cyber Defenders - Patrick</title>
+        <link rel="alternate" href="https://mmox.me/posts/writeups/patrick/" />
+        <id>https://mmox.me/posts/writeups/patrick/</id>
+        <published>2022-12-08T00:00:00Z</published>
+        <updated>2022-12-08T00:00:00Z</updated>
+        <summary type="html">Digital Forensic IOS challenge Writeup </summary>
+      </entry>
+      <entry>
+        <title>Cyber Defenders - XLM-Macros</title>
+        <link rel="alternate" href="https://mmox.me/posts/writeups/xlm-macros/" />
+        <id>https://mmox.me/posts/writeups/xlm-macros/</id>
+        <published>2022-12-06T00:00:00Z</published>
+        <updated>2022-12-06T00:00:00Z</updated>
+        <summary type="html">Digital Forensic Memory Dump challenge Writeup </summary>
+      </entry>
+      <entry>
+        <title>CyCTF 2022 Writeups</title>
+        <link rel="alternate" href="https://mmox.me/posts/writeups/cyctf2022-writeup/" />
+        <id>https://mmox.me/posts/writeups/cyctf2022-writeup/</id>
+        <published>2022-12-01T00:00:00Z</published>
+        <updated>2022-12-01T00:00:00Z</updated>
+        <summary type="html">Digital Forensic Challenges Writeups and one Mobile</summary>
+      </entry>
+      <entry>
+        <title>Cyber Defenders - AzurePot</title>
+        <link rel="alternate" href="https://mmox.me/posts/writeups/azurepot/" />
+        <id>https://mmox.me/posts/writeups/azurepot/</id>
+        <published>2022-06-14T00:00:00Z</published>
+        <updated>2022-06-14T00:00:00Z</updated>
+        <summary type="html">This Ubuntu Linux honeypot was put online in Azure in early October to watch what happens with those exploiting CVE-2021-41773.</summary>
+      </entry>
+      <entry>
+        <title>Cyber Defenders - Ulysses</title>
+        <link rel="alternate" href="https://mmox.me/posts/writeups/ulysses-writeup/" />
+        <id>https://mmox.me/posts/writeups/ulysses-writeup/</id>
+        <published>2022-06-14T00:00:00Z</published>
+        <updated>2022-06-14T00:00:00Z</updated>
+        <summary type="html">A Linux server was possibly compromised and a forensic analysis is required in order to understand what really happened. Hard disk dumps and memory snapshots of the machine are provided in order to solve the challenge. </summary>
+      </entry>
+      <entry>
+        <title>Alpha Box info-sec Hackathon Writeup</title>
+        <link rel="alternate" href="https://mmox.me/posts/writeups/alphabox-infosecwriteup/" />
+        <id>https://mmox.me/posts/writeups/alphabox-infosecwriteup/</id>
+        <published>2021-08-07T00:00:00Z</published>
+        <updated>2021-08-07T00:00:00Z</updated>
+        <summary type="html">this was a machine in the info-sec.live hackathon</summary>
+      </entry>
+      <entry>
+        <title>Gender Classfication model With 92.68% accuracy</title>
+        <link rel="alternate" href="https://mmox.me/posts/ml/gender-detection-model-with-adam/" />
+        <id>https://mmox.me/posts/ml/gender-detection-model-with-adam/</id>
+        <published>2021-05-06T00:00:00Z</published>
+        <updated>2021-05-06T00:00:00Z</updated>
+        <summary type="html">ML model using python tensorflow and keras to idintfy if the picture has male or female</summary>
+      </entry>
+      <entry>
+        <title>Ryuk Ransomware Analysis Memory Detection - Part 1 </title>
+        <link rel="alternate" href="https://mmox.me/posts/dfir/ryuk-analysis-part-1/" />
+        <id>https://mmox.me/posts/dfir/ryuk-analysis-part-1/</id>
+        <published>2021-04-06T00:00:00Z</published>
+        <updated>2021-04-06T00:00:00Z</updated>
+        <summary type="html">Ryuk is a ransomware which encrypts its victim&amp;rsquo;s files and asks for a ransom via bitcoin to release the original files. It is has been observed being used to attack companies or professional environments. Cybersecurity experts figured out that Ryuk and Hermes ransomware shares pieces of codes. Hermes is commodity ransomware that has been observed for sale on dark-net forums and used by multiple threat actors.
+And I am going to do some analysis form a forensics perspective</summary>
+      </entry>
+      <entry>
+        <title>Cyber Defenders - BankingTroubles</title>
+        <link rel="alternate" href="https://mmox.me/posts/writeups/bankingtroubles---memory-image-forensics/" />
+        <id>https://mmox.me/posts/writeups/bankingtroubles---memory-image-forensics/</id>
+        <published>2021-03-06T00:00:00Z</published>
+        <updated>2021-03-06T00:00:00Z</updated>
+        <summary type="html">Digital Forensic Memory Dump challenge Writeup </summary>
+      </entry>
+      <entry>
+        <title>MemLabs Writeup - Lab 1 (Beginner&#39;s Luck - Easy) </title>
+        <link rel="alternate" href="https://mmox.me/posts/writeups/memlabs-lab1/" />
+        <id>https://mmox.me/posts/writeups/memlabs-lab1/</id>
+        <published>2021-03-01T00:00:00Z</published>
+        <updated>2021-03-01T00:00:00Z</updated>
+        <summary type="html">Digital Forensic Memory Dump challenges Writeups </summary>
+      </entry>
+      <entry>
+        <title>MemLabs Writeup - Lab 2 (A New World - Easy) </title>
+        <link rel="alternate" href="https://mmox.me/posts/writeups/memlabs-lab2/" />
+        <id>https://mmox.me/posts/writeups/memlabs-lab2/</id>
+        <published>2021-03-01T00:00:00Z</published>
+        <updated>2021-03-01T00:00:00Z</updated>
+        <summary type="html">Digital Forensic Memory Dump challenges Writeups </summary>
+      </entry>
+      <entry>
+        <title>MemLabs Writeup - Lab 3 (The Evil&#39;s Den - Easy Medium) </title>
+        <link rel="alternate" href="https://mmox.me/posts/writeups/memlabs-lab3/" />
+        <id>https://mmox.me/posts/writeups/memlabs-lab3/</id>
+        <published>2021-03-01T00:00:00Z</published>
+        <updated>2021-03-01T00:00:00Z</updated>
+        <summary type="html">Digital Forensic Memory Dump challenges Writeups </summary>
+      </entry>
+      <entry>
+        <title>MemLabs Writeup - Lab 4 (Obsession - Medium) </title>
+        <link rel="alternate" href="https://mmox.me/posts/writeups/memlabs-lab4/" />
+        <id>https://mmox.me/posts/writeups/memlabs-lab4/</id>
+        <published>2021-03-01T00:00:00Z</published>
+        <updated>2021-03-01T00:00:00Z</updated>
+        <summary type="html">Digital Forensic Memory Dump challenges Writeups </summary>
+      </entry>
+      <entry>
+        <title>MemLabs Writeup - Lab 5 (Black Tuesday - Medium Hard) </title>
+        <link rel="alternate" href="https://mmox.me/posts/writeups/memlabs-lab5/" />
+        <id>https://mmox.me/posts/writeups/memlabs-lab5/</id>
+        <published>2021-03-01T00:00:00Z</published>
+        <updated>2021-03-01T00:00:00Z</updated>
+        <summary type="html">Digital Forensic Memory Dump challenges Writeups </summary>
+      </entry>
+      <entry>
+        <title>MemLabs Writeup - Lab 6 (The Reckoning - Hard) </title>
+        <link rel="alternate" href="https://mmox.me/posts/writeups/memlabs-lab6/" />
+        <id>https://mmox.me/posts/writeups/memlabs-lab6/</id>
+        <published>2021-03-01T00:00:00Z</published>
+        <updated>2021-03-01T00:00:00Z</updated>
+        <summary type="html">Digital Forensic Memory Dump challenges Writeups </summary>
+      </entry>
+      <entry>
+        <title>Wicsme 2020 Writeups</title>
+        <link rel="alternate" href="https://mmox.me/posts/writeups/wicsme2020-writeups/" />
+        <id>https://mmox.me/posts/writeups/wicsme2020-writeups/</id>
+        <published>2019-11-20T00:00:00Z</published>
+        <updated>2019-11-20T00:00:00Z</updated>
+        <summary type="html">Digital Forensic Challenges Writeups and one binary Exploition Challenge</summary>
+      </entry>
+
+</feed>
+
+

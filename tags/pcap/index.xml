@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Pcap on MMOX</title>
-    <link>https://mmox.me/tags/pcap/</link>
-    <description>Recent content in Pcap on MMOX</description>
-    <image>
-      <title>MMOX</title>
-      <url>https://mmox.me/img/profile.png</url>
-      <link>https://mmox.me/img/profile.png</link>
-    </image>
-    <generator>Hugo -- 0.124.1</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 06 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mmox.me/tags/pcap/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Let&#39;s Defend - HTTP/2 Rapid Reset</title>
-      <link>https://mmox.me/posts/letsdefend/http2-rapid-reset/</link>
-      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/letsdefend/http2-rapid-reset/</guid>
-      <description>Digital Forensic Disk img challenge Writeup </description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Pcap on MMOX</title>
+  <link rel="alternate" href="https://mmox.me/tags/pcap/" />
+  <link rel="self" href="https://mmox.me/tags/pcap/index.xml" />
+  <subtitle>Recent content in Pcap on MMOX</subtitle>
+  <id>https://mmox.me/tags/pcap/</id>
+  <generator uri="http://gohugo.io" version="0.124.1">Hugo</generator>
+  <language>en</language>
+  <updated>2023-07-06T00:00:00Z</updated>
+  <author>
+    <name>MM0X</name>
+    
+  </author>
+  
+      <entry>
+        <title>Let&#39;s Defend - HTTP/2 Rapid Reset</title>
+        <link rel="alternate" href="https://mmox.me/posts/letsdefend/http2-rapid-reset/" />
+        <id>https://mmox.me/posts/letsdefend/http2-rapid-reset/</id>
+        <published>2023-07-06T00:00:00Z</published>
+        <updated>2023-07-06T00:00:00Z</updated>
+        <summary type="html">Digital Forensic Disk img challenge Writeup </summary>
+      </entry>
+
+</feed>
+
+

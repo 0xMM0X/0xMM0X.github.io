@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>SOC on MMOX</title>
-    <link>https://mmox.me/categories/soc/</link>
-    <description>Recent content in SOC on MMOX</description>
-    <image>
-      <title>MMOX</title>
-      <url>https://mmox.me/img/profile.png</url>
-      <link>https://mmox.me/img/profile.png</link>
-    </image>
-    <generator>Hugo -- 0.124.1</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 28 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mmox.me/categories/soc/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>DFIR &amp; SOC - Roadmap (From Zero To Hero)</title>
-      <link>https://mmox.me/posts/dfir/dfir-and-soc-roadmap/</link>
-      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/dfir/dfir-and-soc-roadmap/</guid>
-      <description>The &amp;#39;SOC &amp;amp; DFIR Roadmap&amp;#39; is a structured guide for those pursuing careers in Security Operations Center (SOC) analysis and Digital Forensics and Incident Response (DFIR). It provides a clear learning path from basic cybersecurity and networking concepts to advanced topics like threat management and malware analysis. With a mix of free and paid resources, plus practical exercises, this roadmap helps build essential skills and hands-on experience for success in SOC and DFIR roles.</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SOC on MMOX</title>
+  <link rel="alternate" href="https://mmox.me/categories/soc/" />
+  <link rel="self" href="https://mmox.me/categories/soc/index.xml" />
+  <subtitle>Recent content in SOC on MMOX</subtitle>
+  <id>https://mmox.me/categories/soc/</id>
+  <generator uri="http://gohugo.io" version="0.124.1">Hugo</generator>
+  <language>en</language>
+  <updated>2024-08-28T00:00:00Z</updated>
+  <author>
+    <name>MM0X</name>
+    
+  </author>
+  
+      <entry>
+        <title>DFIR &amp; SOC - Roadmap (From Zero To Hero)</title>
+        <link rel="alternate" href="https://mmox.me/posts/dfir/dfir-and-soc-roadmap/" />
+        <id>https://mmox.me/posts/dfir/dfir-and-soc-roadmap/</id>
+        <published>2024-08-28T00:00:00Z</published>
+        <updated>2024-08-28T00:00:00Z</updated>
+        <summary type="html">The &amp;#39;SOC &amp;amp; DFIR Roadmap&amp;#39; is a structured guide for those pursuing careers in Security Operations Center (SOC) analysis and Digital Forensics and Incident Response (DFIR). It provides a clear learning path from basic cybersecurity and networking concepts to advanced topics like threat management and malware analysis. With a mix of free and paid resources, plus practical exercises, this roadmap helps build essential skills and hands-on experience for success in SOC and DFIR roles.</summary>
+      </entry>
+
+</feed>
+
+

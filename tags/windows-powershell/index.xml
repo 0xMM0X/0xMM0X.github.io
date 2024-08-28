@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Windows Powershell on MMOX</title>
-    <link>https://mmox.me/tags/windows-powershell/</link>
-    <description>Recent content in Windows Powershell on MMOX</description>
-    <image>
-      <title>MMOX</title>
-      <url>https://mmox.me/img/profile.png</url>
-      <link>https://mmox.me/img/profile.png</link>
-    </image>
-    <generator>Hugo -- 0.124.1</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mmox.me/tags/windows-powershell/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Let&#39;s Defend - WinRAR 0-Day</title>
-      <link>https://mmox.me/posts/letsdefend/winrar0-day/</link>
-      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/letsdefend/winrar0-day/</guid>
-      <description>Digital Forensic Memory dump challenge Writeup </description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Windows Powershell on MMOX</title>
+  <link rel="alternate" href="https://mmox.me/tags/windows-powershell/" />
+  <link rel="self" href="https://mmox.me/tags/windows-powershell/index.xml" />
+  <subtitle>Recent content in Windows Powershell on MMOX</subtitle>
+  <id>https://mmox.me/tags/windows-powershell/</id>
+  <generator uri="http://gohugo.io" version="0.124.1">Hugo</generator>
+  <language>en</language>
+  <updated>2023-08-28T00:00:00Z</updated>
+  <author>
+    <name>MM0X</name>
+    
+  </author>
+  
+      <entry>
+        <title>Let&#39;s Defend - WinRAR 0-Day</title>
+        <link rel="alternate" href="https://mmox.me/posts/letsdefend/winrar0-day/" />
+        <id>https://mmox.me/posts/letsdefend/winrar0-day/</id>
+        <published>2023-08-28T00:00:00Z</published>
+        <updated>2023-08-28T00:00:00Z</updated>
+        <summary type="html">Digital Forensic Memory dump challenge Writeup </summary>
+      </entry>
+
+</feed>
+
+

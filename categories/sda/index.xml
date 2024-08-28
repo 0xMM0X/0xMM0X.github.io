@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Sda on MMOX</title>
-    <link>https://mmox.me/categories/sda/</link>
-    <description>Recent content in Sda on MMOX</description>
-    <image>
-      <title>MMOX</title>
-      <url>https://mmox.me/img/profile.png</url>
-      <link>https://mmox.me/img/profile.png</link>
-    </image>
-    <generator>Hugo -- 0.124.1</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 14 Jun 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mmox.me/categories/sda/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cyber Defenders - AzurePot</title>
-      <link>https://mmox.me/posts/writeups/azurepot/</link>
-      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/writeups/azurepot/</guid>
-      <description>This Ubuntu Linux honeypot was put online in Azure in early October to watch what happens with those exploiting CVE-2021-41773.</description>
-    </item>
-    <item>
-      <title>Cyber Defenders - Ulysses</title>
-      <link>https://mmox.me/posts/writeups/ulysses-writeup/</link>
-      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/posts/writeups/ulysses-writeup/</guid>
-      <description>A Linux server was possibly compromised and a forensic analysis is required in order to understand what really happened. Hard disk dumps and memory snapshots of the machine are provided in order to solve the challenge. </description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Sda on MMOX</title>
+  <link rel="alternate" href="https://mmox.me/categories/sda/" />
+  <link rel="self" href="https://mmox.me/categories/sda/index.xml" />
+  <subtitle>Recent content in Sda on MMOX</subtitle>
+  <id>https://mmox.me/categories/sda/</id>
+  <generator uri="http://gohugo.io" version="0.124.1">Hugo</generator>
+  <language>en</language>
+  <updated>2022-06-14T00:00:00Z</updated>
+  <author>
+    <name>MM0X</name>
+    
+  </author>
+  
+      <entry>
+        <title>Cyber Defenders - AzurePot</title>
+        <link rel="alternate" href="https://mmox.me/posts/writeups/azurepot/" />
+        <id>https://mmox.me/posts/writeups/azurepot/</id>
+        <published>2022-06-14T00:00:00Z</published>
+        <updated>2022-06-14T00:00:00Z</updated>
+        <summary type="html">This Ubuntu Linux honeypot was put online in Azure in early October to watch what happens with those exploiting CVE-2021-41773.</summary>
+      </entry>
+      <entry>
+        <title>Cyber Defenders - Ulysses</title>
+        <link rel="alternate" href="https://mmox.me/posts/writeups/ulysses-writeup/" />
+        <id>https://mmox.me/posts/writeups/ulysses-writeup/</id>
+        <published>2022-06-14T00:00:00Z</published>
+        <updated>2022-06-14T00:00:00Z</updated>
+        <summary type="html">A Linux server was possibly compromised and a forensic analysis is required in order to understand what really happened. Hard disk dumps and memory snapshots of the machine are provided in order to solve the challenge. </summary>
+      </entry>
+
+</feed>
+
+

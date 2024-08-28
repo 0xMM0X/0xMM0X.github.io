@@ -1,143 +1,163 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Categories on MMOX</title>
-    <link>https://mmox.me/categories/</link>
-    <description>Recent content in Categories on MMOX</description>
-    <image>
-      <title>MMOX</title>
-      <url>https://mmox.me/img/profile.png</url>
-      <link>https://mmox.me/img/profile.png</link>
-    </image>
-    <generator>Hugo -- 0.124.1</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 28 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mmox.me/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>DFIR</title>
-      <link>https://mmox.me/categories/dfir/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/categories/dfir/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Digital Forensics</title>
-      <link>https://mmox.me/categories/digital-forensics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/categories/digital-forensics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Roadmaps</title>
-      <link>https://mmox.me/categories/roadmaps/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/categories/roadmaps/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SOC</title>
-      <link>https://mmox.me/categories/soc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/categories/soc/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Malware Analysis</title>
-      <link>https://mmox.me/categories/malware-analysis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/categories/malware-analysis/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Writeups</title>
-      <link>https://mmox.me/categories/writeups/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/categories/writeups/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Logs</title>
-      <link>https://mmox.me/categories/logs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/categories/logs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Memory</title>
-      <link>https://mmox.me/categories/memory/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/categories/memory/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Memory Dump</title>
-      <link>https://mmox.me/categories/memory-dump/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/categories/memory-dump/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Steganography</title>
-      <link>https://mmox.me/categories/steganography/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/categories/steganography/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Disk</title>
-      <link>https://mmox.me/categories/disk/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/categories/disk/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IOS</title>
-      <link>https://mmox.me/categories/ios/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/categories/ios/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>CTF</title>
-      <link>https://mmox.me/categories/ctf/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/categories/ctf/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mobile</title>
-      <link>https://mmox.me/categories/mobile/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/categories/mobile/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sda</title>
-      <link>https://mmox.me/categories/sda/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/categories/sda/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Machines</title>
-      <link>https://mmox.me/categories/machines/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/categories/machines/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ML</title>
-      <link>https://mmox.me/categories/ml/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/categories/ml/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ransomwares</title>
-      <link>https://mmox.me/categories/ransomwares/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/categories/ransomwares/</guid>
-      <description></description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Categories on MMOX</title>
+  <link rel="alternate" href="https://mmox.me/categories/" />
+  <link rel="self" href="https://mmox.me/categories/index.xml" />
+  <subtitle>Recent content in Categories on MMOX</subtitle>
+  <id>https://mmox.me/categories/</id>
+  <generator uri="http://gohugo.io" version="0.124.1">Hugo</generator>
+  <language>en</language>
+  <updated>2024-08-28T00:00:00Z</updated>
+  <author>
+    <name>MM0X</name>
+    
+  </author>
+  
+      <entry>
+        <title>DFIR</title>
+        <link rel="alternate" href="https://mmox.me/categories/dfir/" />
+        <id>https://mmox.me/categories/dfir/</id>
+        <published>2024-08-28T00:00:00Z</published>
+        <updated>2024-08-28T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Digital Forensics</title>
+        <link rel="alternate" href="https://mmox.me/categories/digital-forensics/" />
+        <id>https://mmox.me/categories/digital-forensics/</id>
+        <published>2024-08-28T00:00:00Z</published>
+        <updated>2024-08-28T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Roadmaps</title>
+        <link rel="alternate" href="https://mmox.me/categories/roadmaps/" />
+        <id>https://mmox.me/categories/roadmaps/</id>
+        <published>2024-08-28T00:00:00Z</published>
+        <updated>2024-08-28T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>SOC</title>
+        <link rel="alternate" href="https://mmox.me/categories/soc/" />
+        <id>https://mmox.me/categories/soc/</id>
+        <published>2024-08-28T00:00:00Z</published>
+        <updated>2024-08-28T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Malware Analysis</title>
+        <link rel="alternate" href="https://mmox.me/categories/malware-analysis/" />
+        <id>https://mmox.me/categories/malware-analysis/</id>
+        <published>2024-02-12T00:00:00Z</published>
+        <updated>2024-02-12T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Writeups</title>
+        <link rel="alternate" href="https://mmox.me/categories/writeups/" />
+        <id>https://mmox.me/categories/writeups/</id>
+        <published>2024-02-12T00:00:00Z</published>
+        <updated>2024-02-12T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Logs</title>
+        <link rel="alternate" href="https://mmox.me/categories/logs/" />
+        <id>https://mmox.me/categories/logs/</id>
+        <published>2024-01-26T00:00:00Z</published>
+        <updated>2024-01-26T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Memory</title>
+        <link rel="alternate" href="https://mmox.me/categories/memory/" />
+        <id>https://mmox.me/categories/memory/</id>
+        <published>2024-01-03T00:00:00Z</published>
+        <updated>2024-01-03T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Memory Dump</title>
+        <link rel="alternate" href="https://mmox.me/categories/memory-dump/" />
+        <id>https://mmox.me/categories/memory-dump/</id>
+        <published>2023-08-28T00:00:00Z</published>
+        <updated>2023-08-28T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Steganography</title>
+        <link rel="alternate" href="https://mmox.me/categories/steganography/" />
+        <id>https://mmox.me/categories/steganography/</id>
+        <published>2023-08-28T00:00:00Z</published>
+        <updated>2023-08-28T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Disk</title>
+        <link rel="alternate" href="https://mmox.me/categories/disk/" />
+        <id>https://mmox.me/categories/disk/</id>
+        <published>2023-04-15T00:00:00Z</published>
+        <updated>2023-04-15T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>IOS</title>
+        <link rel="alternate" href="https://mmox.me/categories/ios/" />
+        <id>https://mmox.me/categories/ios/</id>
+        <published>2022-12-08T00:00:00Z</published>
+        <updated>2022-12-08T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>CTF</title>
+        <link rel="alternate" href="https://mmox.me/categories/ctf/" />
+        <id>https://mmox.me/categories/ctf/</id>
+        <published>2022-12-01T00:00:00Z</published>
+        <updated>2022-12-01T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Mobile</title>
+        <link rel="alternate" href="https://mmox.me/categories/mobile/" />
+        <id>https://mmox.me/categories/mobile/</id>
+        <published>2022-12-01T00:00:00Z</published>
+        <updated>2022-12-01T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Sda</title>
+        <link rel="alternate" href="https://mmox.me/categories/sda/" />
+        <id>https://mmox.me/categories/sda/</id>
+        <published>2022-06-14T00:00:00Z</published>
+        <updated>2022-06-14T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Machines</title>
+        <link rel="alternate" href="https://mmox.me/categories/machines/" />
+        <id>https://mmox.me/categories/machines/</id>
+        <published>2021-08-07T00:00:00Z</published>
+        <updated>2021-08-07T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>ML</title>
+        <link rel="alternate" href="https://mmox.me/categories/ml/" />
+        <id>https://mmox.me/categories/ml/</id>
+        <published>2021-05-06T00:00:00Z</published>
+        <updated>2021-05-06T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Ransomwares</title>
+        <link rel="alternate" href="https://mmox.me/categories/ransomwares/" />
+        <id>https://mmox.me/categories/ransomwares/</id>
+        <published>2021-04-06T00:00:00Z</published>
+        <updated>2021-04-06T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+
+</feed>
+
+

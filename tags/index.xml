@@ -1,241 +1,275 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Tags on MMOX</title>
-    <link>https://mmox.me/tags/</link>
-    <description>Recent content in Tags on MMOX</description>
-    <image>
-      <title>MMOX</title>
-      <url>https://mmox.me/img/profile.png</url>
-      <link>https://mmox.me/img/profile.png</link>
-    </image>
-    <generator>Hugo -- 0.124.1</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 28 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mmox.me/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>DFIR</title>
-      <link>https://mmox.me/tags/dfir/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/tags/dfir/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Digital Forensics</title>
-      <link>https://mmox.me/tags/digital-forensics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/tags/digital-forensics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Roadmaps</title>
-      <link>https://mmox.me/tags/roadmaps/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/tags/roadmaps/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SOC</title>
-      <link>https://mmox.me/tags/soc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/tags/soc/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Lets Defend</title>
-      <link>https://mmox.me/tags/lets-defend/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/tags/lets-defend/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Network</title>
-      <link>https://mmox.me/tags/network/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/tags/network/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Writeups</title>
-      <link>https://mmox.me/tags/writeups/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/tags/writeups/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Img</title>
-      <link>https://mmox.me/tags/img/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/tags/img/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Linux</title>
-      <link>https://mmox.me/tags/linux/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/tags/linux/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Memory Dump</title>
-      <link>https://mmox.me/tags/memory-dump/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/tags/memory-dump/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Windows</title>
-      <link>https://mmox.me/tags/windows/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/tags/windows/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Steganography</title>
-      <link>https://mmox.me/tags/steganography/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/tags/steganography/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>VBS</title>
-      <link>https://mmox.me/tags/vbs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/tags/vbs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Windows Powershell</title>
-      <link>https://mmox.me/tags/windows-powershell/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/tags/windows-powershell/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>CVE-2023-44487</title>
-      <link>https://mmox.me/tags/cve-2023-44487/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/tags/cve-2023-44487/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pcap</title>
-      <link>https://mmox.me/tags/pcap/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/tags/pcap/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cyberdefenders</title>
-      <link>https://mmox.me/tags/cyberdefenders/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/tags/cyberdefenders/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Memory</title>
-      <link>https://mmox.me/tags/memory/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/tags/memory/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ransomware</title>
-      <link>https://mmox.me/tags/ransomware/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/tags/ransomware/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>IOS</title>
-      <link>https://mmox.me/tags/ios/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/tags/ios/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Macros</title>
-      <link>https://mmox.me/tags/macros/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/tags/macros/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Malware Analysis</title>
-      <link>https://mmox.me/tags/malware-analysis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/tags/malware-analysis/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>CTF</title>
-      <link>https://mmox.me/tags/ctf/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/tags/ctf/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hackathon</title>
-      <link>https://mmox.me/tags/hackathon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/tags/hackathon/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Info-Sec</title>
-      <link>https://mmox.me/tags/info-sec/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/tags/info-sec/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Machines</title>
-      <link>https://mmox.me/tags/machines/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/tags/machines/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ADAM</title>
-      <link>https://mmox.me/tags/adam/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/tags/adam/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Classfication</title>
-      <link>https://mmox.me/tags/classfication/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/tags/classfication/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ML</title>
-      <link>https://mmox.me/tags/ml/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/tags/ml/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ransomwares</title>
-      <link>https://mmox.me/tags/ransomwares/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/tags/ransomwares/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ryuk</title>
-      <link>https://mmox.me/tags/ryuk/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/tags/ryuk/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>MemLabs</title>
-      <link>https://mmox.me/tags/memlabs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mmox.me/tags/memlabs/</guid>
-      <description></description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Tags on MMOX</title>
+  <link rel="alternate" href="https://mmox.me/tags/" />
+  <link rel="self" href="https://mmox.me/tags/index.xml" />
+  <subtitle>Recent content in Tags on MMOX</subtitle>
+  <id>https://mmox.me/tags/</id>
+  <generator uri="http://gohugo.io" version="0.124.1">Hugo</generator>
+  <language>en</language>
+  <updated>2024-08-28T00:00:00Z</updated>
+  <author>
+    <name>MM0X</name>
+    
+  </author>
+  
+      <entry>
+        <title>DFIR</title>
+        <link rel="alternate" href="https://mmox.me/tags/dfir/" />
+        <id>https://mmox.me/tags/dfir/</id>
+        <published>2024-08-28T00:00:00Z</published>
+        <updated>2024-08-28T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Digital Forensics</title>
+        <link rel="alternate" href="https://mmox.me/tags/digital-forensics/" />
+        <id>https://mmox.me/tags/digital-forensics/</id>
+        <published>2024-08-28T00:00:00Z</published>
+        <updated>2024-08-28T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Roadmaps</title>
+        <link rel="alternate" href="https://mmox.me/tags/roadmaps/" />
+        <id>https://mmox.me/tags/roadmaps/</id>
+        <published>2024-08-28T00:00:00Z</published>
+        <updated>2024-08-28T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>SOC</title>
+        <link rel="alternate" href="https://mmox.me/tags/soc/" />
+        <id>https://mmox.me/tags/soc/</id>
+        <published>2024-08-28T00:00:00Z</published>
+        <updated>2024-08-28T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Lets Defend</title>
+        <link rel="alternate" href="https://mmox.me/tags/lets-defend/" />
+        <id>https://mmox.me/tags/lets-defend/</id>
+        <published>2024-02-12T00:00:00Z</published>
+        <updated>2024-02-12T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Network</title>
+        <link rel="alternate" href="https://mmox.me/tags/network/" />
+        <id>https://mmox.me/tags/network/</id>
+        <published>2024-02-12T00:00:00Z</published>
+        <updated>2024-02-12T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Writeups</title>
+        <link rel="alternate" href="https://mmox.me/tags/writeups/" />
+        <id>https://mmox.me/tags/writeups/</id>
+        <published>2024-02-12T00:00:00Z</published>
+        <updated>2024-02-12T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Img</title>
+        <link rel="alternate" href="https://mmox.me/tags/img/" />
+        <id>https://mmox.me/tags/img/</id>
+        <published>2024-01-26T00:00:00Z</published>
+        <updated>2024-01-26T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Linux</title>
+        <link rel="alternate" href="https://mmox.me/tags/linux/" />
+        <id>https://mmox.me/tags/linux/</id>
+        <published>2024-01-26T00:00:00Z</published>
+        <updated>2024-01-26T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Memory Dump</title>
+        <link rel="alternate" href="https://mmox.me/tags/memory-dump/" />
+        <id>https://mmox.me/tags/memory-dump/</id>
+        <published>2024-01-03T00:00:00Z</published>
+        <updated>2024-01-03T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Windows</title>
+        <link rel="alternate" href="https://mmox.me/tags/windows/" />
+        <id>https://mmox.me/tags/windows/</id>
+        <published>2024-01-03T00:00:00Z</published>
+        <updated>2024-01-03T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Steganography</title>
+        <link rel="alternate" href="https://mmox.me/tags/steganography/" />
+        <id>https://mmox.me/tags/steganography/</id>
+        <published>2023-08-28T00:00:00Z</published>
+        <updated>2023-08-28T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>VBS</title>
+        <link rel="alternate" href="https://mmox.me/tags/vbs/" />
+        <id>https://mmox.me/tags/vbs/</id>
+        <published>2023-08-28T00:00:00Z</published>
+        <updated>2023-08-28T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Windows Powershell</title>
+        <link rel="alternate" href="https://mmox.me/tags/windows-powershell/" />
+        <id>https://mmox.me/tags/windows-powershell/</id>
+        <published>2023-08-28T00:00:00Z</published>
+        <updated>2023-08-28T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>CVE-2023-44487</title>
+        <link rel="alternate" href="https://mmox.me/tags/cve-2023-44487/" />
+        <id>https://mmox.me/tags/cve-2023-44487/</id>
+        <published>2023-07-06T00:00:00Z</published>
+        <updated>2023-07-06T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Pcap</title>
+        <link rel="alternate" href="https://mmox.me/tags/pcap/" />
+        <id>https://mmox.me/tags/pcap/</id>
+        <published>2023-07-06T00:00:00Z</published>
+        <updated>2023-07-06T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Cyberdefenders</title>
+        <link rel="alternate" href="https://mmox.me/tags/cyberdefenders/" />
+        <id>https://mmox.me/tags/cyberdefenders/</id>
+        <published>2023-04-15T00:00:00Z</published>
+        <updated>2023-04-15T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Memory</title>
+        <link rel="alternate" href="https://mmox.me/tags/memory/" />
+        <id>https://mmox.me/tags/memory/</id>
+        <published>2023-04-13T00:00:00Z</published>
+        <updated>2023-04-13T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Ransomware</title>
+        <link rel="alternate" href="https://mmox.me/tags/ransomware/" />
+        <id>https://mmox.me/tags/ransomware/</id>
+        <published>2023-04-13T00:00:00Z</published>
+        <updated>2023-04-13T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>IOS</title>
+        <link rel="alternate" href="https://mmox.me/tags/ios/" />
+        <id>https://mmox.me/tags/ios/</id>
+        <published>2022-12-08T00:00:00Z</published>
+        <updated>2022-12-08T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Macros</title>
+        <link rel="alternate" href="https://mmox.me/tags/macros/" />
+        <id>https://mmox.me/tags/macros/</id>
+        <published>2022-12-06T00:00:00Z</published>
+        <updated>2022-12-06T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Malware Analysis</title>
+        <link rel="alternate" href="https://mmox.me/tags/malware-analysis/" />
+        <id>https://mmox.me/tags/malware-analysis/</id>
+        <published>2022-12-06T00:00:00Z</published>
+        <updated>2022-12-06T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>CTF</title>
+        <link rel="alternate" href="https://mmox.me/tags/ctf/" />
+        <id>https://mmox.me/tags/ctf/</id>
+        <published>2022-12-01T00:00:00Z</published>
+        <updated>2022-12-01T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Hackathon</title>
+        <link rel="alternate" href="https://mmox.me/tags/hackathon/" />
+        <id>https://mmox.me/tags/hackathon/</id>
+        <published>2021-08-07T00:00:00Z</published>
+        <updated>2021-08-07T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Info-Sec</title>
+        <link rel="alternate" href="https://mmox.me/tags/info-sec/" />
+        <id>https://mmox.me/tags/info-sec/</id>
+        <published>2021-08-07T00:00:00Z</published>
+        <updated>2021-08-07T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Machines</title>
+        <link rel="alternate" href="https://mmox.me/tags/machines/" />
+        <id>https://mmox.me/tags/machines/</id>
+        <published>2021-08-07T00:00:00Z</published>
+        <updated>2021-08-07T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>ADAM</title>
+        <link rel="alternate" href="https://mmox.me/tags/adam/" />
+        <id>https://mmox.me/tags/adam/</id>
+        <published>2021-05-06T00:00:00Z</published>
+        <updated>2021-05-06T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Classfication</title>
+        <link rel="alternate" href="https://mmox.me/tags/classfication/" />
+        <id>https://mmox.me/tags/classfication/</id>
+        <published>2021-05-06T00:00:00Z</published>
+        <updated>2021-05-06T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>ML</title>
+        <link rel="alternate" href="https://mmox.me/tags/ml/" />
+        <id>https://mmox.me/tags/ml/</id>
+        <published>2021-05-06T00:00:00Z</published>
+        <updated>2021-05-06T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Ransomwares</title>
+        <link rel="alternate" href="https://mmox.me/tags/ransomwares/" />
+        <id>https://mmox.me/tags/ransomwares/</id>
+        <published>2021-04-06T00:00:00Z</published>
+        <updated>2021-04-06T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Ryuk</title>
+        <link rel="alternate" href="https://mmox.me/tags/ryuk/" />
+        <id>https://mmox.me/tags/ryuk/</id>
+        <published>2021-04-06T00:00:00Z</published>
+        <updated>2021-04-06T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>MemLabs</title>
+        <link rel="alternate" href="https://mmox.me/tags/memlabs/" />
+        <id>https://mmox.me/tags/memlabs/</id>
+        <published>2021-03-01T00:00:00Z</published>
+        <updated>2021-03-01T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+
+</feed>
+
+
