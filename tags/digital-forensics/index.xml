@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.124.1</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mmox.me/tags/digital-forensics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DFIR &amp; SOC - Roadmap (From Zero To Hero)</title>
+      <link>https://mmox.me/posts/dfir/dfir-and-soc-roadmap/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://mmox.me/posts/dfir/dfir-and-soc-roadmap/</guid>
+      <description>The &amp;#39;SOC &amp;amp; DFIR Roadmap&amp;#39; is a structured guide for those pursuing careers in Security Operations Center (SOC) analysis and Digital Forensics and Incident Response (DFIR). It provides a clear learning path from basic cybersecurity and networking concepts to advanced topics like threat management and malware analysis. With a mix of free and paid resources, plus practical exercises, this roadmap helps build essential skills and hands-on experience for success in SOC and DFIR roles.</description>
+    </item>
     <item>
       <title>Let&#39;s Defend - PCAP Analysis</title>
       <link>https://mmox.me/posts/letsdefend/pcap-analysis/</link>
