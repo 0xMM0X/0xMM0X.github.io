@@ -1,4 +1,17 @@
 const gridData = [
+{
+    imageSrc: "./images/sysmon.png",
+    title: "Log Analysis With Sysmon",
+    details: [
+      "Published On: Let's Defend",
+      "Type: Logs",
+      "Questions: 8",
+      "Difficulty: Easy",
+    ],
+    buttonText: "Try The Lab",
+    buttonLink: "https://app.letsdefend.io/challenge/log-analysis-with-sysmon",
+    isVIP: false,
+  },
   {
     imageSrc: "./images/bf-challenge.png",
     title: "Brute Force Attacks",
