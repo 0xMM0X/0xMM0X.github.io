@@ -7,7 +7,7 @@
   <id>https://mmox.me/categories/</id>
   <generator uri="http://gohugo.io" version="0.124.1">Hugo</generator>
   <language>en</language>
-  <updated>2024-02-12T00:00:00Z</updated>
+  <updated>2024-08-28T00:00:00Z</updated>
   <author>
     <name>MM0X</name>
     
@@ -17,16 +17,32 @@
         <title>DFIR</title>
         <link rel="alternate" href="https://mmox.me/categories/dfir/" />
         <id>https://mmox.me/categories/dfir/</id>
-        <published>2024-02-12T00:00:00Z</published>
-        <updated>2024-02-12T00:00:00Z</updated>
+        <published>2024-08-28T00:00:00Z</published>
+        <updated>2024-08-28T00:00:00Z</updated>
         <summary type="html"></summary>
       </entry>
       <entry>
         <title>Digital Forensics</title>
         <link rel="alternate" href="https://mmox.me/categories/digital-forensics/" />
         <id>https://mmox.me/categories/digital-forensics/</id>
-        <published>2024-02-12T00:00:00Z</published>
-        <updated>2024-02-12T00:00:00Z</updated>
+        <published>2024-08-28T00:00:00Z</published>
+        <updated>2024-08-28T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Roadmaps</title>
+        <link rel="alternate" href="https://mmox.me/categories/roadmaps/" />
+        <id>https://mmox.me/categories/roadmaps/</id>
+        <published>2024-08-28T00:00:00Z</published>
+        <updated>2024-08-28T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>SOC</title>
+        <link rel="alternate" href="https://mmox.me/categories/soc/" />
+        <id>https://mmox.me/categories/soc/</id>
+        <published>2024-08-28T00:00:00Z</published>
+        <updated>2024-08-28T00:00:00Z</updated>
         <summary type="html"></summary>
       </entry>
       <entry>

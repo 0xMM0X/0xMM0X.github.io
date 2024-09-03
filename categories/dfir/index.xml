@@ -7,12 +7,22 @@
   <id>https://mmox.me/categories/dfir/</id>
   <generator uri="http://gohugo.io" version="0.124.1">Hugo</generator>
   <language>en</language>
-  <updated>2024-02-12T00:00:00Z</updated>
+  <updated>2024-08-28T00:00:00Z</updated>
   <author>
     <name>MM0X</name>
     
   </author>
   
+      <entry>
+        <title>DFIR &amp; SOC - Roadmap (From Zero To Hero)</title>
+        <link rel="alternate" href="https://mmox.me/posts/dfir/dfir-and-soc-roadmap/" />
+        <id>https://mmox.me/posts/dfir/dfir-and-soc-roadmap/</id>
+        <published>2024-08-28T00:00:00Z</published>
+        <updated>2024-08-28T00:00:00Z</updated>
+        <summary type="html">SOC &amp;amp; DFIR Roadmap Introduction I know—you’ve seen countless roadmaps for starting a cybersecurity career. But let’s face it: any path can get you there if you stick with it.
+Here’s my suggested route to help you stay on track and avoid getting lost.
+Zero Level: Building the Foundation If you&amp;rsquo;re starting out in cybersecurity, you&amp;rsquo;ve probably heard you need to know a bit of everything. But to really excel, it&amp;rsquo;s essential to understand how systems work from all angles—grasp the basics, how data moves across networks, and get to know operating systems inside out.</summary>
+      </entry>
       <entry>
         <title>Let&#39;s Defend - PCAP Analysis</title>
         <link rel="alternate" href="https://mmox.me/posts/letsdefend/pcap-analysis/" />
