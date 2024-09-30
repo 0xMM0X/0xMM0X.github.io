@@ -1,5 +1,17 @@
 const gridData = [
 {
+    imageSrc: "./images/Python.png",
+    title: "Suspicious Python Package",
+    details: [
+      "Published On: Let's Defend",
+      "Type: Windows Disk Image",
+      "Questions: 9",
+      "Difficulty: Hard",
+    ],
+    buttonText: "Try The Lab",
+    buttonLink: "https://app.letsdefend.io/challenge/suspicious-python-package",
+    isVIP: false,
+  },{
     imageSrc: "./images/sysmon.png",
     title: "Log Analysis With Sysmon",
     details: [
