@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Roadmaps on MMOX</title>
+  <title>Roadmaps on MMOX Blog</title>
   <link rel="alternate" href="https://mmox.me/tags/roadmaps/" />
   <link rel="self" href="https://mmox.me/tags/roadmaps/index.xml" />
-  <subtitle>Recent content in Roadmaps on MMOX</subtitle>
+  <subtitle>Recent content in Roadmaps on MMOX Blog</subtitle>
   <id>https://mmox.me/tags/roadmaps/</id>
   <generator uri="http://gohugo.io" version="0.131.0">Hugo</generator>
   <language>en</language>

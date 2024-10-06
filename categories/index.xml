@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Categories on MMOX</title>
+  <title>Categories on MMOX Blog</title>
   <link rel="alternate" href="https://mmox.me/categories/" />
   <link rel="self" href="https://mmox.me/categories/index.xml" />
-  <subtitle>Recent content in Categories on MMOX</subtitle>
+  <subtitle>Recent content in Categories on MMOX Blog</subtitle>
   <id>https://mmox.me/categories/</id>
   <generator uri="http://gohugo.io" version="0.131.0">Hugo</generator>
   <language>en</language>

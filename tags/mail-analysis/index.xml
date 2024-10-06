@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Mail Analysis on MMOX</title>
+  <title>Mail Analysis on MMOX Blog</title>
   <link rel="alternate" href="http://localhost:1313/tags/mail-analysis/" />
   <link rel="self" href="http://localhost:1313/tags/mail-analysis/index.xml" />
-  <subtitle>Recent content in Mail Analysis on MMOX</subtitle>
+  <subtitle>Recent content in Mail Analysis on MMOX Blog</subtitle>
   <id>http://localhost:1313/tags/mail-analysis/</id>
   <generator uri="http://gohugo.io" version="0.131.0">Hugo</generator>
   <language>en</language>

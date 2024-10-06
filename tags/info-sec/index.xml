@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Info-Sec on MMOX</title>
+  <title>Info-Sec on MMOX Blog</title>
   <link rel="alternate" href="https://mmox.me/tags/info-sec/" />
   <link rel="self" href="https://mmox.me/tags/info-sec/index.xml" />
-  <subtitle>Recent content in Info-Sec on MMOX</subtitle>
+  <subtitle>Recent content in Info-Sec on MMOX Blog</subtitle>
   <id>https://mmox.me/tags/info-sec/</id>
   <generator uri="http://gohugo.io" version="0.131.0">Hugo</generator>
   <language>en</language>

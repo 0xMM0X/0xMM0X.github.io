@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Logs on MMOX</title>
+  <title>Logs on MMOX Blog</title>
   <link rel="alternate" href="https://mmox.me/categories/logs/" />
   <link rel="self" href="https://mmox.me/categories/logs/index.xml" />
-  <subtitle>Recent content in Logs on MMOX</subtitle>
+  <subtitle>Recent content in Logs on MMOX Blog</subtitle>
   <id>https://mmox.me/categories/logs/</id>
   <generator uri="http://gohugo.io" version="0.131.0">Hugo</generator>
   <language>en</language>

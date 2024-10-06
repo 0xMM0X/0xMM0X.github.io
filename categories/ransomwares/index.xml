@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Ransomwares on MMOX</title>
+  <title>Ransomwares on MMOX Blog</title>
   <link rel="alternate" href="https://mmox.me/categories/ransomwares/" />
   <link rel="self" href="https://mmox.me/categories/ransomwares/index.xml" />
-  <subtitle>Recent content in Ransomwares on MMOX</subtitle>
+  <subtitle>Recent content in Ransomwares on MMOX Blog</subtitle>
   <id>https://mmox.me/categories/ransomwares/</id>
   <generator uri="http://gohugo.io" version="0.131.0">Hugo</generator>
   <language>en</language>

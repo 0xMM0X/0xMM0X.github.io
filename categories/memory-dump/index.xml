@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Memory Dump on MMOX</title>
+  <title>Memory Dump on MMOX Blog</title>
   <link rel="alternate" href="https://mmox.me/categories/memory-dump/" />
   <link rel="self" href="https://mmox.me/categories/memory-dump/index.xml" />
-  <subtitle>Recent content in Memory Dump on MMOX</subtitle>
+  <subtitle>Recent content in Memory Dump on MMOX Blog</subtitle>
   <id>https://mmox.me/categories/memory-dump/</id>
   <generator uri="http://gohugo.io" version="0.131.0">Hugo</generator>
   <language>en</language>

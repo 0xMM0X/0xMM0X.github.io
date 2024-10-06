@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Steganography on MMOX</title>
+  <title>Steganography on MMOX Blog</title>
   <link rel="alternate" href="https://mmox.me/categories/steganography/" />
   <link rel="self" href="https://mmox.me/categories/steganography/index.xml" />
-  <subtitle>Recent content in Steganography on MMOX</subtitle>
+  <subtitle>Recent content in Steganography on MMOX Blog</subtitle>
   <id>https://mmox.me/categories/steganography/</id>
   <generator uri="http://gohugo.io" version="0.131.0">Hugo</generator>
   <language>en</language>
