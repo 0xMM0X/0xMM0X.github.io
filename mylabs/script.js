@@ -1,5 +1,17 @@
 const gridData = [
-{
+  {
+    imageSrc: "./images/KernelExploit.jpeg",
+    title: "Kernel Exploit",
+    details: [
+      "Published On: Let's Defend",
+      "Type: Linux Triage Image",
+      "Questions: 8",
+      "Difficulty: Easy",
+    ],
+    buttonText: "Try The Lab",
+    buttonLink: "https://app.letsdefend.io/challenge/kernel-exploit",
+    isVIP: false,
+  },{
     imageSrc: "./images/Python.png",
     title: "Suspicious Python Package",
     details: [
