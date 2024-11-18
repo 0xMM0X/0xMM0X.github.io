@@ -7,12 +7,20 @@
   <id>https://mmox.me/categories/soc/</id>
   <generator uri="http://gohugo.io" version="0.131.0">Hugo</generator>
   <language>en</language>
-  <updated>2024-08-28T00:00:00Z</updated>
+  <updated>2024-11-18T00:00:00Z</updated>
   <author>
     <name>MM0X</name>
     
   </author>
   
+      <entry>
+        <title>Important Event IDs for SOC Analysts</title>
+        <link rel="alternate" href="https://mmox.me/posts/dfir/important-event-ids/" />
+        <id>https://mmox.me/posts/dfir/important-event-ids/</id>
+        <published>2024-11-18T00:00:00Z</published>
+        <updated>2024-11-18T00:00:00Z</updated>
+        <summary type="html">Important Event IDs for SOC Analysts System Log Event IDs Service Control Manager Events Event ID 7000: The service failed to start due to the following error&amp;hellip; Event ID 7001: The service depends on the service which failed to start&amp;hellip; Event ID 7034: The service terminated unexpectedly&amp;hellip; Event ID 7040: The start type of the service was changed from&amp;hellip; Event ID 7045: A service was installed in the system. System Shutdown and Startup Events Event ID 6005: The Event Log service was started.</summary>
+      </entry>
       <entry>
         <title>DFIR &amp; SOC - Roadmap (From Zero To Hero)</title>
         <link rel="alternate" href="https://mmox.me/posts/dfir/dfir-and-soc-roadmap/" />

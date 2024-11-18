@@ -7,40 +7,48 @@
   <id>https://mmox.me/tags/</id>
   <generator uri="http://gohugo.io" version="0.131.0">Hugo</generator>
   <language>en</language>
-  <updated>2024-08-28T00:00:00Z</updated>
+  <updated>2024-11-18T00:00:00Z</updated>
   <author>
     <name>MM0X</name>
     
   </author>
   
       <entry>
+        <title>CheatCheats</title>
+        <link rel="alternate" href="https://mmox.me/tags/cheatcheats/" />
+        <id>https://mmox.me/tags/cheatcheats/</id>
+        <published>2024-11-18T00:00:00Z</published>
+        <updated>2024-11-18T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
         <title>DFIR</title>
         <link rel="alternate" href="https://mmox.me/tags/dfir/" />
         <id>https://mmox.me/tags/dfir/</id>
-        <published>2024-08-28T00:00:00Z</published>
-        <updated>2024-08-28T00:00:00Z</updated>
+        <published>2024-11-18T00:00:00Z</published>
+        <updated>2024-11-18T00:00:00Z</updated>
         <summary type="html"></summary>
       </entry>
       <entry>
         <title>Digital Forensics</title>
         <link rel="alternate" href="https://mmox.me/tags/digital-forensics/" />
         <id>https://mmox.me/tags/digital-forensics/</id>
-        <published>2024-08-28T00:00:00Z</published>
-        <updated>2024-08-28T00:00:00Z</updated>
-        <summary type="html"></summary>
-      </entry>
-      <entry>
-        <title>Roadmaps</title>
-        <link rel="alternate" href="https://mmox.me/tags/roadmaps/" />
-        <id>https://mmox.me/tags/roadmaps/</id>
-        <published>2024-08-28T00:00:00Z</published>
-        <updated>2024-08-28T00:00:00Z</updated>
+        <published>2024-11-18T00:00:00Z</published>
+        <updated>2024-11-18T00:00:00Z</updated>
         <summary type="html"></summary>
       </entry>
       <entry>
         <title>SOC</title>
         <link rel="alternate" href="https://mmox.me/tags/soc/" />
         <id>https://mmox.me/tags/soc/</id>
+        <published>2024-11-18T00:00:00Z</published>
+        <updated>2024-11-18T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Roadmaps</title>
+        <link rel="alternate" href="https://mmox.me/tags/roadmaps/" />
+        <id>https://mmox.me/tags/roadmaps/</id>
         <published>2024-08-28T00:00:00Z</published>
         <updated>2024-08-28T00:00:00Z</updated>
         <summary type="html"></summary>

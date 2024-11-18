@@ -3,42 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://mmox.me/categories/</loc>
-    <lastmod>2024-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/tags/cheatcheats/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/categories/cheatcheats/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmox.me/tags/dfir/</loc>
-    <lastmod>2024-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmox.me/categories/dfir/</loc>
-    <lastmod>2024-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mmox.me/posts/dfir/dfir-and-soc-roadmap/</loc>
-    <lastmod>2024-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmox.me/tags/digital-forensics/</loc>
-    <lastmod>2024-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmox.me/categories/digital-forensics/</loc>
-    <lastmod>2024-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/posts/dfir/important-event-ids/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmox.me/</loc>
-    <lastmod>2024-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmox.me/posts/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/tags/soc/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/categories/soc/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/tags/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mmox.me/posts/dfir/dfir-and-soc-roadmap/</loc>
     <lastmod>2024-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmox.me/tags/roadmaps/</loc>
     <lastmod>2024-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmox.me/categories/roadmaps/</loc>
-    <lastmod>2024-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mmox.me/tags/soc/</loc>
-    <lastmod>2024-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mmox.me/categories/soc/</loc>
-    <lastmod>2024-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mmox.me/tags/</loc>
     <lastmod>2024-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mmox.me/posts/letsdefend/pcap-analysis/</loc>
