@@ -1,5 +1,17 @@
 const gridData = [
   {
+    imageSrc: "./images/Browser Exploit.jpg",
+    title: "Browser Exploit",
+    details: [
+      "Published On: Let's Defend",
+      "Type: Windows Triage Image",
+      "Questions: 8",
+      "Difficulty: Easy",
+    ],
+    buttonText: "Try The Lab",
+    buttonLink: "https://app.letsdefend.io/challenge/browser-exploit",
+    isVIP: false,
+  },{
     imageSrc: "./images/KernelExploit.jpeg",
     title: "Kernel Exploit",
     details: [
