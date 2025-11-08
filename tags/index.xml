@@ -7,12 +7,44 @@
   <id>https://mmox.me/tags/</id>
   <generator uri="http://gohugo.io" version="0.131.0">Hugo</generator>
   <language>en</language>
-  <updated>2024-11-18T00:00:00Z</updated>
+  <updated>2025-11-08T00:00:00Z</updated>
   <author>
     <name>MM0X</name>
     
   </author>
   
+      <entry>
+        <title>CyCTF2025</title>
+        <link rel="alternate" href="https://mmox.me/tags/cyctf2025/" />
+        <id>https://mmox.me/tags/cyctf2025/</id>
+        <published>2025-11-08T00:00:00Z</published>
+        <updated>2025-11-08T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Digital Forensics</title>
+        <link rel="alternate" href="https://mmox.me/tags/digital-forensics/" />
+        <id>https://mmox.me/tags/digital-forensics/</id>
+        <published>2025-11-08T00:00:00Z</published>
+        <updated>2025-11-08T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Memory</title>
+        <link rel="alternate" href="https://mmox.me/tags/memory/" />
+        <id>https://mmox.me/tags/memory/</id>
+        <published>2025-11-08T00:00:00Z</published>
+        <updated>2025-11-08T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Writeups</title>
+        <link rel="alternate" href="https://mmox.me/tags/writeups/" />
+        <id>https://mmox.me/tags/writeups/</id>
+        <published>2025-11-08T00:00:00Z</published>
+        <updated>2025-11-08T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
       <entry>
         <title>CheatCheats</title>
         <link rel="alternate" href="https://mmox.me/tags/cheatcheats/" />
@@ -25,14 +57,6 @@
         <title>DFIR</title>
         <link rel="alternate" href="https://mmox.me/tags/dfir/" />
         <id>https://mmox.me/tags/dfir/</id>
-        <published>2024-11-18T00:00:00Z</published>
-        <updated>2024-11-18T00:00:00Z</updated>
-        <summary type="html"></summary>
-      </entry>
-      <entry>
-        <title>Digital Forensics</title>
-        <link rel="alternate" href="https://mmox.me/tags/digital-forensics/" />
-        <id>https://mmox.me/tags/digital-forensics/</id>
         <published>2024-11-18T00:00:00Z</published>
         <updated>2024-11-18T00:00:00Z</updated>
         <summary type="html"></summary>
@@ -65,14 +89,6 @@
         <title>Network</title>
         <link rel="alternate" href="https://mmox.me/tags/network/" />
         <id>https://mmox.me/tags/network/</id>
-        <published>2024-02-12T00:00:00Z</published>
-        <updated>2024-02-12T00:00:00Z</updated>
-        <summary type="html"></summary>
-      </entry>
-      <entry>
-        <title>Writeups</title>
-        <link rel="alternate" href="https://mmox.me/tags/writeups/" />
-        <id>https://mmox.me/tags/writeups/</id>
         <published>2024-02-12T00:00:00Z</published>
         <updated>2024-02-12T00:00:00Z</updated>
         <summary type="html"></summary>
@@ -155,14 +171,6 @@
         <id>https://mmox.me/tags/cyberdefenders/</id>
         <published>2023-04-15T00:00:00Z</published>
         <updated>2023-04-15T00:00:00Z</updated>
-        <summary type="html"></summary>
-      </entry>
-      <entry>
-        <title>Memory</title>
-        <link rel="alternate" href="https://mmox.me/tags/memory/" />
-        <id>https://mmox.me/tags/memory/</id>
-        <published>2023-04-13T00:00:00Z</published>
-        <updated>2023-04-13T00:00:00Z</updated>
         <summary type="html"></summary>
       </entry>
       <entry>

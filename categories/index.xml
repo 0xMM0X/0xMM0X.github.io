@@ -7,32 +7,48 @@
   <id>https://mmox.me/categories/</id>
   <generator uri="http://gohugo.io" version="0.131.0">Hugo</generator>
   <language>en</language>
-  <updated>2024-11-18T00:00:00Z</updated>
+  <updated>2025-11-08T00:00:00Z</updated>
   <author>
     <name>MM0X</name>
     
   </author>
   
       <entry>
-        <title>CheatCheats</title>
-        <link rel="alternate" href="https://mmox.me/categories/cheatcheats/" />
-        <id>https://mmox.me/categories/cheatcheats/</id>
-        <published>2024-11-18T00:00:00Z</published>
-        <updated>2024-11-18T00:00:00Z</updated>
-        <summary type="html"></summary>
-      </entry>
-      <entry>
         <title>DFIR</title>
         <link rel="alternate" href="https://mmox.me/categories/dfir/" />
         <id>https://mmox.me/categories/dfir/</id>
-        <published>2024-11-18T00:00:00Z</published>
-        <updated>2024-11-18T00:00:00Z</updated>
+        <published>2025-11-08T00:00:00Z</published>
+        <updated>2025-11-08T00:00:00Z</updated>
         <summary type="html"></summary>
       </entry>
       <entry>
         <title>Digital Forensics</title>
         <link rel="alternate" href="https://mmox.me/categories/digital-forensics/" />
         <id>https://mmox.me/categories/digital-forensics/</id>
+        <published>2025-11-08T00:00:00Z</published>
+        <updated>2025-11-08T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Malware Analysis</title>
+        <link rel="alternate" href="https://mmox.me/categories/malware-analysis/" />
+        <id>https://mmox.me/categories/malware-analysis/</id>
+        <published>2025-11-08T00:00:00Z</published>
+        <updated>2025-11-08T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Writeups</title>
+        <link rel="alternate" href="https://mmox.me/categories/writeups/" />
+        <id>https://mmox.me/categories/writeups/</id>
+        <published>2025-11-08T00:00:00Z</published>
+        <updated>2025-11-08T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>CheatCheats</title>
+        <link rel="alternate" href="https://mmox.me/categories/cheatcheats/" />
+        <id>https://mmox.me/categories/cheatcheats/</id>
         <published>2024-11-18T00:00:00Z</published>
         <updated>2024-11-18T00:00:00Z</updated>
         <summary type="html"></summary>
@@ -51,22 +67,6 @@
         <id>https://mmox.me/categories/roadmaps/</id>
         <published>2024-08-28T00:00:00Z</published>
         <updated>2024-08-28T00:00:00Z</updated>
-        <summary type="html"></summary>
-      </entry>
-      <entry>
-        <title>Malware Analysis</title>
-        <link rel="alternate" href="https://mmox.me/categories/malware-analysis/" />
-        <id>https://mmox.me/categories/malware-analysis/</id>
-        <published>2024-02-12T00:00:00Z</published>
-        <updated>2024-02-12T00:00:00Z</updated>
-        <summary type="html"></summary>
-      </entry>
-      <entry>
-        <title>Writeups</title>
-        <link rel="alternate" href="https://mmox.me/categories/writeups/" />
-        <id>https://mmox.me/categories/writeups/</id>
-        <published>2024-02-12T00:00:00Z</published>
-        <updated>2024-02-12T00:00:00Z</updated>
         <summary type="html"></summary>
       </entry>
       <entry>
