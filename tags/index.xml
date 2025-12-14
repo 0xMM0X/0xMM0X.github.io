@@ -7,24 +7,72 @@
   <id>https://mmox.me/tags/</id>
   <generator uri="http://gohugo.io" version="0.131.0">Hugo</generator>
   <language>en</language>
-  <updated>2025-11-08T00:00:00Z</updated>
+  <updated>2025-12-14T00:00:00Z</updated>
   <author>
     <name>MM0X</name>
     
   </author>
   
       <entry>
-        <title>CyCTF2025</title>
-        <link rel="alternate" href="https://mmox.me/tags/cyctf2025/" />
-        <id>https://mmox.me/tags/cyctf2025/</id>
-        <published>2025-11-08T00:00:00Z</published>
-        <updated>2025-11-08T00:00:00Z</updated>
+        <title>BTHMEA</title>
+        <link rel="alternate" href="https://mmox.me/tags/bthmea/" />
+        <id>https://mmox.me/tags/bthmea/</id>
+        <published>2025-12-14T00:00:00Z</published>
+        <updated>2025-12-14T00:00:00Z</updated>
         <summary type="html"></summary>
       </entry>
       <entry>
         <title>Digital Forensics</title>
         <link rel="alternate" href="https://mmox.me/tags/digital-forensics/" />
         <id>https://mmox.me/tags/digital-forensics/</id>
+        <published>2025-12-14T00:00:00Z</published>
+        <updated>2025-12-14T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Memory Dump</title>
+        <link rel="alternate" href="https://mmox.me/tags/memory-dump/" />
+        <id>https://mmox.me/tags/memory-dump/</id>
+        <published>2025-12-14T00:00:00Z</published>
+        <updated>2025-12-14T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Pcap</title>
+        <link rel="alternate" href="https://mmox.me/tags/pcap/" />
+        <id>https://mmox.me/tags/pcap/</id>
+        <published>2025-12-14T00:00:00Z</published>
+        <updated>2025-12-14T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>ReverseEngineering</title>
+        <link rel="alternate" href="https://mmox.me/tags/reverseengineering/" />
+        <id>https://mmox.me/tags/reverseengineering/</id>
+        <published>2025-12-14T00:00:00Z</published>
+        <updated>2025-12-14T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Windows</title>
+        <link rel="alternate" href="https://mmox.me/tags/windows/" />
+        <id>https://mmox.me/tags/windows/</id>
+        <published>2025-12-14T00:00:00Z</published>
+        <updated>2025-12-14T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Writeups</title>
+        <link rel="alternate" href="https://mmox.me/tags/writeups/" />
+        <id>https://mmox.me/tags/writeups/</id>
+        <published>2025-12-14T00:00:00Z</published>
+        <updated>2025-12-14T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>CyCTF2025</title>
+        <link rel="alternate" href="https://mmox.me/tags/cyctf2025/" />
+        <id>https://mmox.me/tags/cyctf2025/</id>
         <published>2025-11-08T00:00:00Z</published>
         <updated>2025-11-08T00:00:00Z</updated>
         <summary type="html"></summary>
@@ -49,14 +97,6 @@
         <title>WMI</title>
         <link rel="alternate" href="https://mmox.me/tags/wmi/" />
         <id>https://mmox.me/tags/wmi/</id>
-        <published>2025-11-08T00:00:00Z</published>
-        <updated>2025-11-08T00:00:00Z</updated>
-        <summary type="html"></summary>
-      </entry>
-      <entry>
-        <title>Writeups</title>
-        <link rel="alternate" href="https://mmox.me/tags/writeups/" />
-        <id>https://mmox.me/tags/writeups/</id>
         <published>2025-11-08T00:00:00Z</published>
         <updated>2025-11-08T00:00:00Z</updated>
         <summary type="html"></summary>
@@ -126,22 +166,6 @@
         <summary type="html"></summary>
       </entry>
       <entry>
-        <title>Memory Dump</title>
-        <link rel="alternate" href="https://mmox.me/tags/memory-dump/" />
-        <id>https://mmox.me/tags/memory-dump/</id>
-        <published>2024-01-03T00:00:00Z</published>
-        <updated>2024-01-03T00:00:00Z</updated>
-        <summary type="html"></summary>
-      </entry>
-      <entry>
-        <title>Windows</title>
-        <link rel="alternate" href="https://mmox.me/tags/windows/" />
-        <id>https://mmox.me/tags/windows/</id>
-        <published>2024-01-03T00:00:00Z</published>
-        <updated>2024-01-03T00:00:00Z</updated>
-        <summary type="html"></summary>
-      </entry>
-      <entry>
         <title>Steganography</title>
         <link rel="alternate" href="https://mmox.me/tags/steganography/" />
         <id>https://mmox.me/tags/steganography/</id>
@@ -169,14 +193,6 @@
         <title>CVE-2023-44487</title>
         <link rel="alternate" href="https://mmox.me/tags/cve-2023-44487/" />
         <id>https://mmox.me/tags/cve-2023-44487/</id>
-        <published>2023-07-06T00:00:00Z</published>
-        <updated>2023-07-06T00:00:00Z</updated>
-        <summary type="html"></summary>
-      </entry>
-      <entry>
-        <title>Pcap</title>
-        <link rel="alternate" href="https://mmox.me/tags/pcap/" />
-        <id>https://mmox.me/tags/pcap/</id>
         <published>2023-07-06T00:00:00Z</published>
         <updated>2023-07-06T00:00:00Z</updated>
         <summary type="html"></summary>
