@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>PCAP on MMOX Blog</title>
+  <title>Pcap on MMOX Blog</title>
   <link rel="alternate" href="https://mmox.me/tags/pcap/" />
   <link rel="self" href="https://mmox.me/tags/pcap/index.xml" />
-  <subtitle>Recent content in PCAP on MMOX Blog</subtitle>
+  <subtitle>Recent content in Pcap on MMOX Blog</subtitle>
   <id>https://mmox.me/tags/pcap/</id>
   <generator uri="http://gohugo.io" version="0.131.0">Hugo</generator>
   <language>en</language>
@@ -17,22 +17,6 @@
         <title>Black Hat Finals: Digital Forensics Challenge</title>
         <link rel="alternate" href="https://mmox.me/posts/bh-mea/bh-mea-finals---forensics-writeup/" />
         <id>https://mmox.me/posts/bh-mea/bh-mea-finals---forensics-writeup/</id>
-        <published>2025-12-14T00:00:00Z</published>
-        <updated>2025-12-14T00:00:00Z</updated>
-        <summary type="html">This write-up presents a deep dive into the Black Hat Finals all forensics Challenges</summary>
-      </entry>
-      <entry>
-        <title>Black Hat Finals: Digital Forensics Challenge</title>
-        <link rel="alternate" href="https://mmox.me/posts/bth-mea-finals---forensics-writeup/" />
-        <id>https://mmox.me/posts/bth-mea-finals---forensics-writeup/</id>
-        <published>2025-12-14T00:00:00Z</published>
-        <updated>2025-12-14T00:00:00Z</updated>
-        <summary type="html">This write-up presents a deep dive into the Black Hat Finals all forensics Challenges</summary>
-      </entry>
-      <entry>
-        <title>Black Hat Finals: Digital Forensics Challenge</title>
-        <link rel="alternate" href="https://mmox.me/posts/writeups/bth-mea-finals---forensics-writeup/" />
-        <id>https://mmox.me/posts/writeups/bth-mea-finals---forensics-writeup/</id>
         <published>2025-12-14T00:00:00Z</published>
         <updated>2025-12-14T00:00:00Z</updated>
         <summary type="html">This write-up presents a deep dive into the Black Hat Finals all forensics Challenges</summary>
