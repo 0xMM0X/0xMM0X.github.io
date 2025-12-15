@@ -1,25 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Docker on MMOX Blog</title>
-  <link rel="alternate" href="http://localhost:1313/tags/docker/" />
-  <link rel="self" href="http://localhost:1313/tags/docker/index.xml" />
+  <link rel="alternate" href="https://mmox.me/tags/docker/" />
+  <link rel="self" href="https://mmox.me/tags/docker/index.xml" />
   <subtitle>Recent content in Docker on MMOX Blog</subtitle>
-  <id>http://localhost:1313/tags/docker/</id>
+  <id>https://mmox.me/tags/docker/</id>
   <generator uri="http://gohugo.io" version="0.131.0">Hugo</generator>
   <language>en</language>
-  <updated>2023-06-06T00:00:00Z</updated>
+  <updated>2025-12-14T00:00:00Z</updated>
   <author>
     <name>MM0X</name>
     
   </author>
   
       <entry>
-        <title>Let&#39;s Defend - Docker Forensics</title>
-        <link rel="alternate" href="http://localhost:1313/posts/letsdefend/dockerforensics/" />
-        <id>http://localhost:1313/posts/letsdefend/dockerforensics/</id>
-        <published>2023-06-06T00:00:00Z</published>
-        <updated>2023-06-06T00:00:00Z</updated>
-        <summary type="html">Digital Forensic Docker challenge Writeup </summary>
+        <title>Black Hat Finals: Digital Forensics Challenge</title>
+        <link rel="alternate" href="https://mmox.me/posts/bh-mea/bh-mea-finals---forensics-writeup/" />
+        <id>https://mmox.me/posts/bh-mea/bh-mea-finals---forensics-writeup/</id>
+        <published>2025-12-14T00:00:00Z</published>
+        <updated>2025-12-14T00:00:00Z</updated>
+        <summary type="html">This write-up presents a deep dive into the Black Hat Finals all forensics Challenges</summary>
+      </entry>
+      <entry>
+        <title>Black Hat Finals: Digital Forensics Challenge</title>
+        <link rel="alternate" href="https://mmox.me/posts/bth-mea-finals---forensics-writeup/" />
+        <id>https://mmox.me/posts/bth-mea-finals---forensics-writeup/</id>
+        <published>2025-12-14T00:00:00Z</published>
+        <updated>2025-12-14T00:00:00Z</updated>
+        <summary type="html">This write-up presents a deep dive into the Black Hat Finals all forensics Challenges</summary>
+      </entry>
+      <entry>
+        <title>Black Hat Finals: Digital Forensics Challenge</title>
+        <link rel="alternate" href="https://mmox.me/posts/writeups/bth-mea-finals---forensics-writeup/" />
+        <id>https://mmox.me/posts/writeups/bth-mea-finals---forensics-writeup/</id>
+        <published>2025-12-14T00:00:00Z</published>
+        <updated>2025-12-14T00:00:00Z</updated>
+        <summary type="html">This write-up presents a deep dive into the Black Hat Finals all forensics Challenges</summary>
       </entry>
 
 </feed>

@@ -14,12 +14,28 @@
   </author>
   
       <entry>
-        <title>Black Hat Finals: Digital Forensics Challenge – Day 1</title>
-        <link rel="alternate" href="https://mmox.me/posts/blackhatema-forensics/day1/" />
-        <id>https://mmox.me/posts/blackhatema-forensics/day1/</id>
+        <title>Black Hat Finals: Digital Forensics Challenge</title>
+        <link rel="alternate" href="https://mmox.me/posts/bh-mea/bh-mea-finals---forensics-writeup/" />
+        <id>https://mmox.me/posts/bh-mea/bh-mea-finals---forensics-writeup/</id>
         <published>2025-12-14T00:00:00Z</published>
         <updated>2025-12-14T00:00:00Z</updated>
-        <summary type="html">This write-up presents a deep dive into the Black Hat Finals – Day 1 Forensics challenges, focusing exclusively on forensic analysis. The challenges required end-to-end investigation across network traffic analysis, memory forensics, malware reverse engineering, and cryptographic payload decryption.</summary>
+        <summary type="html">This write-up presents a deep dive into the Black Hat Finals all forensics Challenges</summary>
+      </entry>
+      <entry>
+        <title>Black Hat Finals: Digital Forensics Challenge</title>
+        <link rel="alternate" href="https://mmox.me/posts/bth-mea-finals---forensics-writeup/" />
+        <id>https://mmox.me/posts/bth-mea-finals---forensics-writeup/</id>
+        <published>2025-12-14T00:00:00Z</published>
+        <updated>2025-12-14T00:00:00Z</updated>
+        <summary type="html">This write-up presents a deep dive into the Black Hat Finals all forensics Challenges</summary>
+      </entry>
+      <entry>
+        <title>Black Hat Finals: Digital Forensics Challenge</title>
+        <link rel="alternate" href="https://mmox.me/posts/writeups/bth-mea-finals---forensics-writeup/" />
+        <id>https://mmox.me/posts/writeups/bth-mea-finals---forensics-writeup/</id>
+        <published>2025-12-14T00:00:00Z</published>
+        <updated>2025-12-14T00:00:00Z</updated>
+        <summary type="html">This write-up presents a deep dive into the Black Hat Finals all forensics Challenges</summary>
       </entry>
       <entry>
         <title>CyCTF2025 Qual DFIR Official writeup</title>

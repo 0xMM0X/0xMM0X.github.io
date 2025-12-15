@@ -7,12 +7,36 @@
   <id>https://mmox.me/categories/disk/</id>
   <generator uri="http://gohugo.io" version="0.131.0">Hugo</generator>
   <language>en</language>
-  <updated>2023-04-15T00:00:00Z</updated>
+  <updated>2025-12-14T00:00:00Z</updated>
   <author>
     <name>MM0X</name>
     
   </author>
   
+      <entry>
+        <title>Black Hat Finals: Digital Forensics Challenge</title>
+        <link rel="alternate" href="https://mmox.me/posts/bh-mea/bh-mea-finals---forensics-writeup/" />
+        <id>https://mmox.me/posts/bh-mea/bh-mea-finals---forensics-writeup/</id>
+        <published>2025-12-14T00:00:00Z</published>
+        <updated>2025-12-14T00:00:00Z</updated>
+        <summary type="html">This write-up presents a deep dive into the Black Hat Finals all forensics Challenges</summary>
+      </entry>
+      <entry>
+        <title>Black Hat Finals: Digital Forensics Challenge</title>
+        <link rel="alternate" href="https://mmox.me/posts/bth-mea-finals---forensics-writeup/" />
+        <id>https://mmox.me/posts/bth-mea-finals---forensics-writeup/</id>
+        <published>2025-12-14T00:00:00Z</published>
+        <updated>2025-12-14T00:00:00Z</updated>
+        <summary type="html">This write-up presents a deep dive into the Black Hat Finals all forensics Challenges</summary>
+      </entry>
+      <entry>
+        <title>Black Hat Finals: Digital Forensics Challenge</title>
+        <link rel="alternate" href="https://mmox.me/posts/writeups/bth-mea-finals---forensics-writeup/" />
+        <id>https://mmox.me/posts/writeups/bth-mea-finals---forensics-writeup/</id>
+        <published>2025-12-14T00:00:00Z</published>
+        <updated>2025-12-14T00:00:00Z</updated>
+        <summary type="html">This write-up presents a deep dive into the Black Hat Finals all forensics Challenges</summary>
+      </entry>
       <entry>
         <title>Cyber Defenders - Sysinternals</title>
         <link rel="alternate" href="https://mmox.me/posts/writeups/sysinternals/" />
