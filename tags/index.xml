@@ -38,9 +38,25 @@
         <summary type="html"></summary>
       </entry>
       <entry>
+        <title>Log Analysis</title>
+        <link rel="alternate" href="https://mmox.me/tags/log-analysis/" />
+        <id>https://mmox.me/tags/log-analysis/</id>
+        <published>2025-12-14T00:00:00Z</published>
+        <updated>2025-12-14T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
         <title>Memory Dump</title>
         <link rel="alternate" href="https://mmox.me/tags/memory-dump/" />
         <id>https://mmox.me/tags/memory-dump/</id>
+        <published>2025-12-14T00:00:00Z</published>
+        <updated>2025-12-14T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>MFT</title>
+        <link rel="alternate" href="https://mmox.me/tags/mft/" />
+        <id>https://mmox.me/tags/mft/</id>
         <published>2025-12-14T00:00:00Z</published>
         <updated>2025-12-14T00:00:00Z</updated>
         <summary type="html"></summary>
@@ -57,6 +73,22 @@
         <title>ReverseEngineering</title>
         <link rel="alternate" href="https://mmox.me/tags/reverseengineering/" />
         <id>https://mmox.me/tags/reverseengineering/</id>
+        <published>2025-12-14T00:00:00Z</published>
+        <updated>2025-12-14T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>Shadow Copies</title>
+        <link rel="alternate" href="https://mmox.me/tags/shadow-copies/" />
+        <id>https://mmox.me/tags/shadow-copies/</id>
+        <published>2025-12-14T00:00:00Z</published>
+        <updated>2025-12-14T00:00:00Z</updated>
+        <summary type="html"></summary>
+      </entry>
+      <entry>
+        <title>SQL Auditing</title>
+        <link rel="alternate" href="https://mmox.me/tags/sql-auditing/" />
+        <id>https://mmox.me/tags/sql-auditing/</id>
         <published>2025-12-14T00:00:00Z</published>
         <updated>2025-12-14T00:00:00Z</updated>
         <summary type="html"></summary>
